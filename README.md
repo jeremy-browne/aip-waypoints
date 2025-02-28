@@ -26,7 +26,7 @@ Many official AIP documents provide waypoints in **PDF format**, which is diffic
 2. **Ensure the file contains VFR waypoints** in the expected format. Use only the VFR Waypoints page of AIP, don't try and parse any other section of the document.
 3. **Run the script**:
    ```bash
-   python main.py
+   python extract-and-convert.py [PATH TO PDF]
    ```
 4. The extracted waypoints will be saved to `waypoints_filtered.csv`.
 
