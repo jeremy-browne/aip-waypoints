@@ -1,0 +1,1 @@
+This folder contains the output from AIP converted to both CSV format, and KML for loading into google earth.

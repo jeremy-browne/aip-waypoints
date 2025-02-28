@@ -172,5 +172,3 @@ cython_debug/
 
 # Ignore pdfs and csvs
 *.pdf
-*.csv
-*.kml
