@@ -1,24 +1,29 @@
 # **AIP Waypoints Extractor**
 
-This tool extracts **VFR waypoints** from an **AIP (Aeronautical Information Publication) PDF** and converts them into structured **CSV format**.
+This tool extracts **VFR waypoints** from an **AIP (Aeronautical Information Publication) PDF**, **generates separate CSV files per Australian State**, and also **creates three KML files** per state.
 
 ## **Overview**
-Many official AIP documents provide waypoints in **PDF format**, which is difficult to work with programmatically. This script automates the process of **extracting, cleaning, and structuring** waypoint data from the PDF into a **machine-readable format**.
+Many official AIP documents provide waypoints in **PDF format**, which is difficult to work with programmatically. This script automates the process of:
+
+1. **Extracting, cleaning, and structuring** waypoint data into a **machine-readable format**.  
+2. **Grouping** waypoints by state and saving them into **CSV files**.  
+3. **Generating KML** versions for each state (labels by Name, Code, and Code-Name).
 
 ## **Features**
-✔ Extracts **waypoint name, state, code, latitude, and longitude**  
-✔ Filters out **unnecessary headers and page numbers**  
-✔ Outputs **clean CSV data** for easy use in other applications  
+✔ **Extracts** waypoint name, state, code, latitude, and longitude from a PDF  
+✔ **Groups** data by state into separate CSV files  
+✔ **Generates** three KML files per state for easy viewing in Google Earth  
+✔ **Filters out** unnecessary headers and page numbers  
 
 ## **Installation**
-Ensure you have **Python 3.8+** installed, then install dependencies:
-```bash
-pip install pdfplumber pandas
-```
+1. Ensure you have **Python 3.8+** installed.
+2. Install dependencies:
+   ```bash
+   pip install pdfplumber pandas
 
 ## **Usage**
-1. **Obtain the AIP waypoints PDF** (from official sources).
-2. **Ensure the file contains VFR waypoints** in the expected format.
+1. **Obtain the Waypoints from AIP ERSA VFR - GEN** (from official sources).
+2. **Ensure the file contains VFR waypoints** in the expected format. Use only the VFR Waypoints page of AIP, don't try and parse any other section of the document.
 3. **Run the script**:
    ```bash
    python main.py
@@ -35,7 +40,8 @@ pip install pdfplumber pandas
 ## **Notes**
 - The script assumes the **standard AIP format** for VFR waypoints.
 - If the output is missing waypoints, the formatting in the PDF may vary slightly.
-- Modify the filtering conditions in `main.py` if necessary.
+- Modify the filtering conditions in `extract-and-convert.py` if necessary.
+- Extracted data is available in the waypoints_by_state directory, as both csv and kml files.
 
 ## **Contributing**
 Feel free to open issues or submit pull requests if you have improvements!
