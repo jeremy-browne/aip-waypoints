@@ -1,2 +1,110 @@
-<?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>BIDG</name><description>Waypoint: BIDGEE 1</description><Point><coordinates>149.01555555555555,-35.35777777777778,0</coordinates></Point></Placemark><Placemark><name>BDGE</name><description>Waypoint: BIDGEE 2</description><Point><coordinates>149.05444444444444,-35.44972222222222,0</coordinates></Point></Placemark><Placemark><name>BKM</name><description>Waypoint: BLACK MT</description><Point><coordinates>149.1,-35.275,0</coordinates></Point></Placemark><Placemark><name>RCSE</name><description>Waypoint: CANBERRA RACECOURSE</description><Point><coordinates>149.13666666666666,-35.23833333333334,0</coordinates></Point></Placemark><Placemark><name>CPNG</name><description>Waypoint: COPPINS CROSSING</description><Point><coordinates>149.04333333333332,-35.288333333333334,0</coordinates></Point></Placemark><Placemark><name>CVR</name><description>Waypoint: CORIN RESV</description><Point><coordinates>148.83333333333334,-35.541666666666664,0</coordinates></Point></Placemark><Placemark><name>COTR</name><description>Waypoint: COTTER</description><Point><coordinates>148.99166666666665,-35.338055555555556,0</coordinates></Point></Placemark><Placemark><name>HALL</name><description>Waypoint: HALL</description><Point><coordinates>149.06833333333333,-35.16833333333333,0</coordinates></Point></Placemark><Placemark><name>LGDA</name><description>Waypoint: LAKE GININDERRA</description><Point><coordinates>149.06833333333333,-35.233333333333334,0</coordinates></Point></Placemark><Placemark><name>TCR</name><description>Waypoint: MOUNT COREE</description><Point><coordinates>148.80972222222223,-35.30833333333333,0</coordinates></Point></Placemark><Placemark><name>MTM</name><description>Waypoint: MOUNT MUGGA</description><Point><coordinates>149.12916666666666,-35.35416666666667,0</coordinates></Point></Placemark><Placemark><name>MUM</name><description>Waypoint: MOUNT STROMLO</description><Point><coordinates>149.00833333333333,-35.31666666666667,0</coordinates></Point></Placemark><Placemark><name>MTLR</name><description>Waypoint: MOUNT TAYLOR</description><Point><coordinates>149.07666666666665,-35.373333333333335,0</coordinates></Point></Placemark><Placemark><name>THAW</name><description>Waypoint: THARWA</description><Point><coordinates>149.06666666666666,-35.50833333333333,0</coordinates></Point></Placemark><Placemark><name>TGC</name><description>Waypoint: TUGGERANONG TOWN CENTRE</description><Point><coordinates>149.06666666666666,-35.416666666666664,0</coordinates></Point></Placemark></Document></kml>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>BIDG</name>
+      <description>Waypoint: BIDGEE 1</description>
+      <Point>
+        <coordinates>149.01555555555555,-35.35777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BDGE</name>
+      <description>Waypoint: BIDGEE 2</description>
+      <Point>
+        <coordinates>149.05444444444444,-35.44972222222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BKM</name>
+      <description>Waypoint: BLACK MT</description>
+      <Point>
+        <coordinates>149.1,-35.275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RCSE</name>
+      <description>Waypoint: CANBERRA RACECOURSE</description>
+      <Point>
+        <coordinates>149.13666666666666,-35.23833333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CPNG</name>
+      <description>Waypoint: COPPINS CROSSING</description>
+      <Point>
+        <coordinates>149.04333333333332,-35.288333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CVR</name>
+      <description>Waypoint: CORIN RESV</description>
+      <Point>
+        <coordinates>148.83333333333334,-35.541666666666664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>COTR</name>
+      <description>Waypoint: COTTER</description>
+      <Point>
+        <coordinates>148.99166666666665,-35.338055555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HALL</name>
+      <description>Waypoint: HALL</description>
+      <Point>
+        <coordinates>149.06833333333333,-35.16833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LGDA</name>
+      <description>Waypoint: LAKE GININDERRA</description>
+      <Point>
+        <coordinates>149.06833333333333,-35.233333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TCR</name>
+      <description>Waypoint: MOUNT COREE</description>
+      <Point>
+        <coordinates>148.80972222222223,-35.30833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTM</name>
+      <description>Waypoint: MOUNT MUGGA</description>
+      <Point>
+        <coordinates>149.12916666666666,-35.35416666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUM</name>
+      <description>Waypoint: MOUNT STROMLO</description>
+      <Point>
+        <coordinates>149.00833333333333,-35.31666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTLR</name>
+      <description>Waypoint: MOUNT TAYLOR</description>
+      <Point>
+        <coordinates>149.07666666666665,-35.373333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>THAW</name>
+      <description>Waypoint: THARWA</description>
+      <Point>
+        <coordinates>149.06666666666666,-35.50833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TGC</name>
+      <description>Waypoint: TUGGERANONG TOWN CENTRE</description>
+      <Point>
+        <coordinates>149.06666666666666,-35.416666666666664,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

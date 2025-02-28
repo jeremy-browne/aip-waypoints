@@ -1,2 +1,2546 @@
-<?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>TVT</name><description>Waypoint: ABM TV TOWERS</description><Point><coordinates>152.91666666666666,-27.474999999999998,0</coordinates></Point></Placemark><Placemark><name>ANI</name><description>Waypoint: ACHERON ISLAND</description><Point><coordinates>146.6361111111111,-18.961111111111112,0</coordinates></Point></Placemark><Placemark><name>ACLD</name><description>Waypoint: ACLAND</description><Point><coordinates>151.6888888888889,-27.304166666666667,0</coordinates></Point></Placemark><Placemark><name>ADI</name><description>Waypoint: ADMIRALTY ISLAND</description><Point><coordinates>145.775,-16.983333333333334,0</coordinates></Point></Placemark><Placemark><name>ALBA</name><description>Waypoint: ALOOMBA</description><Point><coordinates>145.83333333333334,-17.105,0</coordinates></Point></Placemark><Placemark><name>ANP</name><description>Waypoint: ANTILL PLAINS</description><Point><coordinates>146.83333333333334,-19.433333333333334,0</coordinates></Point></Placemark><Placemark><name>ARCD</name><description>Waypoint: ARCADIA HS</description><Point><coordinates>138.06666666666666,-20.866666666666667,0</coordinates></Point></Placemark><Placemark><name>AEN</name><description>Waypoint: ARDENT</description><Point><coordinates>152.57833333333332,-26.778333333333332,0</coordinates></Point></Placemark><Placemark><name>ATN</name><description>Waypoint: ATHERTON</description><Point><coordinates>145.50833333333333,-17.258333333333333,0</coordinates></Point></Placemark><Placemark><name>BADA</name><description>Waypoint: BABINDA</description><Point><coordinates>145.92499999999998,-17.341666666666665,0</coordinates></Point></Placemark><Placemark><name>BLHS</name><description>Waypoint: BALD HILLS MAST</description><Point><coordinates>153.01611111111112,-27.313055555555557,0</coordinates></Point></Placemark><Placemark><name>BSL</name><description>Waypoint: BARNES HILL</description><Point><coordinates>152.1,-27.2,0</coordinates></Point></Placemark><Placemark><name>BRGE</name><description>Waypoint: BARRON GORGE</description><Point><coordinates>145.65,-16.85,0</coordinates></Point></Placemark><Placemark><name>BCM</name><description>Waypoint: BEACHMERE</description><Point><coordinates>153.05,-27.116666666666667,0</coordinates></Point></Placemark><Placemark><name>BENT</name><description>Waypoint: BEECHMONT</description><Point><coordinates>153.2,-28.133333333333333,0</coordinates></Point></Placemark><Placemark><name>BESI</name><description>Waypoint: BESSIE POINT</description><Point><coordinates>145.81333333333333,-16.903333333333332,0</coordinates></Point></Placemark><Placemark><name>BDTN</name><description>Waypoint: BIDDESTON</description><Point><coordinates>151.71666666666667,-27.558333333333334,0</coordinates></Point></Placemark><Placemark><name>BIBA</name><description>Waypoint: BINGIL BAY</description><Point><coordinates>146.1013888888889,-17.82777777777778,0</coordinates></Point></Placemark><Placemark><name>BCT</name><description>Waypoint: BLACK MT</description><Point><coordinates>149.09583333333333,-21.069444444444443,0</coordinates></Point></Placemark><Placemark><name>BKIS</name><description>Waypoint: BLACKSMITH ISLAND</description><Point><coordinates>149.06666666666666,-20.633333333333333,0</coordinates></Point></Placemark><Placemark><name>BLIC</name><description>Waypoint: BLI BLI CASTLE</description><Point><coordinates>153.03333333333333,-26.625,0</coordinates></Point></Placemark><Placemark><name>BGN</name><description>Waypoint: BOGANTUNGAN</description><Point><coordinates>147.3,-23.65,0</coordinates></Point></Placemark><Placemark><name>BUVY</name><description>Waypoint: BOND UNIVERSITY</description><Point><coordinates>153.41,-28.076666666666668,0</coordinates></Point></Placemark><Placemark><name>BONG</name><description>Waypoint: BONGAREE</description><Point><coordinates>153.18333333333334,-27.083333333333332,0</coordinates></Point></Placemark><Placemark><name>BOON</name><description>Waypoint: BOONDALL ENTERTAINMENT CENTRE</description><Point><coordinates>153.08416666666668,-27.341666666666665,0</coordinates></Point></Placemark><Placemark><name>BOAR</name><description>Waypoint: BORUMBA RESV</description><Point><coordinates>152.58333333333334,-26.508333333333333,0</coordinates></Point></Placemark><Placemark><name>BOWN</name><description>Waypoint: BOWEN</description><Point><coordinates>148.24166666666665,-20.016666666666666,0</coordinates></Point></Placemark><Placemark><name>BWV</name><description>Waypoint: BOWENVILLE</description><Point><coordinates>151.48749999999998,-27.305555555555557,0</coordinates></Point></Placemark><Placemark><name>BPI</name><description>Waypoint: BRAMPTON ISLAND</description><Point><coordinates>149.26666666666668,-20.805555555555557,0</coordinates></Point></Placemark><Placemark><name>BBBG</name><description>Waypoint: BRIBIE BRIDGE</description><Point><coordinates>153.1461111111111,-27.07361111111111,0</coordinates></Point></Placemark><Placemark><name>BBI</name><description>Waypoint: BRIBIE ISLAND</description><Point><coordinates>153.14305555555555,-27.00027777777778,0</coordinates></Point></Placemark><Placemark><name>BRIN</name><description>Waypoint: BRINSMEAD</description><Point><coordinates>145.70833333333331,-16.90833333333333,0</coordinates></Point></Placemark><Placemark><name>BCTY</name><description>Waypoint: BRISBANE CBD</description><Point><coordinates>153.03333333333333,-27.466666666666665,0</coordinates></Point></Placemark><Placemark><name>BNCG</name><description>Waypoint: BRISBANE CRICKET GROUND</description><Point><coordinates>153.03805555555556,-27.485833333333336,0</coordinates></Point></Placemark><Placemark><name>BUCP</name><description>Waypoint: BUCHAN PT</description><Point><coordinates>145.66777777777776,-16.73611111111111,0</coordinates></Point></Placemark><Placemark><name>BLGH</name><description>Waypoint: BURLEIGH HEADS</description><Point><coordinates>153.45833333333331,-28.090833333333332,0</coordinates></Point></Placemark><Placemark><name>CBLT</name><description>Waypoint: CABLEWAY TERMINAL</description><Point><coordinates>145.69166666666666,-16.848333333333333,0</coordinates></Point></Placemark><Placemark><name>CABO</name><description>Waypoint: CABOOLTURE</description><Point><coordinates>152.95,-27.0875,0</coordinates></Point></Placemark><Placemark><name>CALN</name><description>Waypoint: CALEN</description><Point><coordinates>148.76944444444445,-20.9,0</coordinates></Point></Placemark><Placemark><name>CRDZ</name><description>Waypoint: CALOUNDRA DROPZONE</description><Point><coordinates>153.10999999999999,-26.8,0</coordinates></Point></Placemark><Placemark><name>CALT</name><description>Waypoint: CALTEX REFINERY</description><Point><coordinates>153.15833333333333,-27.415,0</coordinates></Point></Placemark><Placemark><name>CLVT</name><description>Waypoint: CALVERT</description><Point><coordinates>152.51583333333335,-27.66361111111111,0</coordinates></Point></Placemark><Placemark><name>CAV</name><description>Waypoint: CANNONVALE</description><Point><coordinates>148.69166666666666,-20.27777777777778,0</coordinates></Point></Placemark><Placemark><name>CCL</name><description>Waypoint: CAPE CLEVELAND</description><Point><coordinates>147.0125,-19.183333333333334,0</coordinates></Point></Placemark><Placemark><name>CPY</name><description>Waypoint: CAPE CONWAY</description><Point><coordinates>148.92777777777778,-20.53611111111111,0</coordinates></Point></Placemark><Placemark><name>CGF</name><description>Waypoint: CAPE GRAFTON</description><Point><coordinates>145.91666666666666,-16.86388888888889,0</coordinates></Point></Placemark><Placemark><name>CPH</name><description>Waypoint: CAPE HILLSBOROUGH</description><Point><coordinates>149.04444444444445,-20.905555555555555,0</coordinates></Point></Placemark><Placemark><name>CPMN</name><description>Waypoint: CAPE MORETON</description><Point><coordinates>153.46666666666667,-27.033333333333335,0</coordinates></Point></Placemark><Placemark><name>CDNA</name><description>Waypoint: CARDONA</description><Point><coordinates>149.0,-23.333333333333332,0</coordinates></Point></Placemark><Placemark><name>CARIN</name><description>Waypoint: CARINDALE SHOPPING CENTRE</description><Point><coordinates>153.1011111111111,-27.5,0</coordinates></Point></Placemark><Placemark><name>CRPT</name><description>Waypoint: CASTLEREAGH POINT</description><Point><coordinates>153.11138888888888,-27.192222222222224,0</coordinates></Point></Placemark><Placemark><name>CCP</name><description>Waypoint: CECIL PLAINS</description><Point><coordinates>151.18333333333334,-27.533333333333335,0</coordinates></Point></Placemark><Placemark><name>CBRG</name><description>Waypoint: CENTENARY BRIDGE</description><Point><coordinates>152.94666666666666,-27.5275,0</coordinates></Point></Placemark><Placemark><name>CIH</name><description>Waypoint: CID HARBOUR</description><Point><coordinates>148.93333333333334,-20.25,0</coordinates></Point></Placemark><Placemark><name>CEN</name><description>Waypoint: CLEVEDON</description><Point><coordinates>147.02083333333334,-19.395833333333332,0</coordinates></Point></Placemark><Placemark><name>CVD</name><description>Waypoint: CLEVELAND</description><Point><coordinates>153.28333333333333,-27.519444444444442,0</coordinates></Point></Placemark><Placemark><name>CGH</name><description>Waypoint: CLONAGH STN</description><Point><coordinates>140.68333333333334,-20.133333333333333,0</coordinates></Point></Placemark><Placemark><name>CLOY</name><description>Waypoint: CLONEYS CREEK</description><Point><coordinates>142.6,-20.216666666666665,0</coordinates></Point></Placemark><Placemark><name>CBYC</name><description>Waypoint: COOBY CREEK RESV</description><Point><coordinates>151.9388888888889,-27.38611111111111,0</coordinates></Point></Placemark><Placemark><name>CMDR</name><description>Waypoint: COOLMUNDA RESV</description><Point><coordinates>151.23333333333332,-28.45,0</coordinates></Point></Placemark><Placemark><name>COOL</name><description>Waypoint: COOLUM HI-RISE</description><Point><coordinates>153.08722222222224,-26.52777777777778,0</coordinates></Point></Placemark><Placemark><name>CORO</name><description>Waypoint: COOROY</description><Point><coordinates>152.90833333333333,-26.416666666666668,0</coordinates></Point></Placemark><Placemark><name>CPL</name><description>Waypoint: COPPERLODE DAM</description><Point><coordinates>145.67083333333332,-16.98611111111111,0</coordinates></Point></Placemark><Placemark><name>COWI</name><description>Waypoint: COW ISLAND</description><Point><coordinates>148.84472222222223,-20.422777777777778,0</coordinates></Point></Placemark><Placemark><name>CNT</name><description>Waypoint: CROWS NEST</description><Point><coordinates>152.05555555555557,-27.269444444444442,0</coordinates></Point></Placemark><Placemark><name>DAIN</name><description>Waypoint: DAINTREE</description><Point><coordinates>145.31666666666666,-16.25,0</coordinates></Point></Placemark><Placemark><name>DRY</name><description>Waypoint: DALRYE</description><Point><coordinates>149.06666666666666,-20.166666666666668,0</coordinates></Point></Placemark><Placemark><name>DBO</name><description>Waypoint: DAYBORO</description><Point><coordinates>152.82083333333333,-27.2,0</coordinates></Point></Placemark><Placemark><name>DNP</name><description>Waypoint: DENHAM PASSAGE</description><Point><coordinates>143.33333333333334,-11.333333333333334,0</coordinates></Point></Placemark><Placemark><name>DIBE</name><description>Waypoint: DICKY BEACH</description><Point><coordinates>153.13888888888889,-26.781944444444445,0</coordinates></Point></Placemark><Placemark><name>DOP</name><description>Waypoint: DONNINGTON AIRPARK</description><Point><coordinates>146.84166666666667,-19.601666666666667,0</coordinates></Point></Placemark><Placemark><name>DOOM</name><description>Waypoint: DOOMBEN RACECOURSE</description><Point><coordinates>153.07,-27.42666666666667,0</coordinates></Point></Placemark><Placemark><name>DCIS</name><description>Waypoint: DOUBLE CONE ISLAND</description><Point><coordinates>148.71666666666667,-20.1,0</coordinates></Point></Placemark><Placemark><name>DOU</name><description>Waypoint: DOUBLE ISLAND</description><Point><coordinates>145.68333333333334,-16.724999999999998,0</coordinates></Point></Placemark><Placemark><name>DLP</name><description>Waypoint: DOUBLE ISLAND PT</description><Point><coordinates>153.18333333333334,-25.916666666666668,0</coordinates></Point></Placemark><Placemark><name>DBPT</name><description>Waypoint: DOUBLE PT</description><Point><coordinates>142.9,-11.866666666666667,0</coordinates></Point></Placemark><Placemark><name>DRLD</name><description>Waypoint: DREAMWORLD</description><Point><coordinates>153.31666666666666,-27.865000000000002,0</coordinates></Point></Placemark><Placemark><name>DAG</name><description>Waypoint: DUARINGA</description><Point><coordinates>149.6688888888889,-23.720555555555553,0</coordinates></Point></Placemark><Placemark><name>DONG</name><description>Waypoint: DURONG</description><Point><coordinates>151.25,-26.4,0</coordinates></Point></Placemark><Placemark><name>EARH</name><description>Waypoint: EARL HILL</description><Point><coordinates>145.7,-16.8,0</coordinates></Point></Placemark><Placemark><name>EARV</name><description>Waypoint: EARLVILLE</description><Point><coordinates>145.73833333333332,-16.955,0</coordinates></Point></Placemark><Placemark><name>EDT</name><description>Waypoint: EDMONTON</description><Point><coordinates>145.73055555555555,-17.025,0</coordinates></Point></Placemark><Placemark><name>EDOR</name><description>Waypoint: ENDEAVOUR REEF</description><Point><coordinates>145.56666666666666,-15.783333333333333,0</coordinates></Point></Placemark><Placemark><name>ETON</name><description>Waypoint: ETON</description><Point><coordinates>148.97222222222223,-21.266666666666666,0</coordinates></Point></Placemark><Placemark><name>EMI</name><description>Waypoint: EUMUNDI</description><Point><coordinates>152.95277777777775,-26.480555555555554,0</coordinates></Point></Placemark><Placemark><name>EMD</name><description>Waypoint: EWEN MADDOCK DAM</description><Point><coordinates>153.00833333333333,-26.77777777777778,0</coordinates></Point></Placemark><Placemark><name>FCP</name><description>Waypoint: FALSE CAPE</description><Point><coordinates>145.85,-16.875,0</coordinates></Point></Placemark><Placemark><name>FNVL</name><description>Waypoint: FERNVALE</description><Point><coordinates>152.65277777777777,-27.454166666666666,0</coordinates></Point></Placemark><Placemark><name>FISH</name><description>Waypoint: FISHERMANS ISLAND</description><Point><coordinates>153.17666666666665,-27.386666666666667,0</coordinates></Point></Placemark><Placemark><name>FID</name><description>Waypoint: FITZROY ISLAND</description><Point><coordinates>145.99166666666665,-16.933333333333334,0</coordinates></Point></Placemark><Placemark><name>FPK</name><description>Waypoint: FLINDERS PEAK</description><Point><coordinates>152.80833333333334,-27.816666666666666,0</coordinates></Point></Placemark><Placemark><name>FMN</name><description>Waypoint: FORMARTIN</description><Point><coordinates>151.40833333333333,-27.395833333333332,0</coordinates></Point></Placemark><Placemark><name>FRWV</name><description>Waypoint: FRESHWATER VALLEY</description><Point><coordinates>145.68833333333333,-16.95,0</coordinates></Point></Placemark><Placemark><name>GGN</name><description>Waypoint: GALLANGOWAN</description><Point><coordinates>152.32916666666665,-26.43277777777778,0</coordinates></Point></Placemark><Placemark><name>GAE</name><description>Waypoint: GALLILEE</description><Point><coordinates>145.98333333333332,-22.383333333333333,0</coordinates></Point></Placemark><Placemark><name>GWB</name><description>Waypoint: GATEWAY BRIDGE</description><Point><coordinates>153.1,-27.445833333333333,0</coordinates></Point></Placemark><Placemark><name>GNR</name><description>Waypoint: GIBSON REEF</description><Point><coordinates>146.35,-17.316666666666666,0</coordinates></Point></Placemark><Placemark><name>GIM</name><description>Waypoint: GILBERLAND MINE</description><Point><coordinates>143.6,-19.3,0</coordinates></Point></Placemark><Placemark><name>GIRU</name><description>Waypoint: GIRU</description><Point><coordinates>147.10555555555555,-19.5125,0</coordinates></Point></Placemark><Placemark><name>GMN</name><description>Waypoint: GLENMORGAN</description><Point><coordinates>149.68333333333334,-27.25,0</coordinates></Point></Placemark><Placemark><name>GRK</name><description>Waypoint: GLENROCK HS</description><Point><coordinates>145.08333333333334,-15.116666666666667,0</coordinates></Point></Placemark><Placemark><name>GOI</name><description>Waypoint: GOLDSMITH ISLAND</description><Point><coordinates>149.15,-20.683333333333334,0</coordinates></Point></Placemark><Placemark><name>GON</name><description>Waypoint: GOODNA</description><Point><coordinates>152.8875,-27.616666666666667,0</coordinates></Point></Placemark><Placemark><name>GMBG</name><description>Waypoint: GOOMBUNGEE</description><Point><coordinates>151.85,-27.308333333333334,0</coordinates></Point></Placemark><Placemark><name>GNN</name><description>Waypoint: GOONANEMAN</description><Point><coordinates>152.13333333333333,-25.433333333333334,0</coordinates></Point></Placemark><Placemark><name>GOV</name><description>Waypoint: GORDONVALE</description><Point><coordinates>145.78333333333333,-17.08888888888889,0</coordinates></Point></Placemark><Placemark><name>GOW</name><description>Waypoint: GOWRIE JUNCTION</description><Point><coordinates>151.8861111111111,-27.5,0</coordinates></Point></Placemark><Placemark><name>GNIS</name><description>Waypoint: GREEN ISLAND (CAIRNS)</description><Point><coordinates>145.975,-16.758333333333333,0</coordinates></Point></Placemark><Placemark><name>GRL</name><description>Waypoint: GREEN ISLAND (MACKAY)</description><Point><coordinates>149.15,-20.983333333333334,0</coordinates></Point></Placemark><Placemark><name>GRNH</name><description>Waypoint: GREENHILL</description><Point><coordinates>145.805,-17.040000000000003,0</coordinates></Point></Placemark><Placemark><name>GNM</name><description>Waypoint: GREENMOUNT</description><Point><coordinates>151.95,-27.783333333333335,0</coordinates></Point></Placemark><Placemark><name>GUNG</name><description>Waypoint: GUTHALUNGRA</description><Point><coordinates>147.83333333333334,-19.933333333333334,0</coordinates></Point></Placemark><Placemark><name>HMM</name><description>Waypoint: HAMMOND ISLAND</description><Point><coordinates>142.21666666666667,-10.533333333333333,0</coordinates></Point></Placemark><Placemark><name>HMN</name><description>Waypoint: HAMPTON</description><Point><coordinates>152.06666666666666,-27.358333333333334,0</coordinates></Point></Placemark><Placemark><name>HAVY</name><description>Waypoint: HAPPY VALLEY</description><Point><coordinates>153.13305555555556,-26.80777777777778,0</coordinates></Point></Placemark><Placemark><name>HSTI</name><description>Waypoint: HASTINGS</description><Point><coordinates>145.18333333333334,-28.3,0</coordinates></Point></Placemark><Placemark><name>HVI</name><description>Waypoint: HAVANNAH ISLAND</description><Point><coordinates>146.5388888888889,-18.844444444444445,0</coordinates></Point></Placemark><Placemark><name>HPT</name><description>Waypoint: HAY PT</description><Point><coordinates>149.29166666666666,-21.27777777777778,0</coordinates></Point></Placemark><Placemark><name>HAZ</name><description>Waypoint: HAZELWOOD ISLAND</description><Point><coordinates>149.08333333333334,-20.283333333333335,0</coordinates></Point></Placemark><Placemark><name>HED</name><description>Waypoint: HELIDON</description><Point><coordinates>152.13333333333333,-27.55,0</coordinates></Point></Placemark><Placemark><name>HIPA</name><description>Waypoint: HIGH PERFORMANCE AREA 3</description><Point><coordinates>153.84694444444446,-27.149444444444445,0</coordinates></Point></Placemark><Placemark><name>HVTG</name><description>Waypoint: HIGH VOLTAGE</description><Point><coordinates>145.76333333333332,-17.014166666666668,0</coordinates></Point></Placemark><Placemark><name>HIM</name><description>Waypoint: HILTON MINE</description><Point><coordinates>139.48333333333332,-20.566666666666666,0</coordinates></Point></Placemark><Placemark><name>HNCH</name><description>Waypoint: HINCHINBROOK ISLAND</description><Point><coordinates>146.25,-18.366666666666667,0</coordinates></Point></Placemark><Placemark><name>HDWL</name><description>Waypoint: HINZE DAM WALL</description><Point><coordinates>153.28666666666666,-28.05,0</coordinates></Point></Placemark><Placemark><name>HOLM</name><description>Waypoint: HOLMES REEF</description><Point><coordinates>148.0,-16.5,0</coordinates></Point></Placemark><Placemark><name>HBU</name><description>Waypoint: HOMEBUSH</description><Point><coordinates>149.05,-21.280555555555555,0</coordinates></Point></Placemark><Placemark><name>HBVT</name><description>Waypoint: HORNIBROOK VIADUCT</description><Point><coordinates>153.0725,-27.273888888888887,0</coordinates></Point></Placemark><Placemark><name>JNR</name><description>Waypoint: JACKSON RIVER</description><Point><coordinates>142.0,-11.583333333333334,0</coordinates></Point></Placemark><Placemark><name>JEA</name><description>Waypoint: JEANNIE RIVER</description><Point><coordinates>144.86666666666667,-14.733333333333333,0</coordinates></Point></Placemark><Placemark><name>JDN</name><description>Waypoint: JONDARYAN</description><Point><coordinates>151.5875,-27.366666666666667,0</coordinates></Point></Placemark><Placemark><name>JGK</name><description>Waypoint: JUG CREEK</description><Point><coordinates>144.7,-22.0,0</coordinates></Point></Placemark><Placemark><name>JPP</name><description>Waypoint: JUMPINPIN</description><Point><coordinates>153.45,-27.733333333333334,0</coordinates></Point></Placemark><Placemark><name>JUP</name><description>Waypoint: JUPITERS CASINO</description><Point><coordinates>153.42944444444444,-28.0325,0</coordinates></Point></Placemark><Placemark><name>KKN</name><description>Waypoint: KAIMKILLENBUN</description><Point><coordinates>151.43333333333334,-27.066666666666666,0</coordinates></Point></Placemark><Placemark><name>KERW</name><description>Waypoint: KEERWEE</description><Point><coordinates>151.35,-25.216666666666665,0</coordinates></Point></Placemark><Placemark><name>KALL</name><description>Waypoint: KENDALL</description><Point><coordinates>141.6,-14.2,0</coordinates></Point></Placemark><Placemark><name>KSI</name><description>Waypoint: KESWICK ISLAND</description><Point><coordinates>149.41666666666666,-20.916666666666668,0</coordinates></Point></Placemark><Placemark><name>KLCY</name><description>Waypoint: KILCOY TOWNSHIP</description><Point><coordinates>152.5638888888889,-26.941666666666666,0</coordinates></Point></Placemark><Placemark><name>KKV</name><description>Waypoint: KILKIVAN</description><Point><coordinates>152.24666666666664,-26.083333333333332,0</coordinates></Point></Placemark><Placemark><name>KRT</name><description>Waypoint: KING RANCH TULLY</description><Point><coordinates>145.83333333333334,-18.083333333333332,0</coordinates></Point></Placemark><Placemark><name>KBCH</name><description>Waypoint: KINGS BEACH</description><Point><coordinates>153.14,-26.80527777777778,0</coordinates></Point></Placemark><Placemark><name>KGT</name><description>Waypoint: KINGSTHORPE</description><Point><coordinates>151.8138888888889,-27.477777777777778,0</coordinates></Point></Placemark><Placemark><name>KSPT</name><description>Waypoint: KISSING POINT</description><Point><coordinates>146.80555555555557,-19.241666666666667,0</coordinates></Point></Placemark><Placemark><name>KBD</name><description>Waypoint: KOOMBOOLOOMBA DAM</description><Point><coordinates>145.6,-17.833333333333332,0</coordinates></Point></Placemark><Placemark><name>KANC</name><description>Waypoint: KOORANA CROCODILE FARM</description><Point><coordinates>150.75944444444445,-23.31527777777778,0</coordinates></Point></Placemark><Placemark><name>KOPP</name><description>Waypoint: KOPPEN PARK</description><Point><coordinates>145.73388888888888,-16.93111111111111,0</coordinates></Point></Placemark><Placemark><name>KUN</name><description>Waypoint: KUNWARARA</description><Point><coordinates>150.13333333333333,-22.916666666666668,0</coordinates></Point></Placemark><Placemark><name>KRN</name><description>Waypoint: KURANDA</description><Point><coordinates>145.6375,-16.816666666666666,0</coordinates></Point></Placemark><Placemark><name>LDLY</name><description>Waypoint: LAIDLEY</description><Point><coordinates>152.38333333333333,-27.633333333333333,0</coordinates></Point></Placemark><Placemark><name>LKON</name><description>Waypoint: LAKE CLARENDON</description><Point><coordinates>152.35,-27.491666666666667,0</coordinates></Point></Placemark><Placemark><name>LCDI</name><description>Waypoint: LAKE CURRIMUNDI</description><Point><coordinates>153.13666666666666,-26.76527777777778,0</coordinates></Point></Placemark><Placemark><name>LEM</name><description>Waypoint: LAKE EPSOM</description><Point><coordinates>148.83333333333334,-21.48888888888889,0</coordinates></Point></Placemark><Placemark><name>LMC</name><description>Waypoint: LAKE MANCHESTER</description><Point><coordinates>152.76666666666668,-27.483333333333334,0</coordinates></Point></Placemark><Placemark><name>LOOH</name><description>Waypoint: LAKE MOOGERAH</description><Point><coordinates>152.55,-28.033333333333335,0</coordinates></Point></Placemark><Placemark><name>LGH</name><description>Waypoint: LANGHAM</description><Point><coordinates>150.1,-22.2,0</coordinates></Point></Placemark><Placemark><name>LVE</name><description>Waypoint: LINVILLE</description><Point><coordinates>152.26666666666668,-26.85,0</coordinates></Point></Placemark><Placemark><name>LMGE</name><description>Waypoint: LITTLE MULGRAVE</description><Point><coordinates>145.725,-17.13888888888889,0</coordinates></Point></Placemark><Placemark><name>LFC</name><description>Waypoint: LONGFORD CREEK</description><Point><coordinates>148.36666666666667,-20.208333333333332,0</coordinates></Point></Placemark><Placemark><name>LWI</name><description>Waypoint: LOW ISLETS</description><Point><coordinates>145.56666666666666,-16.383333333333333,0</coordinates></Point></Placemark><Placemark><name>LWD</name><description>Waypoint: LOWOOD</description><Point><coordinates>152.58333333333334,-27.466666666666665,0</coordinates></Point></Placemark><Placemark><name>LNDA</name><description>Waypoint: LUCINDA</description><Point><coordinates>146.33333333333334,-18.533333333333335,0</coordinates></Point></Placemark><Placemark><name>LYNR</name><description>Waypoint: LYND RIVER</description><Point><coordinates>143.75,-17.4,0</coordinates></Point></Placemark><Placemark><name>MACB</name><description>Waypoint: MACHANS BEACH</description><Point><coordinates>145.75,-16.85,0</coordinates></Point></Placemark><Placemark><name>MZR</name><description>Waypoint: MACKENZIE RIVER</description><Point><coordinates>149.5,-23.166666666666668,0</coordinates></Point></Placemark><Placemark><name>MAS</name><description>Waypoint: MAGNESITE MINE</description><Point><coordinates>150.18333333333334,-22.888333333333332,0</coordinates></Point></Placemark><Placemark><name>MBHB</name><description>Waypoint: MANLY BOAT HARBOUR</description><Point><coordinates>153.19111111111113,-27.45638888888889,0</coordinates></Point></Placemark><Placemark><name>MBA</name><description>Waypoint: MAREEBA</description><Point><coordinates>145.41833333333332,-17.06833333333333,0</coordinates></Point></Placemark><Placemark><name>MARQ</name><description>Waypoint: MARINO'S QUARRY</description><Point><coordinates>145.72694444444446,-16.92,0</coordinates></Point></Placemark><Placemark><name>MKN</name><description>Waypoint: MARY KATHLEEN</description><Point><coordinates>139.98333333333332,-20.783333333333335,0</coordinates></Point></Placemark><Placemark><name>MHD</name><description>Waypoint: MASTHEAD ISLAND</description><Point><coordinates>151.73333333333332,-23.533333333333335,0</coordinates></Point></Placemark><Placemark><name>MRH</name><description>Waypoint: MAURICE HILL</description><Point><coordinates>151.25,-23.933333333333334,0</coordinates></Point></Placemark><Placemark><name>MRI</name><description>Waypoint: MERION</description><Point><coordinates>149.03333333333333,-22.866666666666667,0</coordinates></Point></Placemark><Placemark><name>MII</name><description>Waypoint: MIDGE ISLAND</description><Point><coordinates>148.76111111111112,-20.691666666666666,0</coordinates></Point></Placemark><Placemark><name>MPO</name><description>Waypoint: MILPEROO</description><Point><coordinates>141.25,-23.183333333333334,0</coordinates></Point></Placemark><Placemark><name>MISB</name><description>Waypoint: MISSION BEACH</description><Point><coordinates>146.10694444444445,-17.870833333333334,0</coordinates></Point></Placemark><Placemark><name>MSC</name><description>Waypoint: MISSION BEACH</description><Point><coordinates>146.1,-17.883333333333333,0</coordinates></Point></Placemark><Placemark><name>MFBH</name><description>Waypoint: MOFFAT BEACH</description><Point><coordinates>153.14166666666665,-26.788611111111113,0</coordinates></Point></Placemark><Placemark><name>MFH</name><description>Waypoint: MOFFAT HEAD</description><Point><coordinates>153.13972222222222,-26.789722222222224,0</coordinates></Point></Placemark><Placemark><name>MBH</name><description>Waypoint: MOOLOOLABA</description><Point><coordinates>153.13333333333333,-26.7,0</coordinates></Point></Placemark><Placemark><name>MIE</name><description>Waypoint: MOONIE</description><Point><coordinates>150.36666666666667,-27.716666666666665,0</coordinates></Point></Placemark><Placemark><name>MMA</name><description>Waypoint: MOSSMAN</description><Point><coordinates>145.37222222222223,-16.458333333333332,0</coordinates></Point></Placemark><Placemark><name>MBC</name><description>Waypoint: MOUNT BLACK</description><Point><coordinates>146.55833333333334,-19.283333333333335,0</coordinates></Point></Placemark><Placemark><name>MBK</name><description>Waypoint: MOUNT BLACKWOOD</description><Point><coordinates>148.94166666666666,-21.033333333333335,0</coordinates></Point></Placemark><Placemark><name>MTBL</name><description>Waypoint: MOUNT BOHLE</description><Point><coordinates>146.6888888888889,-19.266666666666666,0</coordinates></Point></Placemark><Placemark><name>MCAR</name><description>Waypoint: MOUNT CARNARVON</description><Point><coordinates>148.38333333333333,-24.916666666666668,0</coordinates></Point></Placemark><Placemark><name>MTC</name><description>Waypoint: MOUNT COOLUM</description><Point><coordinates>153.08333333333334,-26.561111111111114,0</coordinates></Point></Placemark><Placemark><name>MCOO</name><description>Waypoint: MOUNT COTTON</description><Point><coordinates>153.21666666666667,-27.622222222222224,0</coordinates></Point></Placemark><Placemark><name>MELE</name><description>Waypoint: MOUNT ELEPHANT</description><Point><coordinates>144.93333333333334,-16.45,0</coordinates></Point></Placemark><Placemark><name>MFN</name><description>Waypoint: MOUNT FUNNEL</description><Point><coordinates>149.3861111111111,-21.625,0</coordinates></Point></Placemark><Placemark><name>MGLO</name><description>Waypoint: MOUNT GLORIOUS</description><Point><coordinates>152.76666666666668,-27.333333333333332,0</coordinates></Point></Placemark><Placemark><name>MVT</name><description>Waypoint: MOUNT GRAVATT</description><Point><coordinates>153.075,-27.55,0</coordinates></Point></Placemark><Placemark><name>MLI</name><description>Waypoint: MOUNT LION</description><Point><coordinates>150.32083333333333,-23.391666666666666,0</coordinates></Point></Placemark><Placemark><name>MTMA</name><description>Waypoint: MOUNT MARIA</description><Point><coordinates>151.48333333333332,-27.466666666666665,0</coordinates></Point></Placemark><Placemark><name>MMY</name><description>Waypoint: MOUNT MOLLOY</description><Point><coordinates>145.32916666666665,-16.67777777777778,0</coordinates></Point></Placemark><Placemark><name>MGN</name><description>Waypoint: MOUNT MORGAN</description><Point><coordinates>150.39166666666665,-23.644444444444446,0</coordinates></Point></Placemark><Placemark><name>MIY</name><description>Waypoint: MOUNT NINDERRY</description><Point><coordinates>152.99166666666665,-26.554166666666667,0</coordinates></Point></Placemark><Placemark><name>MTEW</name><description>Waypoint: MOUNT STEWAN</description><Point><coordinates>144.05,-20.366666666666667,0</coordinates></Point></Placemark><Placemark><name>MTY</name><description>Waypoint: MOUNT TYSON</description><Point><coordinates>151.56666666666666,-27.583333333333332,0</coordinates></Point></Placemark><Placemark><name>MTWK</name><description>Waypoint: MOUNT WALKER</description><Point><coordinates>152.55722222222224,-27.78888888888889,0</coordinates></Point></Placemark><Placemark><name>MWH</name><description>Waypoint: MOUNT WHEELER</description><Point><coordinates>150.68305555555554,-23.226388888888888,0</coordinates></Point></Placemark><Placemark><name>MBKR</name><description>Waypoint: MOUTH OF THE BLACK RIVER</description><Point><coordinates>146.65333333333334,-19.18,0</coordinates></Point></Placemark><Placemark><name>MBHR</name><description>Waypoint: MOUTH OF THE BOHLE RIVER</description><Point><coordinates>146.70166666666665,-19.196666666666665,0</coordinates></Point></Placemark><Placemark><name>MMT</name><description>Waypoint: MT MARGARET</description><Point><coordinates>146.60166666666666,-19.35,0</coordinates></Point></Placemark><Placemark><name>MUDI</name><description>Waypoint: MUD ISLAND</description><Point><coordinates>153.25,-27.333333333333332,0</coordinates></Point></Placemark><Placemark><name>MEER</name><description>Waypoint: MUDGEERABA</description><Point><coordinates>153.36666666666667,-28.083333333333332,0</coordinates></Point></Placemark><Placemark><name>LLN</name><description>Waypoint: MULLEN</description><Point><coordinates>153.0,-25.03666666666667,0</coordinates></Point></Placemark><Placemark><name>MAA</name><description>Waypoint: MUNGALLALA</description><Point><coordinates>147.55,-26.45,0</coordinates></Point></Placemark><Placemark><name>MUNM</name><description>Waypoint: MUNIGANEEN MT</description><Point><coordinates>151.875,-27.40833333333333,0</coordinates></Point></Placemark><Placemark><name>MHY</name><description>Waypoint: MURPHY'S CREEK</description><Point><coordinates>152.05416666666667,-27.4625,0</coordinates></Point></Placemark><Placemark><name>MYW</name><description>Waypoint: MURRAY DOWNS</description><Point><coordinates>139.2,-25.033333333333335,0</coordinates></Point></Placemark><Placemark><name>MUEE</name><description>Waypoint: MUTARNEE</description><Point><coordinates>146.3,-18.95,0</coordinates></Point></Placemark><Placemark><name>MRTL</name><description>Waypoint: MYRTLE</description><Point><coordinates>146.53333333333333,-19.7,0</coordinates></Point></Placemark><Placemark><name>NMB</name><description>Waypoint: NAMBOUR</description><Point><coordinates>152.95833333333331,-26.62777777777778,0</coordinates></Point></Placemark><Placemark><name>NAA</name><description>Waypoint: NARA INLET</description><Point><coordinates>148.9,-20.15,0</coordinates></Point></Placemark><Placemark><name>NOOG</name><description>Waypoint: NARROOGAL</description><Point><coordinates>142.5,-10.25,0</coordinates></Point></Placemark><Placemark><name>NEN</name><description>Waypoint: NERANG</description><Point><coordinates>153.3375,-27.9875,0</coordinates></Point></Placemark><Placemark><name>NGI</name><description>Waypoint: NGULUPI</description><Point><coordinates>142.41083333333333,-10.243333333333332,0</coordinates></Point></Placemark><Placemark><name>NIM</name><description>Waypoint: NIMROD PASSAGE</description><Point><coordinates>143.78333333333333,-12.1,0</coordinates></Point></Placemark><Placemark><name>NDI</name><description>Waypoint: NINDIGULLY</description><Point><coordinates>148.81666666666666,-28.35,0</coordinates></Point></Placemark><Placemark><name>NDY</name><description>Waypoint: NODDY REEF</description><Point><coordinates>143.75,-13.733333333333333,0</coordinates></Point></Placemark><Placemark><name>NOME</name><description>Waypoint: NOME</description><Point><coordinates>146.92,-19.37666666666667,0</coordinates></Point></Placemark><Placemark><name>NNDO</name><description>Waypoint: NOONDOO</description><Point><coordinates>148.43333333333334,-28.616666666666667,0</coordinates></Point></Placemark><Placemark><name>NOSA</name><description>Waypoint: NOOSA HEADS</description><Point><coordinates>153.11666666666667,-26.375,0</coordinates></Point></Placemark><Placemark><name>NBRR</name><description>Waypoint: NORTHERN TIP BERSERKERS</description><Point><coordinates>150.58833333333334,-23.27861111111111,0</coordinates></Point></Placemark><Placemark><name>NRWN</name><description>Waypoint: NORWIN</description><Point><coordinates>151.37916666666666,-27.558333333333334,0</coordinates></Point></Placemark><Placemark><name>NUDG</name><description>Waypoint: NUDGEE TIP</description><Point><coordinates>153.09166666666667,-27.358333333333334,0</coordinates></Point></Placemark><Placemark><name>NCHU</name><description>Waypoint: NYCHUM</description><Point><coordinates>144.46166666666664,-16.843333333333334,0</coordinates></Point></Placemark><Placemark><name>OBY</name><description>Waypoint: OLD BOMBANDY</description><Point><coordinates>148.63333333333333,-22.433333333333334,0</coordinates></Point></Placemark><Placemark><name>OLCO</name><description>Waypoint: OLD CORK</description><Point><coordinates>141.86666666666667,-22.933333333333334,0</coordinates></Point></Placemark><Placemark><name>ORKS</name><description>Waypoint: ORCHARD ROCKS</description><Point><coordinates>146.88166666666666,-19.110000000000003,0</coordinates></Point></Placemark><Placemark><name>ORF</name><description>Waypoint: ORFORD NESS</description><Point><coordinates>142.81666666666666,-11.3,0</coordinates></Point></Placemark><Placemark><name>OFD</name><description>Waypoint: OXENFORD</description><Point><coordinates>153.31666666666666,-27.883333333333333,0</coordinates></Point></Placemark><Placemark><name>PCVE</name><description>Waypoint: PALM COVE</description><Point><coordinates>145.66666666666666,-16.75,0</coordinates></Point></Placemark><Placemark><name>PFRM</name><description>Waypoint: PALM FARM</description><Point><coordinates>145.76166666666666,-17.043333333333337,0</coordinates></Point></Placemark><Placemark><name>PLW</name><description>Waypoint: PALM MEADOWS</description><Point><coordinates>152.40833333333333,-28.033333333333335,0</coordinates></Point></Placemark><Placemark><name>PLU</name><description>Waypoint: PALUMA DAM</description><Point><coordinates>146.14444444444445,-18.955555555555556,0</coordinates></Point></Placemark><Placemark><name>SFG</name><description>Waypoint: PARADISE GARDENS</description><Point><coordinates>153.375,-28.018055555555556,0</coordinates></Point></Placemark><Placemark><name>PKR</name><description>Waypoint: PARK RIDGE WATER TOWER</description><Point><coordinates>153.0388888888889,-27.704444444444444,0</coordinates></Point></Placemark><Placemark><name>PRKH</name><description>Waypoint: PARKHURST</description><Point><coordinates>150.51388888888889,-23.304166666666667,0</coordinates></Point></Placemark><Placemark><name>PECO</name><description>Waypoint: PEACOCK</description><Point><coordinates>145.98333333333332,-18.683333333333334,0</coordinates></Point></Placemark><Placemark><name>PDNE</name><description>Waypoint: PEAK DOWNS MINE</description><Point><coordinates>148.18333333333334,-22.25,0</coordinates></Point></Placemark><Placemark><name>PCCK</name><description>Waypoint: PELICAN CREEK</description><Point><coordinates>150.9,-25.233333333333334,0</coordinates></Point></Placemark><Placemark><name>PEG</name><description>Waypoint: PEREGIAN</description><Point><coordinates>153.1,-26.516666666666666,0</coordinates></Point></Placemark><Placemark><name>PCKD</name><description>Waypoint: PERSEVERENCE CREEK DAM</description><Point><coordinates>152.12083333333334,-27.305555555555557,0</coordinates></Point></Placemark><Placemark><name>PTI</name><description>Waypoint: PETRIE</description><Point><coordinates>152.975,-27.266666666666666,0</coordinates></Point></Placemark><Placemark><name>PCA</name><description>Waypoint: PICNIC BAY</description><Point><coordinates>146.85,-19.183333333333334,0</coordinates></Point></Placemark><Placemark><name>PII</name><description>Waypoint: PIRATE POINT</description><Point><coordinates>150.64166666666665,-23.508333333333333,0</coordinates></Point></Placemark><Placemark><name>PWH</name><description>Waypoint: PITTSWORTH</description><Point><coordinates>151.63333333333333,-27.72083333333333,0</coordinates></Point></Placemark><Placemark><name>PRP</name><description>Waypoint: PORPOISE PT</description><Point><coordinates>153.42527777777778,-27.93638888888889,0</coordinates></Point></Placemark><Placemark><name>PMA</name><description>Waypoint: PORT ALMA</description><Point><coordinates>150.85833333333332,-23.583333333333332,0</coordinates></Point></Placemark><Placemark><name>PTD</name><description>Waypoint: PORT DOUGLAS</description><Point><coordinates>145.46388888888887,-16.483333333333334,0</coordinates></Point></Placemark><Placemark><name>PMG</name><description>Waypoint: PORT MUSGRAVE</description><Point><coordinates>141.93333333333334,-12.0,0</coordinates></Point></Placemark><Placemark><name>PCB</name><description>Waypoint: PRINCESS CHARLOTTE BAY</description><Point><coordinates>144.11666666666667,-14.333333333333334,0</coordinates></Point></Placemark><Placemark><name>PSTO</name><description>Waypoint: PROSTON</description><Point><coordinates>151.6,-26.166666666666668,0</coordinates></Point></Placemark><Placemark><name>PBF</name><description>Waypoint: PURLINGBROOKE FALLS</description><Point><coordinates>153.26666666666668,-28.166666666666668,0</coordinates></Point></Placemark><Placemark><name>PWDA</name><description>Waypoint: PURRAWUNDA</description><Point><coordinates>151.625,-27.53888888888889,0</coordinates></Point></Placemark><Placemark><name>QAI</name><description>Waypoint: QUAIL ISLAND</description><Point><coordinates>150.0,-22.133333333333333,0</coordinates></Point></Placemark><Placemark><name>Q1</name><description>Waypoint: QUEBEC ONE</description><Point><coordinates>153.43027777777777,-28.006666666666668,0</coordinates></Point></Placemark><Placemark><name>QSAC</name><description>Waypoint: QUEENSLAND SAC</description><Point><coordinates>153.0627777777778,-27.558333333333334,0</coordinates></Point></Placemark><Placemark><name>QLW</name><description>Waypoint: QUINALOW</description><Point><coordinates>151.62083333333334,-27.105555555555558,0</coordinates></Point></Placemark><Placemark><name>RIL</name><description>Waypoint: RABBIT ISLAND</description><Point><coordinates>148.9,-20.833333333333332,0</coordinates></Point></Placemark><Placemark><name>RBY</name><description>Waypoint: RABY BAY</description><Point><coordinates>153.275,-27.516666666666666,0</coordinates></Point></Placemark><Placemark><name>RDRS</name><description>Waypoint: RADAR SITE</description><Point><coordinates>146.76666666666668,-19.2,0</coordinates></Point></Placemark><Placemark><name>RAIS</name><description>Waypoint: RAINE ISLAND</description><Point><coordinates>144.03333333333333,-11.6,0</coordinates></Point></Placemark><Placemark><name>RNN</name><description>Waypoint: RANNES</description><Point><coordinates>150.11666666666667,-24.1,0</coordinates></Point></Placemark><Placemark><name>RTY</name><description>Waypoint: RATHDOWNEY</description><Point><coordinates>152.86666666666667,-28.216666666666665,0</coordinates></Point></Placemark><Placemark><name>RKI</name><description>Waypoint: RATTLESNAKE ISLAND</description><Point><coordinates>146.61111111111111,-19.033333333333335,0</coordinates></Point></Placemark><Placemark><name>RDHI</name><description>Waypoint: RED HILL</description><Point><coordinates>148.05,-21.633333333333333,0</coordinates></Point></Placemark><Placemark><name>RDV</name><description>Waypoint: REDCLIFFE VALE HS</description><Point><coordinates>148.11666666666667,-21.116666666666667,0</coordinates></Point></Placemark><Placemark><name>REDB</name><description>Waypoint: REDLAND BAY</description><Point><coordinates>153.3,-27.6,0</coordinates></Point></Placemark><Placemark><name>REDL</name><description>Waypoint: REDLYNCH</description><Point><coordinates>145.7,-16.883333333333333,0</coordinates></Point></Placemark><Placemark><name>RIT</name><description>Waypoint: RING TANK</description><Point><coordinates>153.09166666666667,-26.75,0</coordinates></Point></Placemark><Placemark><name>ROTC</name><description>Waypoint: ROBINA TOWN CENTRE</description><Point><coordinates>153.38527777777776,-28.077222222222222,0</coordinates></Point></Placemark><Placemark><name>RGS</name><description>Waypoint: ROLLINGSTONE</description><Point><coordinates>146.3875,-19.047222222222224,0</coordinates></Point></Placemark><Placemark><name>RSWD</name><description>Waypoint: ROSEWOOD</description><Point><coordinates>152.59305555555557,-27.63611111111111,0</coordinates></Point></Placemark><Placemark><name>RSEW</name><description>Waypoint: ROSEWOOD ISLAND</description><Point><coordinates>149.73333333333332,-22.4,0</coordinates></Point></Placemark><Placemark><name>RRDM</name><description>Waypoint: ROSS RIVER DAM</description><Point><coordinates>146.73333333333332,-19.41111111111111,0</coordinates></Point></Placemark><Placemark><name>RMT</name><description>Waypoint: ROUND MT</description><Point><coordinates>146.69444444444446,-19.461111111111112,0</coordinates></Point></Placemark><Placemark><name>RUIS</name><description>Waypoint: RUSSELL ISLAND</description><Point><coordinates>153.38333333333333,-27.666666666666668,0</coordinates></Point></Placemark><Placemark><name>SADD</name><description>Waypoint: SADDLE MT</description><Point><coordinates>145.65,-16.82,0</coordinates></Point></Placemark><Placemark><name>SSV</name><description>Waypoint: SAMSONVALE</description><Point><coordinates>152.85416666666666,-27.27777777777778,0</coordinates></Point></Placemark><Placemark><name>SAU</name><description>Waypoint: SANCTUARY COVE</description><Point><coordinates>153.375,-27.858333333333334,0</coordinates></Point></Placemark><Placemark><name>SAND</name><description>Waypoint: SANDGATE PIER</description><Point><coordinates>153.08777777777777,-27.328333333333333,0</coordinates></Point></Placemark><Placemark><name>SJI</name><description>Waypoint: SARAJI</description><Point><coordinates>148.28333333333333,-22.433333333333334,0</coordinates></Point></Placemark><Placemark><name>SRIN</name><description>Waypoint: SARINA</description><Point><coordinates>149.21666666666667,-21.425,0</coordinates></Point></Placemark><Placemark><name>SDS</name><description>Waypoint: SHAUNA DOWNS</description><Point><coordinates>149.91666666666666,-24.616666666666667,0</coordinates></Point></Placemark><Placemark><name>SHI</name><description>Waypoint: SHAW ISLAND</description><Point><coordinates>149.08666666666667,-20.513333333333332,0</coordinates></Point></Placemark><Placemark><name>SHL</name><description>Waypoint: SHELBURNE BAY</description><Point><coordinates>143.01666666666668,-11.883333333333333,0</coordinates></Point></Placemark><Placemark><name>SLPT</name><description>Waypoint: SLADE POINT</description><Point><coordinates>149.225,-21.065,0</coordinates></Point></Placemark><Placemark><name>SGK</name><description>Waypoint: SLOPING HUMMOCK</description><Point><coordinates>152.43333333333334,-24.85,0</coordinates></Point></Placemark><Placemark><name>SMIF</name><description>Waypoint: SMITHFIELD</description><Point><coordinates>145.68333333333334,-16.833333333333332,0</coordinates></Point></Placemark><Placemark><name>SMD</name><description>Waypoint: SOMERSET DAM</description><Point><coordinates>152.55,-27.120833333333334,0</coordinates></Point></Placemark><Placemark><name>SMIB</name><description>Waypoint: SOUTH MISSION BEACH</description><Point><coordinates>146.09166666666667,-17.948333333333334,0</coordinates></Point></Placemark><Placemark><name>SPN</name><description>Waypoint: SOUTH PINNACLE</description><Point><coordinates>146.63333333333333,-19.40833333333333,0</coordinates></Point></Placemark><Placemark><name>SDG</name><description>Waypoint: SOUTHEDGE</description><Point><coordinates>145.21666666666667,-16.816666666666666,0</coordinates></Point></Placemark><Placemark><name>SBRR</name><description>Waypoint: SOUTHERN TIP BERSERKERS</description><Point><coordinates>150.625,-23.4,0</coordinates></Point></Placemark><Placemark><name>SPT</name><description>Waypoint: SOUTHPORT</description><Point><coordinates>153.37222222222223,-27.916666666666668,0</coordinates></Point></Placemark><Placemark><name>SPMT</name><description>Waypoint: SPRING MOUNTAIN</description><Point><coordinates>152.88555555555556,-27.713055555555556,0</coordinates></Point></Placemark><Placemark><name>SBK</name><description>Waypoint: SPRINGBROOK</description><Point><coordinates>153.2777777777778,-28.231944444444444,0</coordinates></Point></Placemark><Placemark><name>SGM</name><description>Waypoint: ST GEORGES MINE</description><Point><coordinates>144.4,-16.5,0</coordinates></Point></Placemark><Placemark><name>SHIS</name><description>Waypoint: ST HELENA ISLAND</description><Point><coordinates>153.23333333333332,-27.378333333333334,0</coordinates></Point></Placemark><Placemark><name>SPS</name><description>Waypoint: STANWELL POWER STN</description><Point><coordinates>150.33333333333334,-23.5,0</coordinates></Point></Placemark><Placemark><name>SCRK</name><description>Waypoint: STONEY CREEK</description><Point><coordinates>145.655,-16.878333333333334,0</coordinates></Point></Placemark><Placemark><name>SBD</name><description>Waypoint: STORY BRIDGE</description><Point><coordinates>153.0375,-27.46527777777778,0</coordinates></Point></Placemark><Placemark><name>SFE</name><description>Waypoint: STRATHFINELLA</description><Point><coordinates>143.55,-23.35,0</coordinates></Point></Placemark><Placemark><name>SUA</name><description>Waypoint: STUART</description><Point><coordinates>146.83333333333334,-19.35,0</coordinates></Point></Placemark><Placemark><name>STUM</name><description>Waypoint: STUMERS CREEK</description><Point><coordinates>153.08555555555557,-26.519444444444442,0</coordinates></Point></Placemark><Placemark><name>SUTR</name><description>Waypoint: SUGAR TERMINAL</description><Point><coordinates>145.76666666666668,-16.941666666666666,0</coordinates></Point></Placemark><Placemark><name>SWLD</name><description>Waypoint: SUGARWORLD</description><Point><coordinates>145.73166666666665,-17.016666666666666,0</coordinates></Point></Placemark><Placemark><name>SUNZ</name><description>Waypoint: SUN ZINC REFINERY</description><Point><coordinates>146.88666666666666,-19.333333333333332,0</coordinates></Point></Placemark><Placemark><name>SBIT</name><description>Waypoint: SURBITON</description><Point><coordinates>146.61666666666667,-23.15,0</coordinates></Point></Placemark><Placemark><name>SUPA</name><description>Waypoint: SURFER'S PARADISE</description><Point><coordinates>153.43333333333334,-28.0,0</coordinates></Point></Placemark><Placemark><name>SBCH</name><description>Waypoint: SUTTONS BEACH</description><Point><coordinates>153.11527777777778,-27.234722222222224,0</coordinates></Point></Placemark><Placemark><name>TGN</name><description>Waypoint: TANGORIN</description><Point><coordinates>144.2,-21.733333333333334,0</coordinates></Point></Placemark><Placemark><name>TAR</name><description>Waypoint: TARGET</description><Point><coordinates>153.12722222222223,-27.61388888888889,0</coordinates></Point></Placemark><Placemark><name>CKO</name><description>Waypoint: TELEGRAPH OFFICE</description><Point><coordinates>145.48333333333332,-19.233333333333334,0</coordinates></Point></Placemark><Placemark><name>TPL</name><description>Waypoint: TEMPLE BAY</description><Point><coordinates>143.15,-12.266666666666667,0</coordinates></Point></Placemark><Placemark><name>TLC</name><description>Waypoint: TERRANORA LAKES COUNTRY CLUB</description><Point><coordinates>153.47361111111113,-28.215,0</coordinates></Point></Placemark><Placemark><name>TWT</name><description>Waypoint: TEWANTIN</description><Point><coordinates>153.03333333333333,-26.4,0</coordinates></Point></Placemark><Placemark><name>TCNR</name><description>Waypoint: THE CORNER</description><Point><coordinates>146.72833333333332,-19.325,0</coordinates></Point></Placemark><Placemark><name>PIN</name><description>Waypoint: THE PINES</description><Point><coordinates>153.46666666666667,-28.141666666666666,0</coordinates></Point></Placemark><Placemark><name>THB</name><description>Waypoint: THEEBINE</description><Point><coordinates>152.55,-25.95,0</coordinates></Point></Placemark><Placemark><name>THSM</name><description>Waypoint: THOMPSON 1</description><Point><coordinates>145.75166666666667,-17.01222222222222,0</coordinates></Point></Placemark><Placemark><name>TORN</name><description>Waypoint: THORNTON</description><Point><coordinates>152.38333333333333,-27.816666666666666,0</coordinates></Point></Placemark><Placemark><name>TNP</name><description>Waypoint: THORNTON GAP</description><Point><coordinates>146.46166666666664,-19.358333333333334,0</coordinates></Point></Placemark><Placemark><name>TBRT</name><description>Waypoint: TIMBERTOP</description><Point><coordinates>145.80555555555557,-16.958333333333332,0</coordinates></Point></Placemark><Placemark><name>TING</name><description>Waypoint: TINGALPA RESERVOIR</description><Point><coordinates>153.16694444444443,-27.540277777777778,0</coordinates></Point></Placemark><Placemark><name>TOOU</name><description>Waypoint: TOOMULLA</description><Point><coordinates>146.46666666666667,-19.083333333333332,0</coordinates></Point></Placemark><Placemark><name>TRIN</name><description>Waypoint: TRINITY BEACH</description><Point><coordinates>145.7,-16.783333333333335,0</coordinates></Point></Placemark><Placemark><name>TKER</name><description>Waypoint: TUCKER</description><Point><coordinates>149.2,-24.483333333333334,0</coordinates></Point></Placemark><Placemark><name>UQLD</name><description>Waypoint: UNI OF QLD ST LUCIA</description><Point><coordinates>153.01333333333332,-27.497500000000002,0</coordinates></Point></Placemark><Placemark><name>URAN</name><description>Waypoint: URANGAN</description><Point><coordinates>152.9,-25.283333333333335,0</coordinates></Point></Placemark><Placemark><name>WKT</name><description>Waypoint: WALKERSTON</description><Point><coordinates>149.0638888888889,-21.162499999999998,0</coordinates></Point></Placemark><Placemark><name>WMB</name><description>Waypoint: WALLUMBILLA</description><Point><coordinates>149.18333333333334,-26.583333333333332,0</coordinates></Point></Placemark><Placemark><name>WTBG</name><description>Waypoint: WALTER TAYLOR BRIDGE</description><Point><coordinates>152.9738888888889,-27.505555555555556,0</coordinates></Point></Placemark><Placemark><name>WAT</name><description>Waypoint: WANGETTI</description><Point><coordinates>145.56666666666666,-16.665,0</coordinates></Point></Placemark><Placemark><name>WWN</name><description>Waypoint: WEALWANDANGIE</description><Point><coordinates>148.05,-24.416666666666668,0</coordinates></Point></Placemark><Placemark><name>WCP</name><description>Waypoint: WELLCAMP DOWNS</description><Point><coordinates>151.85,-27.55,0</coordinates></Point></Placemark><Placemark><name>WELL</name><description>Waypoint: WELLINGTON PT</description><Point><coordinates>153.24194444444444,-27.468888888888888,0</coordinates></Point></Placemark><Placemark><name>WLS</name><description>Waypoint: WELLSHOT</description><Point><coordinates>144.43333333333334,-23.9,0</coordinates></Point></Placemark><Placemark><name>WEP</name><description>Waypoint: WEST PT</description><Point><coordinates>146.7777777777778,-19.12777777777778,0</coordinates></Point></Placemark><Placemark><name>WNFE</name><description>Waypoint: WESTERN FREEWAY</description><Point><coordinates>152.945,-27.575,0</coordinates></Point></Placemark><Placemark><name>WMR</name><description>Waypoint: WESTMAR</description><Point><coordinates>149.71666666666667,-27.916666666666668,0</coordinates></Point></Placemark><Placemark><name>WTB</name><description>Waypoint: WETHERBY</description><Point><coordinates>142.83333333333334,-21.5,0</coordinates></Point></Placemark><Placemark><name>WTRK</name><description>Waypoint: WHITE ROCK</description><Point><coordinates>146.71833333333333,-18.771944444444443,0</coordinates></Point></Placemark><Placemark><name>WHW</name><description>Waypoint: WHITEWOOD</description><Point><coordinates>143.6,-21.483333333333334,0</coordinates></Point></Placemark><Placemark><name>WHDW</name><description>Waypoint: WIVENHOE DAM WALL</description><Point><coordinates>152.60833333333332,-27.394444444444446,0</coordinates></Point></Placemark><Placemark><name>WOT</name><description>Waypoint: WOODGATE</description><Point><coordinates>152.56666666666666,-25.116666666666667,0</coordinates></Point></Placemark><Placemark><name>WYPT</name><description>Waypoint: WOODY PT</description><Point><coordinates>153.10305555555556,-27.264722222222222,0</coordinates></Point></Placemark><Placemark><name>WNK</name><description>Waypoint: WOOMANOOKA</description><Point><coordinates>141.58333333333334,-13.733333333333333,0</coordinates></Point></Placemark><Placemark><name>WRM</name><description>Waypoint: WOORIM</description><Point><coordinates>153.20305555555555,-27.0775,0</coordinates></Point></Placemark><Placemark><name>WYR</name><description>Waypoint: WYREEMA</description><Point><coordinates>151.85833333333332,-27.65,0</coordinates></Point></Placemark><Placemark><name>YMA</name><description>Waypoint: YAAMBA</description><Point><coordinates>150.36666666666667,-23.133333333333333,0</coordinates></Point></Placemark><Placemark><name>YBU</name><description>Waypoint: YABULU</description><Point><coordinates>146.59722222222223,-19.21388888888889,0</coordinates></Point></Placemark><Placemark><name>ALBO</name><description>Waypoint: YALBOROO</description><Point><coordinates>148.65,-20.833333333333332,0</coordinates></Point></Placemark><Placemark><name>ANDA</name><description>Waypoint: YANDARAN</description><Point><coordinates>152.11666666666667,-24.716666666666665,0</coordinates></Point></Placemark><Placemark><name>YNA</name><description>Waypoint: YANDINA</description><Point><coordinates>152.95555555555555,-26.56388888888889,0</coordinates></Point></Placemark><Placemark><name>YBH</name><description>Waypoint: YARRABAH</description><Point><coordinates>145.88333333333333,-16.916666666666668,0</coordinates></Point></Placemark><Placemark><name>YKS</name><description>Waypoint: YORKEYS KNOB</description><Point><coordinates>145.725,-16.809722222222224,0</coordinates></Point></Placemark><Placemark><name>ULAB</name><description>Waypoint: YULABILLA</description><Point><coordinates>149.7,-27.066666666666666,0</coordinates></Point></Placemark><Placemark><name>URAR</name><description>Waypoint: YURARABA</description><Point><coordinates>151.4,-28.333333333333332,0</coordinates></Point></Placemark><Placemark><name>ZIN</name><description>Waypoint: ZUIZIN ISLAND</description><Point><coordinates>143.33333333333334,-10.1,0</coordinates></Point></Placemark></Document></kml>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>TVT</name>
+      <description>Waypoint: ABM TV TOWERS</description>
+      <Point>
+        <coordinates>152.91666666666666,-27.474999999999998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ANI</name>
+      <description>Waypoint: ACHERON ISLAND</description>
+      <Point>
+        <coordinates>146.6361111111111,-18.961111111111112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ACLD</name>
+      <description>Waypoint: ACLAND</description>
+      <Point>
+        <coordinates>151.6888888888889,-27.304166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ADI</name>
+      <description>Waypoint: ADMIRALTY ISLAND</description>
+      <Point>
+        <coordinates>145.775,-16.983333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALBA</name>
+      <description>Waypoint: ALOOMBA</description>
+      <Point>
+        <coordinates>145.83333333333334,-17.105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ANP</name>
+      <description>Waypoint: ANTILL PLAINS</description>
+      <Point>
+        <coordinates>146.83333333333334,-19.433333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ARCD</name>
+      <description>Waypoint: ARCADIA HS</description>
+      <Point>
+        <coordinates>138.06666666666666,-20.866666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AEN</name>
+      <description>Waypoint: ARDENT</description>
+      <Point>
+        <coordinates>152.57833333333332,-26.778333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ATN</name>
+      <description>Waypoint: ATHERTON</description>
+      <Point>
+        <coordinates>145.50833333333333,-17.258333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BADA</name>
+      <description>Waypoint: BABINDA</description>
+      <Point>
+        <coordinates>145.92499999999998,-17.341666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BLHS</name>
+      <description>Waypoint: BALD HILLS MAST</description>
+      <Point>
+        <coordinates>153.01611111111112,-27.313055555555557,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BSL</name>
+      <description>Waypoint: BARNES HILL</description>
+      <Point>
+        <coordinates>152.1,-27.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BRGE</name>
+      <description>Waypoint: BARRON GORGE</description>
+      <Point>
+        <coordinates>145.65,-16.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BCM</name>
+      <description>Waypoint: BEACHMERE</description>
+      <Point>
+        <coordinates>153.05,-27.116666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BENT</name>
+      <description>Waypoint: BEECHMONT</description>
+      <Point>
+        <coordinates>153.2,-28.133333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BESI</name>
+      <description>Waypoint: BESSIE POINT</description>
+      <Point>
+        <coordinates>145.81333333333333,-16.903333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BDTN</name>
+      <description>Waypoint: BIDDESTON</description>
+      <Point>
+        <coordinates>151.71666666666667,-27.558333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BIBA</name>
+      <description>Waypoint: BINGIL BAY</description>
+      <Point>
+        <coordinates>146.1013888888889,-17.82777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BCT</name>
+      <description>Waypoint: BLACK MT</description>
+      <Point>
+        <coordinates>149.09583333333333,-21.069444444444443,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BKIS</name>
+      <description>Waypoint: BLACKSMITH ISLAND</description>
+      <Point>
+        <coordinates>149.06666666666666,-20.633333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BLIC</name>
+      <description>Waypoint: BLI BLI CASTLE</description>
+      <Point>
+        <coordinates>153.03333333333333,-26.625,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BGN</name>
+      <description>Waypoint: BOGANTUNGAN</description>
+      <Point>
+        <coordinates>147.3,-23.65,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BUVY</name>
+      <description>Waypoint: BOND UNIVERSITY</description>
+      <Point>
+        <coordinates>153.41,-28.076666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BONG</name>
+      <description>Waypoint: BONGAREE</description>
+      <Point>
+        <coordinates>153.18333333333334,-27.083333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BOON</name>
+      <description>Waypoint: BOONDALL ENTERTAINMENT CENTRE</description>
+      <Point>
+        <coordinates>153.08416666666668,-27.341666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BOAR</name>
+      <description>Waypoint: BORUMBA RESV</description>
+      <Point>
+        <coordinates>152.58333333333334,-26.508333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BOWN</name>
+      <description>Waypoint: BOWEN</description>
+      <Point>
+        <coordinates>148.24166666666665,-20.016666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BWV</name>
+      <description>Waypoint: BOWENVILLE</description>
+      <Point>
+        <coordinates>151.48749999999998,-27.305555555555557,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BPI</name>
+      <description>Waypoint: BRAMPTON ISLAND</description>
+      <Point>
+        <coordinates>149.26666666666668,-20.805555555555557,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BBBG</name>
+      <description>Waypoint: BRIBIE BRIDGE</description>
+      <Point>
+        <coordinates>153.1461111111111,-27.07361111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BBI</name>
+      <description>Waypoint: BRIBIE ISLAND</description>
+      <Point>
+        <coordinates>153.14305555555555,-27.00027777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BRIN</name>
+      <description>Waypoint: BRINSMEAD</description>
+      <Point>
+        <coordinates>145.70833333333331,-16.90833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BCTY</name>
+      <description>Waypoint: BRISBANE CBD</description>
+      <Point>
+        <coordinates>153.03333333333333,-27.466666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BNCG</name>
+      <description>Waypoint: BRISBANE CRICKET GROUND</description>
+      <Point>
+        <coordinates>153.03805555555556,-27.485833333333336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BUCP</name>
+      <description>Waypoint: BUCHAN PT</description>
+      <Point>
+        <coordinates>145.66777777777776,-16.73611111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BLGH</name>
+      <description>Waypoint: BURLEIGH HEADS</description>
+      <Point>
+        <coordinates>153.45833333333331,-28.090833333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CBLT</name>
+      <description>Waypoint: CABLEWAY TERMINAL</description>
+      <Point>
+        <coordinates>145.69166666666666,-16.848333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CABO</name>
+      <description>Waypoint: CABOOLTURE</description>
+      <Point>
+        <coordinates>152.95,-27.0875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CALN</name>
+      <description>Waypoint: CALEN</description>
+      <Point>
+        <coordinates>148.76944444444445,-20.9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CRDZ</name>
+      <description>Waypoint: CALOUNDRA DROPZONE</description>
+      <Point>
+        <coordinates>153.10999999999999,-26.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CALT</name>
+      <description>Waypoint: CALTEX REFINERY</description>
+      <Point>
+        <coordinates>153.15833333333333,-27.415,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CLVT</name>
+      <description>Waypoint: CALVERT</description>
+      <Point>
+        <coordinates>152.51583333333335,-27.66361111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CAV</name>
+      <description>Waypoint: CANNONVALE</description>
+      <Point>
+        <coordinates>148.69166666666666,-20.27777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CCL</name>
+      <description>Waypoint: CAPE CLEVELAND</description>
+      <Point>
+        <coordinates>147.0125,-19.183333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CPY</name>
+      <description>Waypoint: CAPE CONWAY</description>
+      <Point>
+        <coordinates>148.92777777777778,-20.53611111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CGF</name>
+      <description>Waypoint: CAPE GRAFTON</description>
+      <Point>
+        <coordinates>145.91666666666666,-16.86388888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CPH</name>
+      <description>Waypoint: CAPE HILLSBOROUGH</description>
+      <Point>
+        <coordinates>149.04444444444445,-20.905555555555555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CPMN</name>
+      <description>Waypoint: CAPE MORETON</description>
+      <Point>
+        <coordinates>153.46666666666667,-27.033333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CDNA</name>
+      <description>Waypoint: CARDONA</description>
+      <Point>
+        <coordinates>149.0,-23.333333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CARIN</name>
+      <description>Waypoint: CARINDALE SHOPPING CENTRE</description>
+      <Point>
+        <coordinates>153.1011111111111,-27.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CRPT</name>
+      <description>Waypoint: CASTLEREAGH POINT</description>
+      <Point>
+        <coordinates>153.11138888888888,-27.192222222222224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CCP</name>
+      <description>Waypoint: CECIL PLAINS</description>
+      <Point>
+        <coordinates>151.18333333333334,-27.533333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CBRG</name>
+      <description>Waypoint: CENTENARY BRIDGE</description>
+      <Point>
+        <coordinates>152.94666666666666,-27.5275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CIH</name>
+      <description>Waypoint: CID HARBOUR</description>
+      <Point>
+        <coordinates>148.93333333333334,-20.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CEN</name>
+      <description>Waypoint: CLEVEDON</description>
+      <Point>
+        <coordinates>147.02083333333334,-19.395833333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CVD</name>
+      <description>Waypoint: CLEVELAND</description>
+      <Point>
+        <coordinates>153.28333333333333,-27.519444444444442,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CGH</name>
+      <description>Waypoint: CLONAGH STN</description>
+      <Point>
+        <coordinates>140.68333333333334,-20.133333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CLOY</name>
+      <description>Waypoint: CLONEYS CREEK</description>
+      <Point>
+        <coordinates>142.6,-20.216666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CBYC</name>
+      <description>Waypoint: COOBY CREEK RESV</description>
+      <Point>
+        <coordinates>151.9388888888889,-27.38611111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CMDR</name>
+      <description>Waypoint: COOLMUNDA RESV</description>
+      <Point>
+        <coordinates>151.23333333333332,-28.45,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>COOL</name>
+      <description>Waypoint: COOLUM HI-RISE</description>
+      <Point>
+        <coordinates>153.08722222222224,-26.52777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CORO</name>
+      <description>Waypoint: COOROY</description>
+      <Point>
+        <coordinates>152.90833333333333,-26.416666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CPL</name>
+      <description>Waypoint: COPPERLODE DAM</description>
+      <Point>
+        <coordinates>145.67083333333332,-16.98611111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>COWI</name>
+      <description>Waypoint: COW ISLAND</description>
+      <Point>
+        <coordinates>148.84472222222223,-20.422777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CNT</name>
+      <description>Waypoint: CROWS NEST</description>
+      <Point>
+        <coordinates>152.05555555555557,-27.269444444444442,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DAIN</name>
+      <description>Waypoint: DAINTREE</description>
+      <Point>
+        <coordinates>145.31666666666666,-16.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DRY</name>
+      <description>Waypoint: DALRYE</description>
+      <Point>
+        <coordinates>149.06666666666666,-20.166666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DBO</name>
+      <description>Waypoint: DAYBORO</description>
+      <Point>
+        <coordinates>152.82083333333333,-27.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DNP</name>
+      <description>Waypoint: DENHAM PASSAGE</description>
+      <Point>
+        <coordinates>143.33333333333334,-11.333333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DIBE</name>
+      <description>Waypoint: DICKY BEACH</description>
+      <Point>
+        <coordinates>153.13888888888889,-26.781944444444445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DOP</name>
+      <description>Waypoint: DONNINGTON AIRPARK</description>
+      <Point>
+        <coordinates>146.84166666666667,-19.601666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DOOM</name>
+      <description>Waypoint: DOOMBEN RACECOURSE</description>
+      <Point>
+        <coordinates>153.07,-27.42666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DCIS</name>
+      <description>Waypoint: DOUBLE CONE ISLAND</description>
+      <Point>
+        <coordinates>148.71666666666667,-20.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DOU</name>
+      <description>Waypoint: DOUBLE ISLAND</description>
+      <Point>
+        <coordinates>145.68333333333334,-16.724999999999998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DLP</name>
+      <description>Waypoint: DOUBLE ISLAND PT</description>
+      <Point>
+        <coordinates>153.18333333333334,-25.916666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DBPT</name>
+      <description>Waypoint: DOUBLE PT</description>
+      <Point>
+        <coordinates>142.9,-11.866666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DRLD</name>
+      <description>Waypoint: DREAMWORLD</description>
+      <Point>
+        <coordinates>153.31666666666666,-27.865000000000002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DAG</name>
+      <description>Waypoint: DUARINGA</description>
+      <Point>
+        <coordinates>149.6688888888889,-23.720555555555553,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DONG</name>
+      <description>Waypoint: DURONG</description>
+      <Point>
+        <coordinates>151.25,-26.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EARH</name>
+      <description>Waypoint: EARL HILL</description>
+      <Point>
+        <coordinates>145.7,-16.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EARV</name>
+      <description>Waypoint: EARLVILLE</description>
+      <Point>
+        <coordinates>145.73833333333332,-16.955,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EDT</name>
+      <description>Waypoint: EDMONTON</description>
+      <Point>
+        <coordinates>145.73055555555555,-17.025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EDOR</name>
+      <description>Waypoint: ENDEAVOUR REEF</description>
+      <Point>
+        <coordinates>145.56666666666666,-15.783333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ETON</name>
+      <description>Waypoint: ETON</description>
+      <Point>
+        <coordinates>148.97222222222223,-21.266666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EMI</name>
+      <description>Waypoint: EUMUNDI</description>
+      <Point>
+        <coordinates>152.95277777777775,-26.480555555555554,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EMD</name>
+      <description>Waypoint: EWEN MADDOCK DAM</description>
+      <Point>
+        <coordinates>153.00833333333333,-26.77777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FCP</name>
+      <description>Waypoint: FALSE CAPE</description>
+      <Point>
+        <coordinates>145.85,-16.875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FNVL</name>
+      <description>Waypoint: FERNVALE</description>
+      <Point>
+        <coordinates>152.65277777777777,-27.454166666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FISH</name>
+      <description>Waypoint: FISHERMANS ISLAND</description>
+      <Point>
+        <coordinates>153.17666666666665,-27.386666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FID</name>
+      <description>Waypoint: FITZROY ISLAND</description>
+      <Point>
+        <coordinates>145.99166666666665,-16.933333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FPK</name>
+      <description>Waypoint: FLINDERS PEAK</description>
+      <Point>
+        <coordinates>152.80833333333334,-27.816666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FMN</name>
+      <description>Waypoint: FORMARTIN</description>
+      <Point>
+        <coordinates>151.40833333333333,-27.395833333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FRWV</name>
+      <description>Waypoint: FRESHWATER VALLEY</description>
+      <Point>
+        <coordinates>145.68833333333333,-16.95,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GGN</name>
+      <description>Waypoint: GALLANGOWAN</description>
+      <Point>
+        <coordinates>152.32916666666665,-26.43277777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GAE</name>
+      <description>Waypoint: GALLILEE</description>
+      <Point>
+        <coordinates>145.98333333333332,-22.383333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GWB</name>
+      <description>Waypoint: GATEWAY BRIDGE</description>
+      <Point>
+        <coordinates>153.1,-27.445833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GNR</name>
+      <description>Waypoint: GIBSON REEF</description>
+      <Point>
+        <coordinates>146.35,-17.316666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GIM</name>
+      <description>Waypoint: GILBERLAND MINE</description>
+      <Point>
+        <coordinates>143.6,-19.3,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GIRU</name>
+      <description>Waypoint: GIRU</description>
+      <Point>
+        <coordinates>147.10555555555555,-19.5125,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GMN</name>
+      <description>Waypoint: GLENMORGAN</description>
+      <Point>
+        <coordinates>149.68333333333334,-27.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GRK</name>
+      <description>Waypoint: GLENROCK HS</description>
+      <Point>
+        <coordinates>145.08333333333334,-15.116666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GOI</name>
+      <description>Waypoint: GOLDSMITH ISLAND</description>
+      <Point>
+        <coordinates>149.15,-20.683333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GON</name>
+      <description>Waypoint: GOODNA</description>
+      <Point>
+        <coordinates>152.8875,-27.616666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GMBG</name>
+      <description>Waypoint: GOOMBUNGEE</description>
+      <Point>
+        <coordinates>151.85,-27.308333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GNN</name>
+      <description>Waypoint: GOONANEMAN</description>
+      <Point>
+        <coordinates>152.13333333333333,-25.433333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GOV</name>
+      <description>Waypoint: GORDONVALE</description>
+      <Point>
+        <coordinates>145.78333333333333,-17.08888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GOW</name>
+      <description>Waypoint: GOWRIE JUNCTION</description>
+      <Point>
+        <coordinates>151.8861111111111,-27.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GNIS</name>
+      <description>Waypoint: GREEN ISLAND (CAIRNS)</description>
+      <Point>
+        <coordinates>145.975,-16.758333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GRL</name>
+      <description>Waypoint: GREEN ISLAND (MACKAY)</description>
+      <Point>
+        <coordinates>149.15,-20.983333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GRNH</name>
+      <description>Waypoint: GREENHILL</description>
+      <Point>
+        <coordinates>145.805,-17.040000000000003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GNM</name>
+      <description>Waypoint: GREENMOUNT</description>
+      <Point>
+        <coordinates>151.95,-27.783333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GUNG</name>
+      <description>Waypoint: GUTHALUNGRA</description>
+      <Point>
+        <coordinates>147.83333333333334,-19.933333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HMM</name>
+      <description>Waypoint: HAMMOND ISLAND</description>
+      <Point>
+        <coordinates>142.21666666666667,-10.533333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HMN</name>
+      <description>Waypoint: HAMPTON</description>
+      <Point>
+        <coordinates>152.06666666666666,-27.358333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HAVY</name>
+      <description>Waypoint: HAPPY VALLEY</description>
+      <Point>
+        <coordinates>153.13305555555556,-26.80777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HSTI</name>
+      <description>Waypoint: HASTINGS</description>
+      <Point>
+        <coordinates>145.18333333333334,-28.3,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HVI</name>
+      <description>Waypoint: HAVANNAH ISLAND</description>
+      <Point>
+        <coordinates>146.5388888888889,-18.844444444444445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HPT</name>
+      <description>Waypoint: HAY PT</description>
+      <Point>
+        <coordinates>149.29166666666666,-21.27777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HAZ</name>
+      <description>Waypoint: HAZELWOOD ISLAND</description>
+      <Point>
+        <coordinates>149.08333333333334,-20.283333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HED</name>
+      <description>Waypoint: HELIDON</description>
+      <Point>
+        <coordinates>152.13333333333333,-27.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HIPA</name>
+      <description>Waypoint: HIGH PERFORMANCE AREA 3</description>
+      <Point>
+        <coordinates>153.84694444444446,-27.149444444444445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HVTG</name>
+      <description>Waypoint: HIGH VOLTAGE</description>
+      <Point>
+        <coordinates>145.76333333333332,-17.014166666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HIM</name>
+      <description>Waypoint: HILTON MINE</description>
+      <Point>
+        <coordinates>139.48333333333332,-20.566666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HNCH</name>
+      <description>Waypoint: HINCHINBROOK ISLAND</description>
+      <Point>
+        <coordinates>146.25,-18.366666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HDWL</name>
+      <description>Waypoint: HINZE DAM WALL</description>
+      <Point>
+        <coordinates>153.28666666666666,-28.05,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HOLM</name>
+      <description>Waypoint: HOLMES REEF</description>
+      <Point>
+        <coordinates>148.0,-16.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HBU</name>
+      <description>Waypoint: HOMEBUSH</description>
+      <Point>
+        <coordinates>149.05,-21.280555555555555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HBVT</name>
+      <description>Waypoint: HORNIBROOK VIADUCT</description>
+      <Point>
+        <coordinates>153.0725,-27.273888888888887,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JNR</name>
+      <description>Waypoint: JACKSON RIVER</description>
+      <Point>
+        <coordinates>142.0,-11.583333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JEA</name>
+      <description>Waypoint: JEANNIE RIVER</description>
+      <Point>
+        <coordinates>144.86666666666667,-14.733333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JDN</name>
+      <description>Waypoint: JONDARYAN</description>
+      <Point>
+        <coordinates>151.5875,-27.366666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JGK</name>
+      <description>Waypoint: JUG CREEK</description>
+      <Point>
+        <coordinates>144.7,-22.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JPP</name>
+      <description>Waypoint: JUMPINPIN</description>
+      <Point>
+        <coordinates>153.45,-27.733333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JUP</name>
+      <description>Waypoint: JUPITERS CASINO</description>
+      <Point>
+        <coordinates>153.42944444444444,-28.0325,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KKN</name>
+      <description>Waypoint: KAIMKILLENBUN</description>
+      <Point>
+        <coordinates>151.43333333333334,-27.066666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KERW</name>
+      <description>Waypoint: KEERWEE</description>
+      <Point>
+        <coordinates>151.35,-25.216666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KALL</name>
+      <description>Waypoint: KENDALL</description>
+      <Point>
+        <coordinates>141.6,-14.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSI</name>
+      <description>Waypoint: KESWICK ISLAND</description>
+      <Point>
+        <coordinates>149.41666666666666,-20.916666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLCY</name>
+      <description>Waypoint: KILCOY TOWNSHIP</description>
+      <Point>
+        <coordinates>152.5638888888889,-26.941666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KKV</name>
+      <description>Waypoint: KILKIVAN</description>
+      <Point>
+        <coordinates>152.24666666666664,-26.083333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KRT</name>
+      <description>Waypoint: KING RANCH TULLY</description>
+      <Point>
+        <coordinates>145.83333333333334,-18.083333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBCH</name>
+      <description>Waypoint: KINGS BEACH</description>
+      <Point>
+        <coordinates>153.14,-26.80527777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KGT</name>
+      <description>Waypoint: KINGSTHORPE</description>
+      <Point>
+        <coordinates>151.8138888888889,-27.477777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KSPT</name>
+      <description>Waypoint: KISSING POINT</description>
+      <Point>
+        <coordinates>146.80555555555557,-19.241666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KBD</name>
+      <description>Waypoint: KOOMBOOLOOMBA DAM</description>
+      <Point>
+        <coordinates>145.6,-17.833333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KANC</name>
+      <description>Waypoint: KOORANA CROCODILE FARM</description>
+      <Point>
+        <coordinates>150.75944444444445,-23.31527777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KOPP</name>
+      <description>Waypoint: KOPPEN PARK</description>
+      <Point>
+        <coordinates>145.73388888888888,-16.93111111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KUN</name>
+      <description>Waypoint: KUNWARARA</description>
+      <Point>
+        <coordinates>150.13333333333333,-22.916666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KRN</name>
+      <description>Waypoint: KURANDA</description>
+      <Point>
+        <coordinates>145.6375,-16.816666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LDLY</name>
+      <description>Waypoint: LAIDLEY</description>
+      <Point>
+        <coordinates>152.38333333333333,-27.633333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LKON</name>
+      <description>Waypoint: LAKE CLARENDON</description>
+      <Point>
+        <coordinates>152.35,-27.491666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LCDI</name>
+      <description>Waypoint: LAKE CURRIMUNDI</description>
+      <Point>
+        <coordinates>153.13666666666666,-26.76527777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEM</name>
+      <description>Waypoint: LAKE EPSOM</description>
+      <Point>
+        <coordinates>148.83333333333334,-21.48888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LMC</name>
+      <description>Waypoint: LAKE MANCHESTER</description>
+      <Point>
+        <coordinates>152.76666666666668,-27.483333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LOOH</name>
+      <description>Waypoint: LAKE MOOGERAH</description>
+      <Point>
+        <coordinates>152.55,-28.033333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LGH</name>
+      <description>Waypoint: LANGHAM</description>
+      <Point>
+        <coordinates>150.1,-22.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LVE</name>
+      <description>Waypoint: LINVILLE</description>
+      <Point>
+        <coordinates>152.26666666666668,-26.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LMGE</name>
+      <description>Waypoint: LITTLE MULGRAVE</description>
+      <Point>
+        <coordinates>145.725,-17.13888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LFC</name>
+      <description>Waypoint: LONGFORD CREEK</description>
+      <Point>
+        <coordinates>148.36666666666667,-20.208333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LWI</name>
+      <description>Waypoint: LOW ISLETS</description>
+      <Point>
+        <coordinates>145.56666666666666,-16.383333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LWD</name>
+      <description>Waypoint: LOWOOD</description>
+      <Point>
+        <coordinates>152.58333333333334,-27.466666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LNDA</name>
+      <description>Waypoint: LUCINDA</description>
+      <Point>
+        <coordinates>146.33333333333334,-18.533333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LYNR</name>
+      <description>Waypoint: LYND RIVER</description>
+      <Point>
+        <coordinates>143.75,-17.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MACB</name>
+      <description>Waypoint: MACHANS BEACH</description>
+      <Point>
+        <coordinates>145.75,-16.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MZR</name>
+      <description>Waypoint: MACKENZIE RIVER</description>
+      <Point>
+        <coordinates>149.5,-23.166666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAS</name>
+      <description>Waypoint: MAGNESITE MINE</description>
+      <Point>
+        <coordinates>150.18333333333334,-22.888333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MBHB</name>
+      <description>Waypoint: MANLY BOAT HARBOUR</description>
+      <Point>
+        <coordinates>153.19111111111113,-27.45638888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MBA</name>
+      <description>Waypoint: MAREEBA</description>
+      <Point>
+        <coordinates>145.41833333333332,-17.06833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MARQ</name>
+      <description>Waypoint: MARINO'S QUARRY</description>
+      <Point>
+        <coordinates>145.72694444444446,-16.92,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MKN</name>
+      <description>Waypoint: MARY KATHLEEN</description>
+      <Point>
+        <coordinates>139.98333333333332,-20.783333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MHD</name>
+      <description>Waypoint: MASTHEAD ISLAND</description>
+      <Point>
+        <coordinates>151.73333333333332,-23.533333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MRH</name>
+      <description>Waypoint: MAURICE HILL</description>
+      <Point>
+        <coordinates>151.25,-23.933333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MRI</name>
+      <description>Waypoint: MERION</description>
+      <Point>
+        <coordinates>149.03333333333333,-22.866666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MII</name>
+      <description>Waypoint: MIDGE ISLAND</description>
+      <Point>
+        <coordinates>148.76111111111112,-20.691666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MPO</name>
+      <description>Waypoint: MILPEROO</description>
+      <Point>
+        <coordinates>141.25,-23.183333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MISB</name>
+      <description>Waypoint: MISSION BEACH</description>
+      <Point>
+        <coordinates>146.10694444444445,-17.870833333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MSC</name>
+      <description>Waypoint: MISSION BEACH</description>
+      <Point>
+        <coordinates>146.1,-17.883333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MFBH</name>
+      <description>Waypoint: MOFFAT BEACH</description>
+      <Point>
+        <coordinates>153.14166666666665,-26.788611111111113,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MFH</name>
+      <description>Waypoint: MOFFAT HEAD</description>
+      <Point>
+        <coordinates>153.13972222222222,-26.789722222222224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MBH</name>
+      <description>Waypoint: MOOLOOLABA</description>
+      <Point>
+        <coordinates>153.13333333333333,-26.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MIE</name>
+      <description>Waypoint: MOONIE</description>
+      <Point>
+        <coordinates>150.36666666666667,-27.716666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MMA</name>
+      <description>Waypoint: MOSSMAN</description>
+      <Point>
+        <coordinates>145.37222222222223,-16.458333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MBC</name>
+      <description>Waypoint: MOUNT BLACK</description>
+      <Point>
+        <coordinates>146.55833333333334,-19.283333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MBK</name>
+      <description>Waypoint: MOUNT BLACKWOOD</description>
+      <Point>
+        <coordinates>148.94166666666666,-21.033333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTBL</name>
+      <description>Waypoint: MOUNT BOHLE</description>
+      <Point>
+        <coordinates>146.6888888888889,-19.266666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MCAR</name>
+      <description>Waypoint: MOUNT CARNARVON</description>
+      <Point>
+        <coordinates>148.38333333333333,-24.916666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTC</name>
+      <description>Waypoint: MOUNT COOLUM</description>
+      <Point>
+        <coordinates>153.08333333333334,-26.561111111111114,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MCOO</name>
+      <description>Waypoint: MOUNT COTTON</description>
+      <Point>
+        <coordinates>153.21666666666667,-27.622222222222224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MELE</name>
+      <description>Waypoint: MOUNT ELEPHANT</description>
+      <Point>
+        <coordinates>144.93333333333334,-16.45,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MFN</name>
+      <description>Waypoint: MOUNT FUNNEL</description>
+      <Point>
+        <coordinates>149.3861111111111,-21.625,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MGLO</name>
+      <description>Waypoint: MOUNT GLORIOUS</description>
+      <Point>
+        <coordinates>152.76666666666668,-27.333333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MVT</name>
+      <description>Waypoint: MOUNT GRAVATT</description>
+      <Point>
+        <coordinates>153.075,-27.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MLI</name>
+      <description>Waypoint: MOUNT LION</description>
+      <Point>
+        <coordinates>150.32083333333333,-23.391666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTMA</name>
+      <description>Waypoint: MOUNT MARIA</description>
+      <Point>
+        <coordinates>151.48333333333332,-27.466666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MMY</name>
+      <description>Waypoint: MOUNT MOLLOY</description>
+      <Point>
+        <coordinates>145.32916666666665,-16.67777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MGN</name>
+      <description>Waypoint: MOUNT MORGAN</description>
+      <Point>
+        <coordinates>150.39166666666665,-23.644444444444446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MIY</name>
+      <description>Waypoint: MOUNT NINDERRY</description>
+      <Point>
+        <coordinates>152.99166666666665,-26.554166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTEW</name>
+      <description>Waypoint: MOUNT STEWAN</description>
+      <Point>
+        <coordinates>144.05,-20.366666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTY</name>
+      <description>Waypoint: MOUNT TYSON</description>
+      <Point>
+        <coordinates>151.56666666666666,-27.583333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTWK</name>
+      <description>Waypoint: MOUNT WALKER</description>
+      <Point>
+        <coordinates>152.55722222222224,-27.78888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MWH</name>
+      <description>Waypoint: MOUNT WHEELER</description>
+      <Point>
+        <coordinates>150.68305555555554,-23.226388888888888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MBKR</name>
+      <description>Waypoint: MOUTH OF THE BLACK RIVER</description>
+      <Point>
+        <coordinates>146.65333333333334,-19.18,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MBHR</name>
+      <description>Waypoint: MOUTH OF THE BOHLE RIVER</description>
+      <Point>
+        <coordinates>146.70166666666665,-19.196666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MMT</name>
+      <description>Waypoint: MT MARGARET</description>
+      <Point>
+        <coordinates>146.60166666666666,-19.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUDI</name>
+      <description>Waypoint: MUD ISLAND</description>
+      <Point>
+        <coordinates>153.25,-27.333333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MEER</name>
+      <description>Waypoint: MUDGEERABA</description>
+      <Point>
+        <coordinates>153.36666666666667,-28.083333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LLN</name>
+      <description>Waypoint: MULLEN</description>
+      <Point>
+        <coordinates>153.0,-25.03666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAA</name>
+      <description>Waypoint: MUNGALLALA</description>
+      <Point>
+        <coordinates>147.55,-26.45,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUNM</name>
+      <description>Waypoint: MUNIGANEEN MT</description>
+      <Point>
+        <coordinates>151.875,-27.40833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MHY</name>
+      <description>Waypoint: MURPHY'S CREEK</description>
+      <Point>
+        <coordinates>152.05416666666667,-27.4625,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MYW</name>
+      <description>Waypoint: MURRAY DOWNS</description>
+      <Point>
+        <coordinates>139.2,-25.033333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUEE</name>
+      <description>Waypoint: MUTARNEE</description>
+      <Point>
+        <coordinates>146.3,-18.95,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MRTL</name>
+      <description>Waypoint: MYRTLE</description>
+      <Point>
+        <coordinates>146.53333333333333,-19.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NMB</name>
+      <description>Waypoint: NAMBOUR</description>
+      <Point>
+        <coordinates>152.95833333333331,-26.62777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NAA</name>
+      <description>Waypoint: NARA INLET</description>
+      <Point>
+        <coordinates>148.9,-20.15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NOOG</name>
+      <description>Waypoint: NARROOGAL</description>
+      <Point>
+        <coordinates>142.5,-10.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NEN</name>
+      <description>Waypoint: NERANG</description>
+      <Point>
+        <coordinates>153.3375,-27.9875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NGI</name>
+      <description>Waypoint: NGULUPI</description>
+      <Point>
+        <coordinates>142.41083333333333,-10.243333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NIM</name>
+      <description>Waypoint: NIMROD PASSAGE</description>
+      <Point>
+        <coordinates>143.78333333333333,-12.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NDI</name>
+      <description>Waypoint: NINDIGULLY</description>
+      <Point>
+        <coordinates>148.81666666666666,-28.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NDY</name>
+      <description>Waypoint: NODDY REEF</description>
+      <Point>
+        <coordinates>143.75,-13.733333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NOME</name>
+      <description>Waypoint: NOME</description>
+      <Point>
+        <coordinates>146.92,-19.37666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NNDO</name>
+      <description>Waypoint: NOONDOO</description>
+      <Point>
+        <coordinates>148.43333333333334,-28.616666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NOSA</name>
+      <description>Waypoint: NOOSA HEADS</description>
+      <Point>
+        <coordinates>153.11666666666667,-26.375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NBRR</name>
+      <description>Waypoint: NORTHERN TIP BERSERKERS</description>
+      <Point>
+        <coordinates>150.58833333333334,-23.27861111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NRWN</name>
+      <description>Waypoint: NORWIN</description>
+      <Point>
+        <coordinates>151.37916666666666,-27.558333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NUDG</name>
+      <description>Waypoint: NUDGEE TIP</description>
+      <Point>
+        <coordinates>153.09166666666667,-27.358333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NCHU</name>
+      <description>Waypoint: NYCHUM</description>
+      <Point>
+        <coordinates>144.46166666666664,-16.843333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OBY</name>
+      <description>Waypoint: OLD BOMBANDY</description>
+      <Point>
+        <coordinates>148.63333333333333,-22.433333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OLCO</name>
+      <description>Waypoint: OLD CORK</description>
+      <Point>
+        <coordinates>141.86666666666667,-22.933333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORKS</name>
+      <description>Waypoint: ORCHARD ROCKS</description>
+      <Point>
+        <coordinates>146.88166666666666,-19.110000000000003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORF</name>
+      <description>Waypoint: ORFORD NESS</description>
+      <Point>
+        <coordinates>142.81666666666666,-11.3,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OFD</name>
+      <description>Waypoint: OXENFORD</description>
+      <Point>
+        <coordinates>153.31666666666666,-27.883333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PCVE</name>
+      <description>Waypoint: PALM COVE</description>
+      <Point>
+        <coordinates>145.66666666666666,-16.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PFRM</name>
+      <description>Waypoint: PALM FARM</description>
+      <Point>
+        <coordinates>145.76166666666666,-17.043333333333337,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PLW</name>
+      <description>Waypoint: PALM MEADOWS</description>
+      <Point>
+        <coordinates>152.40833333333333,-28.033333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PLU</name>
+      <description>Waypoint: PALUMA DAM</description>
+      <Point>
+        <coordinates>146.14444444444445,-18.955555555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SFG</name>
+      <description>Waypoint: PARADISE GARDENS</description>
+      <Point>
+        <coordinates>153.375,-28.018055555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PKR</name>
+      <description>Waypoint: PARK RIDGE WATER TOWER</description>
+      <Point>
+        <coordinates>153.0388888888889,-27.704444444444444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PRKH</name>
+      <description>Waypoint: PARKHURST</description>
+      <Point>
+        <coordinates>150.51388888888889,-23.304166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PECO</name>
+      <description>Waypoint: PEACOCK</description>
+      <Point>
+        <coordinates>145.98333333333332,-18.683333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PDNE</name>
+      <description>Waypoint: PEAK DOWNS MINE</description>
+      <Point>
+        <coordinates>148.18333333333334,-22.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PCCK</name>
+      <description>Waypoint: PELICAN CREEK</description>
+      <Point>
+        <coordinates>150.9,-25.233333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PEG</name>
+      <description>Waypoint: PEREGIAN</description>
+      <Point>
+        <coordinates>153.1,-26.516666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PCKD</name>
+      <description>Waypoint: PERSEVERENCE CREEK DAM</description>
+      <Point>
+        <coordinates>152.12083333333334,-27.305555555555557,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PTI</name>
+      <description>Waypoint: PETRIE</description>
+      <Point>
+        <coordinates>152.975,-27.266666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PCA</name>
+      <description>Waypoint: PICNIC BAY</description>
+      <Point>
+        <coordinates>146.85,-19.183333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PII</name>
+      <description>Waypoint: PIRATE POINT</description>
+      <Point>
+        <coordinates>150.64166666666665,-23.508333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PWH</name>
+      <description>Waypoint: PITTSWORTH</description>
+      <Point>
+        <coordinates>151.63333333333333,-27.72083333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PRP</name>
+      <description>Waypoint: PORPOISE PT</description>
+      <Point>
+        <coordinates>153.42527777777778,-27.93638888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PMA</name>
+      <description>Waypoint: PORT ALMA</description>
+      <Point>
+        <coordinates>150.85833333333332,-23.583333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PTD</name>
+      <description>Waypoint: PORT DOUGLAS</description>
+      <Point>
+        <coordinates>145.46388888888887,-16.483333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PMG</name>
+      <description>Waypoint: PORT MUSGRAVE</description>
+      <Point>
+        <coordinates>141.93333333333334,-12.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PCB</name>
+      <description>Waypoint: PRINCESS CHARLOTTE BAY</description>
+      <Point>
+        <coordinates>144.11666666666667,-14.333333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PSTO</name>
+      <description>Waypoint: PROSTON</description>
+      <Point>
+        <coordinates>151.6,-26.166666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PBF</name>
+      <description>Waypoint: PURLINGBROOKE FALLS</description>
+      <Point>
+        <coordinates>153.26666666666668,-28.166666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PWDA</name>
+      <description>Waypoint: PURRAWUNDA</description>
+      <Point>
+        <coordinates>151.625,-27.53888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QAI</name>
+      <description>Waypoint: QUAIL ISLAND</description>
+      <Point>
+        <coordinates>150.0,-22.133333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Q1</name>
+      <description>Waypoint: QUEBEC ONE</description>
+      <Point>
+        <coordinates>153.43027777777777,-28.006666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QSAC</name>
+      <description>Waypoint: QUEENSLAND SAC</description>
+      <Point>
+        <coordinates>153.0627777777778,-27.558333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QLW</name>
+      <description>Waypoint: QUINALOW</description>
+      <Point>
+        <coordinates>151.62083333333334,-27.105555555555558,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RIL</name>
+      <description>Waypoint: RABBIT ISLAND</description>
+      <Point>
+        <coordinates>148.9,-20.833333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RBY</name>
+      <description>Waypoint: RABY BAY</description>
+      <Point>
+        <coordinates>153.275,-27.516666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RDRS</name>
+      <description>Waypoint: RADAR SITE</description>
+      <Point>
+        <coordinates>146.76666666666668,-19.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RAIS</name>
+      <description>Waypoint: RAINE ISLAND</description>
+      <Point>
+        <coordinates>144.03333333333333,-11.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RNN</name>
+      <description>Waypoint: RANNES</description>
+      <Point>
+        <coordinates>150.11666666666667,-24.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RTY</name>
+      <description>Waypoint: RATHDOWNEY</description>
+      <Point>
+        <coordinates>152.86666666666667,-28.216666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RKI</name>
+      <description>Waypoint: RATTLESNAKE ISLAND</description>
+      <Point>
+        <coordinates>146.61111111111111,-19.033333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RDHI</name>
+      <description>Waypoint: RED HILL</description>
+      <Point>
+        <coordinates>148.05,-21.633333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RDV</name>
+      <description>Waypoint: REDCLIFFE VALE HS</description>
+      <Point>
+        <coordinates>148.11666666666667,-21.116666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>REDB</name>
+      <description>Waypoint: REDLAND BAY</description>
+      <Point>
+        <coordinates>153.3,-27.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>REDL</name>
+      <description>Waypoint: REDLYNCH</description>
+      <Point>
+        <coordinates>145.7,-16.883333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RIT</name>
+      <description>Waypoint: RING TANK</description>
+      <Point>
+        <coordinates>153.09166666666667,-26.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ROTC</name>
+      <description>Waypoint: ROBINA TOWN CENTRE</description>
+      <Point>
+        <coordinates>153.38527777777776,-28.077222222222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RGS</name>
+      <description>Waypoint: ROLLINGSTONE</description>
+      <Point>
+        <coordinates>146.3875,-19.047222222222224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RSWD</name>
+      <description>Waypoint: ROSEWOOD</description>
+      <Point>
+        <coordinates>152.59305555555557,-27.63611111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RSEW</name>
+      <description>Waypoint: ROSEWOOD ISLAND</description>
+      <Point>
+        <coordinates>149.73333333333332,-22.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RRDM</name>
+      <description>Waypoint: ROSS RIVER DAM</description>
+      <Point>
+        <coordinates>146.73333333333332,-19.41111111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RMT</name>
+      <description>Waypoint: ROUND MT</description>
+      <Point>
+        <coordinates>146.69444444444446,-19.461111111111112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RUIS</name>
+      <description>Waypoint: RUSSELL ISLAND</description>
+      <Point>
+        <coordinates>153.38333333333333,-27.666666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SADD</name>
+      <description>Waypoint: SADDLE MT</description>
+      <Point>
+        <coordinates>145.65,-16.82,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SSV</name>
+      <description>Waypoint: SAMSONVALE</description>
+      <Point>
+        <coordinates>152.85416666666666,-27.27777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SAU</name>
+      <description>Waypoint: SANCTUARY COVE</description>
+      <Point>
+        <coordinates>153.375,-27.858333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SAND</name>
+      <description>Waypoint: SANDGATE PIER</description>
+      <Point>
+        <coordinates>153.08777777777777,-27.328333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SJI</name>
+      <description>Waypoint: SARAJI</description>
+      <Point>
+        <coordinates>148.28333333333333,-22.433333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SRIN</name>
+      <description>Waypoint: SARINA</description>
+      <Point>
+        <coordinates>149.21666666666667,-21.425,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDS</name>
+      <description>Waypoint: SHAUNA DOWNS</description>
+      <Point>
+        <coordinates>149.91666666666666,-24.616666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SHI</name>
+      <description>Waypoint: SHAW ISLAND</description>
+      <Point>
+        <coordinates>149.08666666666667,-20.513333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SHL</name>
+      <description>Waypoint: SHELBURNE BAY</description>
+      <Point>
+        <coordinates>143.01666666666668,-11.883333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SLPT</name>
+      <description>Waypoint: SLADE POINT</description>
+      <Point>
+        <coordinates>149.225,-21.065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SGK</name>
+      <description>Waypoint: SLOPING HUMMOCK</description>
+      <Point>
+        <coordinates>152.43333333333334,-24.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMIF</name>
+      <description>Waypoint: SMITHFIELD</description>
+      <Point>
+        <coordinates>145.68333333333334,-16.833333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMD</name>
+      <description>Waypoint: SOMERSET DAM</description>
+      <Point>
+        <coordinates>152.55,-27.120833333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMIB</name>
+      <description>Waypoint: SOUTH MISSION BEACH</description>
+      <Point>
+        <coordinates>146.09166666666667,-17.948333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SPN</name>
+      <description>Waypoint: SOUTH PINNACLE</description>
+      <Point>
+        <coordinates>146.63333333333333,-19.40833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDG</name>
+      <description>Waypoint: SOUTHEDGE</description>
+      <Point>
+        <coordinates>145.21666666666667,-16.816666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SBRR</name>
+      <description>Waypoint: SOUTHERN TIP BERSERKERS</description>
+      <Point>
+        <coordinates>150.625,-23.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SPT</name>
+      <description>Waypoint: SOUTHPORT</description>
+      <Point>
+        <coordinates>153.37222222222223,-27.916666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SPMT</name>
+      <description>Waypoint: SPRING MOUNTAIN</description>
+      <Point>
+        <coordinates>152.88555555555556,-27.713055555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SBK</name>
+      <description>Waypoint: SPRINGBROOK</description>
+      <Point>
+        <coordinates>153.2777777777778,-28.231944444444444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SGM</name>
+      <description>Waypoint: ST GEORGES MINE</description>
+      <Point>
+        <coordinates>144.4,-16.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SHIS</name>
+      <description>Waypoint: ST HELENA ISLAND</description>
+      <Point>
+        <coordinates>153.23333333333332,-27.378333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SPS</name>
+      <description>Waypoint: STANWELL POWER STN</description>
+      <Point>
+        <coordinates>150.33333333333334,-23.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SCRK</name>
+      <description>Waypoint: STONEY CREEK</description>
+      <Point>
+        <coordinates>145.655,-16.878333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SBD</name>
+      <description>Waypoint: STORY BRIDGE</description>
+      <Point>
+        <coordinates>153.0375,-27.46527777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SFE</name>
+      <description>Waypoint: STRATHFINELLA</description>
+      <Point>
+        <coordinates>143.55,-23.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUA</name>
+      <description>Waypoint: STUART</description>
+      <Point>
+        <coordinates>146.83333333333334,-19.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>STUM</name>
+      <description>Waypoint: STUMERS CREEK</description>
+      <Point>
+        <coordinates>153.08555555555557,-26.519444444444442,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUTR</name>
+      <description>Waypoint: SUGAR TERMINAL</description>
+      <Point>
+        <coordinates>145.76666666666668,-16.941666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SWLD</name>
+      <description>Waypoint: SUGARWORLD</description>
+      <Point>
+        <coordinates>145.73166666666665,-17.016666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUNZ</name>
+      <description>Waypoint: SUN ZINC REFINERY</description>
+      <Point>
+        <coordinates>146.88666666666666,-19.333333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SBIT</name>
+      <description>Waypoint: SURBITON</description>
+      <Point>
+        <coordinates>146.61666666666667,-23.15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUPA</name>
+      <description>Waypoint: SURFER'S PARADISE</description>
+      <Point>
+        <coordinates>153.43333333333334,-28.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SBCH</name>
+      <description>Waypoint: SUTTONS BEACH</description>
+      <Point>
+        <coordinates>153.11527777777778,-27.234722222222224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TGN</name>
+      <description>Waypoint: TANGORIN</description>
+      <Point>
+        <coordinates>144.2,-21.733333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TAR</name>
+      <description>Waypoint: TARGET</description>
+      <Point>
+        <coordinates>153.12722222222223,-27.61388888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CKO</name>
+      <description>Waypoint: TELEGRAPH OFFICE</description>
+      <Point>
+        <coordinates>145.48333333333332,-19.233333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TPL</name>
+      <description>Waypoint: TEMPLE BAY</description>
+      <Point>
+        <coordinates>143.15,-12.266666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TLC</name>
+      <description>Waypoint: TERRANORA LAKES COUNTRY CLUB</description>
+      <Point>
+        <coordinates>153.47361111111113,-28.215,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TWT</name>
+      <description>Waypoint: TEWANTIN</description>
+      <Point>
+        <coordinates>153.03333333333333,-26.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TCNR</name>
+      <description>Waypoint: THE CORNER</description>
+      <Point>
+        <coordinates>146.72833333333332,-19.325,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PIN</name>
+      <description>Waypoint: THE PINES</description>
+      <Point>
+        <coordinates>153.46666666666667,-28.141666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>THB</name>
+      <description>Waypoint: THEEBINE</description>
+      <Point>
+        <coordinates>152.55,-25.95,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>THSM</name>
+      <description>Waypoint: THOMPSON 1</description>
+      <Point>
+        <coordinates>145.75166666666667,-17.01222222222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TORN</name>
+      <description>Waypoint: THORNTON</description>
+      <Point>
+        <coordinates>152.38333333333333,-27.816666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TNP</name>
+      <description>Waypoint: THORNTON GAP</description>
+      <Point>
+        <coordinates>146.46166666666664,-19.358333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TBRT</name>
+      <description>Waypoint: TIMBERTOP</description>
+      <Point>
+        <coordinates>145.80555555555557,-16.958333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TING</name>
+      <description>Waypoint: TINGALPA RESERVOIR</description>
+      <Point>
+        <coordinates>153.16694444444443,-27.540277777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TOOU</name>
+      <description>Waypoint: TOOMULLA</description>
+      <Point>
+        <coordinates>146.46666666666667,-19.083333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TRIN</name>
+      <description>Waypoint: TRINITY BEACH</description>
+      <Point>
+        <coordinates>145.7,-16.783333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TKER</name>
+      <description>Waypoint: TUCKER</description>
+      <Point>
+        <coordinates>149.2,-24.483333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UQLD</name>
+      <description>Waypoint: UNI OF QLD ST LUCIA</description>
+      <Point>
+        <coordinates>153.01333333333332,-27.497500000000002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URAN</name>
+      <description>Waypoint: URANGAN</description>
+      <Point>
+        <coordinates>152.9,-25.283333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WKT</name>
+      <description>Waypoint: WALKERSTON</description>
+      <Point>
+        <coordinates>149.0638888888889,-21.162499999999998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WMB</name>
+      <description>Waypoint: WALLUMBILLA</description>
+      <Point>
+        <coordinates>149.18333333333334,-26.583333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WTBG</name>
+      <description>Waypoint: WALTER TAYLOR BRIDGE</description>
+      <Point>
+        <coordinates>152.9738888888889,-27.505555555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WAT</name>
+      <description>Waypoint: WANGETTI</description>
+      <Point>
+        <coordinates>145.56666666666666,-16.665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WWN</name>
+      <description>Waypoint: WEALWANDANGIE</description>
+      <Point>
+        <coordinates>148.05,-24.416666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WCP</name>
+      <description>Waypoint: WELLCAMP DOWNS</description>
+      <Point>
+        <coordinates>151.85,-27.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WELL</name>
+      <description>Waypoint: WELLINGTON PT</description>
+      <Point>
+        <coordinates>153.24194444444444,-27.468888888888888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WLS</name>
+      <description>Waypoint: WELLSHOT</description>
+      <Point>
+        <coordinates>144.43333333333334,-23.9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WEP</name>
+      <description>Waypoint: WEST PT</description>
+      <Point>
+        <coordinates>146.7777777777778,-19.12777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WNFE</name>
+      <description>Waypoint: WESTERN FREEWAY</description>
+      <Point>
+        <coordinates>152.945,-27.575,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WMR</name>
+      <description>Waypoint: WESTMAR</description>
+      <Point>
+        <coordinates>149.71666666666667,-27.916666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WTB</name>
+      <description>Waypoint: WETHERBY</description>
+      <Point>
+        <coordinates>142.83333333333334,-21.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WTRK</name>
+      <description>Waypoint: WHITE ROCK</description>
+      <Point>
+        <coordinates>146.71833333333333,-18.771944444444443,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WHW</name>
+      <description>Waypoint: WHITEWOOD</description>
+      <Point>
+        <coordinates>143.6,-21.483333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WHDW</name>
+      <description>Waypoint: WIVENHOE DAM WALL</description>
+      <Point>
+        <coordinates>152.60833333333332,-27.394444444444446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WOT</name>
+      <description>Waypoint: WOODGATE</description>
+      <Point>
+        <coordinates>152.56666666666666,-25.116666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WYPT</name>
+      <description>Waypoint: WOODY PT</description>
+      <Point>
+        <coordinates>153.10305555555556,-27.264722222222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WNK</name>
+      <description>Waypoint: WOOMANOOKA</description>
+      <Point>
+        <coordinates>141.58333333333334,-13.733333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WRM</name>
+      <description>Waypoint: WOORIM</description>
+      <Point>
+        <coordinates>153.20305555555555,-27.0775,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WYR</name>
+      <description>Waypoint: WYREEMA</description>
+      <Point>
+        <coordinates>151.85833333333332,-27.65,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YMA</name>
+      <description>Waypoint: YAAMBA</description>
+      <Point>
+        <coordinates>150.36666666666667,-23.133333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YBU</name>
+      <description>Waypoint: YABULU</description>
+      <Point>
+        <coordinates>146.59722222222223,-19.21388888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALBO</name>
+      <description>Waypoint: YALBOROO</description>
+      <Point>
+        <coordinates>148.65,-20.833333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ANDA</name>
+      <description>Waypoint: YANDARAN</description>
+      <Point>
+        <coordinates>152.11666666666667,-24.716666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YNA</name>
+      <description>Waypoint: YANDINA</description>
+      <Point>
+        <coordinates>152.95555555555555,-26.56388888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YBH</name>
+      <description>Waypoint: YARRABAH</description>
+      <Point>
+        <coordinates>145.88333333333333,-16.916666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YKS</name>
+      <description>Waypoint: YORKEYS KNOB</description>
+      <Point>
+        <coordinates>145.725,-16.809722222222224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ULAB</name>
+      <description>Waypoint: YULABILLA</description>
+      <Point>
+        <coordinates>149.7,-27.066666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URAR</name>
+      <description>Waypoint: YURARABA</description>
+      <Point>
+        <coordinates>151.4,-28.333333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ZIN</name>
+      <description>Waypoint: ZUIZIN ISLAND</description>
+      <Point>
+        <coordinates>143.33333333333334,-10.1,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

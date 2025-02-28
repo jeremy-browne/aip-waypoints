@@ -1,2 +1,110 @@
-<?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>BIDG - BIDGEE 1</name><description>State: ACT</description><Point><coordinates>149.01555555555555,-35.35777777777778,0</coordinates></Point></Placemark><Placemark><name>BDGE - BIDGEE 2</name><description>State: ACT</description><Point><coordinates>149.05444444444444,-35.44972222222222,0</coordinates></Point></Placemark><Placemark><name>BKM - BLACK MT</name><description>State: ACT</description><Point><coordinates>149.1,-35.275,0</coordinates></Point></Placemark><Placemark><name>RCSE - CANBERRA RACECOURSE</name><description>State: ACT</description><Point><coordinates>149.13666666666666,-35.23833333333334,0</coordinates></Point></Placemark><Placemark><name>CPNG - COPPINS CROSSING</name><description>State: ACT</description><Point><coordinates>149.04333333333332,-35.288333333333334,0</coordinates></Point></Placemark><Placemark><name>CVR - CORIN RESV</name><description>State: ACT</description><Point><coordinates>148.83333333333334,-35.541666666666664,0</coordinates></Point></Placemark><Placemark><name>COTR - COTTER</name><description>State: ACT</description><Point><coordinates>148.99166666666665,-35.338055555555556,0</coordinates></Point></Placemark><Placemark><name>HALL - HALL</name><description>State: ACT</description><Point><coordinates>149.06833333333333,-35.16833333333333,0</coordinates></Point></Placemark><Placemark><name>LGDA - LAKE GININDERRA</name><description>State: ACT</description><Point><coordinates>149.06833333333333,-35.233333333333334,0</coordinates></Point></Placemark><Placemark><name>TCR - MOUNT COREE</name><description>State: ACT</description><Point><coordinates>148.80972222222223,-35.30833333333333,0</coordinates></Point></Placemark><Placemark><name>MTM - MOUNT MUGGA</name><description>State: ACT</description><Point><coordinates>149.12916666666666,-35.35416666666667,0</coordinates></Point></Placemark><Placemark><name>MUM - MOUNT STROMLO</name><description>State: ACT</description><Point><coordinates>149.00833333333333,-35.31666666666667,0</coordinates></Point></Placemark><Placemark><name>MTLR - MOUNT TAYLOR</name><description>State: ACT</description><Point><coordinates>149.07666666666665,-35.373333333333335,0</coordinates></Point></Placemark><Placemark><name>THAW - THARWA</name><description>State: ACT</description><Point><coordinates>149.06666666666666,-35.50833333333333,0</coordinates></Point></Placemark><Placemark><name>TGC - TUGGERANONG TOWN CENTRE</name><description>State: ACT</description><Point><coordinates>149.06666666666666,-35.416666666666664,0</coordinates></Point></Placemark></Document></kml>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>BIDG - BIDGEE 1</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>149.01555555555555,-35.35777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BDGE - BIDGEE 2</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>149.05444444444444,-35.44972222222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BKM - BLACK MT</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>149.1,-35.275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RCSE - CANBERRA RACECOURSE</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>149.13666666666666,-35.23833333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CPNG - COPPINS CROSSING</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>149.04333333333332,-35.288333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CVR - CORIN RESV</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>148.83333333333334,-35.541666666666664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>COTR - COTTER</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>148.99166666666665,-35.338055555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HALL - HALL</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>149.06833333333333,-35.16833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LGDA - LAKE GININDERRA</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>149.06833333333333,-35.233333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TCR - MOUNT COREE</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>148.80972222222223,-35.30833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTM - MOUNT MUGGA</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>149.12916666666666,-35.35416666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUM - MOUNT STROMLO</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>149.00833333333333,-35.31666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTLR - MOUNT TAYLOR</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>149.07666666666665,-35.373333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>THAW - THARWA</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>149.06666666666666,-35.50833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TGC - TUGGERANONG TOWN CENTRE</name>
+      <description>State: ACT</description>
+      <Point>
+        <coordinates>149.06666666666666,-35.416666666666664,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

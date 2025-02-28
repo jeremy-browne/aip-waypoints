@@ -1,2 +1,579 @@
-<?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>ADELAIDE CBD</name><description>Code: ACTY</description><Point><coordinates>138.6,-34.93333333333333,0</coordinates></Point></Placemark><Placemark><name>ALAWOONA</name><description>Code: ALON</description><Point><coordinates>140.5,-34.75,0</coordinates></Point></Placemark><Placemark><name>BIRDWOOD</name><description>Code: BDWD</description><Point><coordinates>138.95999999999998,-34.82333333333334,0</coordinates></Point></Placemark><Placemark><name>BOWMANS</name><description>Code: BWMS</description><Point><coordinates>138.26666666666668,-34.15,0</coordinates></Point></Placemark><Placemark><name>BRIGHTON JETTY</name><description>Code: BTJ</description><Point><coordinates>138.51666666666668,-35.016666666666666,0</coordinates></Point></Placemark><Placemark><name>BUCKLAND PARK WEATHER RADAR</name><description>Code: BPK</description><Point><coordinates>138.4688888888889,-34.61694444444444,0</coordinates></Point></Placemark><Placemark><name>BURRA</name><description>Code: BURR</description><Point><coordinates>138.93333333333334,-33.68333333333333,0</coordinates></Point></Placemark><Placemark><name>CAMBRAI</name><description>Code: CBRA</description><Point><coordinates>139.28,-34.65833333333333,0</coordinates></Point></Placemark><Placemark><name>CAPE JERVIS</name><description>Code: CAJE</description><Point><coordinates>138.09194444444447,-35.60611111111111,0</coordinates></Point></Placemark><Placemark><name>CEDUNA OBSERVATORY</name><description>Code: CAO</description><Point><coordinates>133.8,-31.866666666666667,0</coordinates></Point></Placemark><Placemark><name>CRAYFISH</name><description>Code: CRAY</description><Point><coordinates>139.75,-38.583333333333336,0</coordinates></Point></Placemark><Placemark><name>DAM WALL</name><description>Code: DMW</description><Point><coordinates>138.72083333333333,-34.75833333333333,0</coordinates></Point></Placemark><Placemark><name>DRY CREEK</name><description>Code: DCRK</description><Point><coordinates>138.58333333333334,-34.833333333333336,0</coordinates></Point></Placemark><Placemark><name>DUBLIN</name><description>Code: DUB</description><Point><coordinates>138.35,-34.45416666666667,0</coordinates></Point></Placemark><Placemark><name>DUTTON</name><description>Code: DTON</description><Point><coordinates>139.13333333333333,-34.36666666666667,0</coordinates></Point></Placemark><Placemark><name>FOWLERS BAY</name><description>Code: FOWB</description><Point><coordinates>132.43333333333334,-31.983333333333334,0</coordinates></Point></Placemark><Placemark><name>FREELING</name><description>Code: FRLG</description><Point><coordinates>138.80833333333334,-34.45666666666667,0</coordinates></Point></Placemark><Placemark><name>GALGA</name><description>Code: GLGA</description><Point><coordinates>139.96666666666667,-34.71666666666667,0</coordinates></Point></Placemark><Placemark><name>GAWLER DAM</name><description>Code: GWDM</description><Point><coordinates>138.7711111111111,-34.56305555555555,0</coordinates></Point></Placemark><Placemark><name>GEPPS CROSS</name><description>Code: GEP</description><Point><coordinates>138.6,-34.85,0</coordinates></Point></Placemark><Placemark><name>GLENORCHY</name><description>Code: GLC</description><Point><coordinates>139.78333333333333,-31.916666666666668,0</coordinates></Point></Placemark><Placemark><name>HARROGATE</name><description>Code: HGTE</description><Point><coordinates>139.01833333333335,-34.95333333333333,0</coordinates></Point></Placemark><Placemark><name>HENLEY JETTY</name><description>Code: HNLY</description><Point><coordinates>138.4908333333333,-34.91972222222222,0</coordinates></Point></Placemark><Placemark><name>HOPE VALLEY RESV</name><description>Code: HVR</description><Point><coordinates>138.68333333333334,-34.85,0</coordinates></Point></Placemark><Placemark><name>INDULKANA TOWNSHIP</name><description>Code: IDK</description><Point><coordinates>133.325,-26.965833333333332,0</coordinates></Point></Placemark><Placemark><name>KOOMOOLOOBOOKA CAVE</name><description>Code: KOOM</description><Point><coordinates>129.58333333333334,-31.483333333333334,0</coordinates></Point></Placemark><Placemark><name>KOREELAH</name><description>Code: KREE</description><Point><coordinates>136.91666666666666,-35.916666666666664,0</coordinates></Point></Placemark><Placemark><name>LAKE EYRE NORTH</name><description>Code: LEYN</description><Point><coordinates>137.3,-28.416666666666668,0</coordinates></Point></Placemark><Placemark><name>LAKE FROME</name><description>Code: LFRO</description><Point><coordinates>139.86666666666667,-30.633333333333333,0</coordinates></Point></Placemark><Placemark><name>LAKE MAURICE</name><description>Code: LME</description><Point><coordinates>130.95,-29.4,0</coordinates></Point></Placemark><Placemark><name>LAKE TORRENS</name><description>Code: LTRR</description><Point><coordinates>138.08666666666667,-31.421666666666667,0</coordinates></Point></Placemark><Placemark><name>LANGHORNE CREEK</name><description>Code: LHCK</description><Point><coordinates>139.04444444444445,-35.295833333333334,0</coordinates></Point></Placemark><Placemark><name>LOBETHAL</name><description>Code: LBET</description><Point><coordinates>138.86666666666667,-34.9,0</coordinates></Point></Placemark><Placemark><name>MAGILL ESTATE WINERY</name><description>Code: MGEW</description><Point><coordinates>138.67999999999998,-34.919999999999995,0</coordinates></Point></Placemark><Placemark><name>MARINO LIGHT HOUSE</name><description>Code: MLIT</description><Point><coordinates>138.5125,-35.05416666666667,0</coordinates></Point></Placemark><Placemark><name>MCLAREN VALE</name><description>Code: MVAL</description><Point><coordinates>138.54722222222222,-35.225,0</coordinates></Point></Placemark><Placemark><name>MOUNT BARKER</name><description>Code: BAK</description><Point><coordinates>138.86666666666667,-35.07777777777778,0</coordinates></Point></Placemark><Placemark><name>MOUNT BOLD RESV</name><description>Code: MBR</description><Point><coordinates>138.7,-35.12083333333334,0</coordinates></Point></Placemark><Placemark><name>MOUNT CHRISTIE</name><description>Code: MCHR</description><Point><coordinates>133.21666666666667,-30.55,0</coordinates></Point></Placemark><Placemark><name>MOUNT COMPASS</name><description>Code: MCOM</description><Point><coordinates>138.61666666666667,-35.35,0</coordinates></Point></Placemark><Placemark><name>MOUNT PLEASANT</name><description>Code: MPT</description><Point><coordinates>139.05,-34.775,0</coordinates></Point></Placemark><Placemark><name>MURRAY BRIDGE</name><description>Code: MBD</description><Point><coordinates>139.30916666666667,-35.15,0</coordinates></Point></Placemark><Placemark><name>NOARLUNGA</name><description>Code: NARL</description><Point><coordinates>138.48888888888888,-35.141666666666666,0</coordinates></Point></Placemark><Placemark><name>NURIOOTPA</name><description>Code: NUPA</description><Point><coordinates>139.0,-34.483333333333334,0</coordinates></Point></Placemark><Placemark><name>OBSERVATORY HILL</name><description>Code: OBSH</description><Point><coordinates>132.0,-28.966666666666665,0</coordinates></Point></Placemark><Placemark><name>OUTER HARBOR</name><description>Code: OHB</description><Point><coordinates>138.48333333333332,-34.775,0</coordinates></Point></Placemark><Placemark><name>OWEN</name><description>Code: OEN</description><Point><coordinates>138.54166666666666,-34.269999999999996,0</coordinates></Point></Placemark><Placemark><name>PEARSON ISLES</name><description>Code: PEAR</description><Point><coordinates>134.26666666666668,-33.95,0</coordinates></Point></Placemark><Placemark><name>PINE PT</name><description>Code: PIPT</description><Point><coordinates>137.88333333333333,-34.56666666666667,0</coordinates></Point></Placemark><Placemark><name>PORT ADELAIDE</name><description>Code: PAL</description><Point><coordinates>138.5,-34.85,0</coordinates></Point></Placemark><Placemark><name>PORT JULIA</name><description>Code: PJUL</description><Point><coordinates>137.8777777777778,-34.666666666666664,0</coordinates></Point></Placemark><Placemark><name>PORT NEILL</name><description>Code: PNE</description><Point><coordinates>136.35,-34.11666666666667,0</coordinates></Point></Placemark><Placemark><name>PORT NOARLUNGA</name><description>Code: PNL</description><Point><coordinates>138.46666666666667,-35.15,0</coordinates></Point></Placemark><Placemark><name>PORT VINCENT</name><description>Code: PVCT</description><Point><coordinates>137.86083333333332,-34.781666666666666,0</coordinates></Point></Placemark><Placemark><name>RAPID BAY</name><description>Code: RAPD</description><Point><coordinates>138.18333333333334,-35.52166666666667,0</coordinates></Point></Placemark><Placemark><name>RIVER MOUTH</name><description>Code: RMH</description><Point><coordinates>138.35833333333332,-34.583333333333336,0</coordinates></Point></Placemark><Placemark><name>RIVERTON</name><description>Code: RVTN</description><Point><coordinates>138.74666666666664,-34.165,0</coordinates></Point></Placemark><Placemark><name>SANDALWOOD</name><description>Code: SALW</description><Point><coordinates>140.13333333333333,-34.95,0</coordinates></Point></Placemark><Placemark><name>SANDERSTON</name><description>Code: SSTO</description><Point><coordinates>139.25166666666667,-34.74333333333333,0</coordinates></Point></Placemark><Placemark><name>SECOND VALLEY</name><description>Code: SVAL</description><Point><coordinates>138.21666666666667,-35.516666666666666,0</coordinates></Point></Placemark><Placemark><name>SELLICKS BEACH</name><description>Code: SLB</description><Point><coordinates>138.45,-35.34166666666667,0</coordinates></Point></Placemark><Placemark><name>SOUTH PARA RESERVOIR</name><description>Code: SPR</description><Point><coordinates>138.86666666666667,-34.68333333333333,0</coordinates></Point></Placemark><Placemark><name>ST KILDA</name><description>Code: SKI</description><Point><coordinates>138.53055555555557,-34.74166666666667,0</coordinates></Point></Placemark><Placemark><name>STANSBURY</name><description>Code: SRY</description><Point><coordinates>137.7888888888889,-34.91111111111111,0</coordinates></Point></Placemark><Placemark><name>STRATHALBYN</name><description>Code: SYN</description><Point><coordinates>138.89444444444445,-35.25833333333333,0</coordinates></Point></Placemark><Placemark><name>SUBSTATION</name><description>Code: SUB</description><Point><coordinates>138.71305555555554,-34.736666666666665,0</coordinates></Point></Placemark><Placemark><name>SUTHERLANDS</name><description>Code: SHER</description><Point><coordinates>139.23333333333332,-34.15,0</coordinates></Point></Placemark><Placemark><name>TALLARINGA WELL</name><description>Code: TRWL</description><Point><coordinates>133.28333333333333,-29.033333333333335,0</coordinates></Point></Placemark><Placemark><name>TANUNDA</name><description>Code: TUND</description><Point><coordinates>138.96666666666667,-34.53333333333333,0</coordinates></Point></Placemark><Placemark><name>TARCOWIE</name><description>Code: TOWI</description><Point><coordinates>138.51666666666668,-32.95,0</coordinates></Point></Placemark><Placemark><name>TARLEE</name><description>Code: TLEE</description><Point><coordinates>138.76833333333335,-34.275,0</coordinates></Point></Placemark><Placemark><name>THE GUMS</name><description>Code: THUM</description><Point><coordinates>139.33333333333334,-33.833333333333336,0</coordinates></Point></Placemark><Placemark><name>THE GUMS HS</name><description>Code: TGU</description><Point><coordinates>139.35,-33.85,0</coordinates></Point></Placemark><Placemark><name>TRURO</name><description>Code: TRUO</description><Point><coordinates>139.12,-34.41166666666666,0</coordinates></Point></Placemark><Placemark><name>URRBRAE AGRICULTURAL HIGH SCHOOL</name><description>Code: URC</description><Point><coordinates>138.625,-34.96666666666667,0</coordinates></Point></Placemark><Placemark><name>VELODROME</name><description>Code: VELO</description><Point><coordinates>138.61111111111111,-34.84277777777778,0</coordinates></Point></Placemark><Placemark><name>VICTORIA PARK</name><description>Code: VICP</description><Point><coordinates>138.62083333333334,-34.93333333333333,0</coordinates></Point></Placemark><Placemark><name>VOKES HILL</name><description>Code: VOKH</description><Point><coordinates>130.58333333333334,-28.483333333333334,0</coordinates></Point></Placemark><Placemark><name>WAITE CAMPUS</name><description>Code: WTC</description><Point><coordinates>138.63555555555556,-34.97,0</coordinates></Point></Placemark><Placemark><name>WALLAROO</name><description>Code: WRO</description><Point><coordinates>137.63333333333333,-33.93333333333333,0</coordinates></Point></Placemark><Placemark><name>WARREN RESERVOIR</name><description>Code: WRR</description><Point><coordinates>138.93333333333334,-34.708333333333336,0</coordinates></Point></Placemark><Placemark><name>WILD HORSE PLAINS</name><description>Code: WHPL</description><Point><coordinates>138.28833333333333,-34.36,0</coordinates></Point></Placemark></Document></kml>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>ADELAIDE CBD</name>
+      <description>Code: ACTY</description>
+      <Point>
+        <coordinates>138.6,-34.93333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALAWOONA</name>
+      <description>Code: ALON</description>
+      <Point>
+        <coordinates>140.5,-34.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BIRDWOOD</name>
+      <description>Code: BDWD</description>
+      <Point>
+        <coordinates>138.95999999999998,-34.82333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BOWMANS</name>
+      <description>Code: BWMS</description>
+      <Point>
+        <coordinates>138.26666666666668,-34.15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BRIGHTON JETTY</name>
+      <description>Code: BTJ</description>
+      <Point>
+        <coordinates>138.51666666666668,-35.016666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BUCKLAND PARK WEATHER RADAR</name>
+      <description>Code: BPK</description>
+      <Point>
+        <coordinates>138.4688888888889,-34.61694444444444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BURRA</name>
+      <description>Code: BURR</description>
+      <Point>
+        <coordinates>138.93333333333334,-33.68333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CAMBRAI</name>
+      <description>Code: CBRA</description>
+      <Point>
+        <coordinates>139.28,-34.65833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CAPE JERVIS</name>
+      <description>Code: CAJE</description>
+      <Point>
+        <coordinates>138.09194444444447,-35.60611111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CEDUNA OBSERVATORY</name>
+      <description>Code: CAO</description>
+      <Point>
+        <coordinates>133.8,-31.866666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CRAYFISH</name>
+      <description>Code: CRAY</description>
+      <Point>
+        <coordinates>139.75,-38.583333333333336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DAM WALL</name>
+      <description>Code: DMW</description>
+      <Point>
+        <coordinates>138.72083333333333,-34.75833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DRY CREEK</name>
+      <description>Code: DCRK</description>
+      <Point>
+        <coordinates>138.58333333333334,-34.833333333333336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DUBLIN</name>
+      <description>Code: DUB</description>
+      <Point>
+        <coordinates>138.35,-34.45416666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DUTTON</name>
+      <description>Code: DTON</description>
+      <Point>
+        <coordinates>139.13333333333333,-34.36666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FOWLERS BAY</name>
+      <description>Code: FOWB</description>
+      <Point>
+        <coordinates>132.43333333333334,-31.983333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FREELING</name>
+      <description>Code: FRLG</description>
+      <Point>
+        <coordinates>138.80833333333334,-34.45666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GALGA</name>
+      <description>Code: GLGA</description>
+      <Point>
+        <coordinates>139.96666666666667,-34.71666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GAWLER DAM</name>
+      <description>Code: GWDM</description>
+      <Point>
+        <coordinates>138.7711111111111,-34.56305555555555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GEPPS CROSS</name>
+      <description>Code: GEP</description>
+      <Point>
+        <coordinates>138.6,-34.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GLENORCHY</name>
+      <description>Code: GLC</description>
+      <Point>
+        <coordinates>139.78333333333333,-31.916666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HARROGATE</name>
+      <description>Code: HGTE</description>
+      <Point>
+        <coordinates>139.01833333333335,-34.95333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HENLEY JETTY</name>
+      <description>Code: HNLY</description>
+      <Point>
+        <coordinates>138.4908333333333,-34.91972222222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HOPE VALLEY RESV</name>
+      <description>Code: HVR</description>
+      <Point>
+        <coordinates>138.68333333333334,-34.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>INDULKANA TOWNSHIP</name>
+      <description>Code: IDK</description>
+      <Point>
+        <coordinates>133.325,-26.965833333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KOOMOOLOOBOOKA CAVE</name>
+      <description>Code: KOOM</description>
+      <Point>
+        <coordinates>129.58333333333334,-31.483333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KOREELAH</name>
+      <description>Code: KREE</description>
+      <Point>
+        <coordinates>136.91666666666666,-35.916666666666664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAKE EYRE NORTH</name>
+      <description>Code: LEYN</description>
+      <Point>
+        <coordinates>137.3,-28.416666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAKE FROME</name>
+      <description>Code: LFRO</description>
+      <Point>
+        <coordinates>139.86666666666667,-30.633333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAKE MAURICE</name>
+      <description>Code: LME</description>
+      <Point>
+        <coordinates>130.95,-29.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAKE TORRENS</name>
+      <description>Code: LTRR</description>
+      <Point>
+        <coordinates>138.08666666666667,-31.421666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LANGHORNE CREEK</name>
+      <description>Code: LHCK</description>
+      <Point>
+        <coordinates>139.04444444444445,-35.295833333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LOBETHAL</name>
+      <description>Code: LBET</description>
+      <Point>
+        <coordinates>138.86666666666667,-34.9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAGILL ESTATE WINERY</name>
+      <description>Code: MGEW</description>
+      <Point>
+        <coordinates>138.67999999999998,-34.919999999999995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MARINO LIGHT HOUSE</name>
+      <description>Code: MLIT</description>
+      <Point>
+        <coordinates>138.5125,-35.05416666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MCLAREN VALE</name>
+      <description>Code: MVAL</description>
+      <Point>
+        <coordinates>138.54722222222222,-35.225,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOUNT BARKER</name>
+      <description>Code: BAK</description>
+      <Point>
+        <coordinates>138.86666666666667,-35.07777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOUNT BOLD RESV</name>
+      <description>Code: MBR</description>
+      <Point>
+        <coordinates>138.7,-35.12083333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOUNT CHRISTIE</name>
+      <description>Code: MCHR</description>
+      <Point>
+        <coordinates>133.21666666666667,-30.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOUNT COMPASS</name>
+      <description>Code: MCOM</description>
+      <Point>
+        <coordinates>138.61666666666667,-35.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOUNT PLEASANT</name>
+      <description>Code: MPT</description>
+      <Point>
+        <coordinates>139.05,-34.775,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MURRAY BRIDGE</name>
+      <description>Code: MBD</description>
+      <Point>
+        <coordinates>139.30916666666667,-35.15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NOARLUNGA</name>
+      <description>Code: NARL</description>
+      <Point>
+        <coordinates>138.48888888888888,-35.141666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NURIOOTPA</name>
+      <description>Code: NUPA</description>
+      <Point>
+        <coordinates>139.0,-34.483333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OBSERVATORY HILL</name>
+      <description>Code: OBSH</description>
+      <Point>
+        <coordinates>132.0,-28.966666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OUTER HARBOR</name>
+      <description>Code: OHB</description>
+      <Point>
+        <coordinates>138.48333333333332,-34.775,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OWEN</name>
+      <description>Code: OEN</description>
+      <Point>
+        <coordinates>138.54166666666666,-34.269999999999996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PEARSON ISLES</name>
+      <description>Code: PEAR</description>
+      <Point>
+        <coordinates>134.26666666666668,-33.95,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PINE PT</name>
+      <description>Code: PIPT</description>
+      <Point>
+        <coordinates>137.88333333333333,-34.56666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PORT ADELAIDE</name>
+      <description>Code: PAL</description>
+      <Point>
+        <coordinates>138.5,-34.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PORT JULIA</name>
+      <description>Code: PJUL</description>
+      <Point>
+        <coordinates>137.8777777777778,-34.666666666666664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PORT NEILL</name>
+      <description>Code: PNE</description>
+      <Point>
+        <coordinates>136.35,-34.11666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PORT NOARLUNGA</name>
+      <description>Code: PNL</description>
+      <Point>
+        <coordinates>138.46666666666667,-35.15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PORT VINCENT</name>
+      <description>Code: PVCT</description>
+      <Point>
+        <coordinates>137.86083333333332,-34.781666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RAPID BAY</name>
+      <description>Code: RAPD</description>
+      <Point>
+        <coordinates>138.18333333333334,-35.52166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RIVER MOUTH</name>
+      <description>Code: RMH</description>
+      <Point>
+        <coordinates>138.35833333333332,-34.583333333333336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RIVERTON</name>
+      <description>Code: RVTN</description>
+      <Point>
+        <coordinates>138.74666666666664,-34.165,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SANDALWOOD</name>
+      <description>Code: SALW</description>
+      <Point>
+        <coordinates>140.13333333333333,-34.95,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SANDERSTON</name>
+      <description>Code: SSTO</description>
+      <Point>
+        <coordinates>139.25166666666667,-34.74333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SECOND VALLEY</name>
+      <description>Code: SVAL</description>
+      <Point>
+        <coordinates>138.21666666666667,-35.516666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SELLICKS BEACH</name>
+      <description>Code: SLB</description>
+      <Point>
+        <coordinates>138.45,-35.34166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SOUTH PARA RESERVOIR</name>
+      <description>Code: SPR</description>
+      <Point>
+        <coordinates>138.86666666666667,-34.68333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ST KILDA</name>
+      <description>Code: SKI</description>
+      <Point>
+        <coordinates>138.53055555555557,-34.74166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>STANSBURY</name>
+      <description>Code: SRY</description>
+      <Point>
+        <coordinates>137.7888888888889,-34.91111111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>STRATHALBYN</name>
+      <description>Code: SYN</description>
+      <Point>
+        <coordinates>138.89444444444445,-35.25833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUBSTATION</name>
+      <description>Code: SUB</description>
+      <Point>
+        <coordinates>138.71305555555554,-34.736666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SUTHERLANDS</name>
+      <description>Code: SHER</description>
+      <Point>
+        <coordinates>139.23333333333332,-34.15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TALLARINGA WELL</name>
+      <description>Code: TRWL</description>
+      <Point>
+        <coordinates>133.28333333333333,-29.033333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TANUNDA</name>
+      <description>Code: TUND</description>
+      <Point>
+        <coordinates>138.96666666666667,-34.53333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TARCOWIE</name>
+      <description>Code: TOWI</description>
+      <Point>
+        <coordinates>138.51666666666668,-32.95,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TARLEE</name>
+      <description>Code: TLEE</description>
+      <Point>
+        <coordinates>138.76833333333335,-34.275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>THE GUMS</name>
+      <description>Code: THUM</description>
+      <Point>
+        <coordinates>139.33333333333334,-33.833333333333336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>THE GUMS HS</name>
+      <description>Code: TGU</description>
+      <Point>
+        <coordinates>139.35,-33.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TRURO</name>
+      <description>Code: TRUO</description>
+      <Point>
+        <coordinates>139.12,-34.41166666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>URRBRAE AGRICULTURAL HIGH SCHOOL</name>
+      <description>Code: URC</description>
+      <Point>
+        <coordinates>138.625,-34.96666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VELODROME</name>
+      <description>Code: VELO</description>
+      <Point>
+        <coordinates>138.61111111111111,-34.84277777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VICTORIA PARK</name>
+      <description>Code: VICP</description>
+      <Point>
+        <coordinates>138.62083333333334,-34.93333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VOKES HILL</name>
+      <description>Code: VOKH</description>
+      <Point>
+        <coordinates>130.58333333333334,-28.483333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WAITE CAMPUS</name>
+      <description>Code: WTC</description>
+      <Point>
+        <coordinates>138.63555555555556,-34.97,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WALLAROO</name>
+      <description>Code: WRO</description>
+      <Point>
+        <coordinates>137.63333333333333,-33.93333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WARREN RESERVOIR</name>
+      <description>Code: WRR</description>
+      <Point>
+        <coordinates>138.93333333333334,-34.708333333333336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WILD HORSE PLAINS</name>
+      <description>Code: WHPL</description>
+      <Point>
+        <coordinates>138.28833333333333,-34.36,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

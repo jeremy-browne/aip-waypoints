@@ -1,2 +1,474 @@
-<?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>ABEAM KUNOTH</name><description>Code: KNO</description><Point><coordinates>133.55,-23.541666666666668,0</coordinates></Point></Placemark><Placemark><name>ADELAIDE RIVER BRIDGE</name><description>Code: ADB</description><Point><coordinates>131.33333333333334,-12.658333333333333,0</coordinates></Point></Placemark><Placemark><name>ADELAIDE RIVER MOUTH</name><description>Code: ADRM</description><Point><coordinates>131.2433333333333,-12.218333333333334,0</coordinates></Point></Placemark><Placemark><name>ARROWSMITH PT</name><description>Code: AWP</description><Point><coordinates>136.45,-13.25,0</coordinates></Point></Placemark><Placemark><name>BATHURST ISLAND</name><description>Code: BTI</description><Point><coordinates>130.61666666666667,-11.766388888888889,0</coordinates></Point></Placemark><Placemark><name>BOND SPRINGS</name><description>Code: BSP</description><Point><coordinates>133.85,-23.516666666666666,0</coordinates></Point></Placemark><Placemark><name>BUCHANAN HILLS</name><description>Code: BUCN</description><Point><coordinates>131.08333333333334,-18.9,0</coordinates></Point></Placemark><Placemark><name>BYNOE HARBOUR</name><description>Code: BYNO</description><Point><coordinates>130.68333333333334,-12.75,0</coordinates></Point></Placemark><Placemark><name>CAPE GAMBIER</name><description>Code: CGR</description><Point><coordinates>130.96666666666667,-11.93888888888889,0</coordinates></Point></Placemark><Placemark><name>CAPE KEITH</name><description>Code: CAKE</description><Point><coordinates>131.46666666666667,-11.616666666666667,0</coordinates></Point></Placemark><Placemark><name>CASTLE PT</name><description>Code: CTT</description><Point><coordinates>131.275,-12.35,0</coordinates></Point></Placemark><Placemark><name>CHANNEL ISLAND</name><description>Code: CHI</description><Point><coordinates>130.86666666666667,-12.55,0</coordinates></Point></Placemark><Placemark><name>CHARLES PT</name><description>Code: CHAP</description><Point><coordinates>130.61805555555557,-12.382777777777779,0</coordinates></Point></Placemark><Placemark><name>DALMORE DOWNS</name><description>Code: DLMO</description><Point><coordinates>136.00166666666667,-19.775,0</coordinates></Point></Placemark><Placemark><name>DARWIN RIVER DAM</name><description>Code: DND</description><Point><coordinates>130.96666666666667,-12.825,0</coordinates></Point></Placemark><Placemark><name>DEEP WELL</name><description>Code: DPW</description><Point><coordinates>134.05,-24.358333333333334,0</coordinates></Point></Placemark><Placemark><name>DEVILS MARBLES</name><description>Code: DVM</description><Point><coordinates>134.25,-20.533333333333335,0</coordinates></Point></Placemark><Placemark><name>EAST ARM</name><description>Code: EAM</description><Point><coordinates>130.93333333333334,-12.516666666666667,0</coordinates></Point></Placemark><Placemark><name>EAST PT</name><description>Code: ETP</description><Point><coordinates>130.81666666666666,-12.408333333333333,0</coordinates></Point></Placemark><Placemark><name>ELIZABETH RIVER BRIDGE</name><description>Code: ERB</description><Point><coordinates>130.975,-12.543055555555556,0</coordinates></Point></Placemark><Placemark><name>EMILY GAP</name><description>Code: EMY</description><Point><coordinates>133.9425,-23.739444444444445,0</coordinates></Point></Placemark><Placemark><name>EWANINGA</name><description>Code: EWI</description><Point><coordinates>133.93333333333334,-23.983333333333334,0</coordinates></Point></Placemark><Placemark><name>FIELD ISLAND</name><description>Code: FLDI</description><Point><coordinates>132.38333333333333,-12.1,0</coordinates></Point></Placemark><Placemark><name>GAOL WATER TOWER</name><description>Code: GWTR</description><Point><coordinates>133.8,-23.858333333333334,0</coordinates></Point></Placemark><Placemark><name>GUNN PT</name><description>Code: GUP</description><Point><coordinates>130.99166666666665,-12.183333333333334,0</coordinates></Point></Placemark><Placemark><name>HOPE INLET</name><description>Code: HPI</description><Point><coordinates>131.01666666666668,-12.327777777777778,0</coordinates></Point></Placemark><Placemark><name>HORDERN HILLS</name><description>Code: HORD</description><Point><coordinates>130.31666666666666,-20.65,0</coordinates></Point></Placemark><Placemark><name>HUGH RIVER</name><description>Code: HGR</description><Point><coordinates>133.43333333333334,-24.35,0</coordinates></Point></Placemark><Placemark><name>INDIANA</name><description>Code: IDNA</description><Point><coordinates>135.43333333333334,-23.333333333333332,0</coordinates></Point></Placemark><Placemark><name>IPPIA HILL</name><description>Code: IPHL</description><Point><coordinates>133.05,-25.116666666666667,0</coordinates></Point></Placemark><Placemark><name>JACKO'S JUNCTION</name><description>Code: JAC</description><Point><coordinates>131.03666666666666,-12.263333333333334,0</coordinates></Point></Placemark><Placemark><name>JAY CREEK</name><description>Code: JCK</description><Point><coordinates>133.5,-23.78666666666667,0</coordinates></Point></Placemark><Placemark><name>JESSIE GAP</name><description>Code: JES</description><Point><coordinates>134.01805555555558,-23.748611111111114,0</coordinates></Point></Placemark><Placemark><name>KOOLATONG RIVER</name><description>Code: KTG</description><Point><coordinates>135.65,-13.083333333333334,0</coordinates></Point></Placemark><Placemark><name>LAKE AMADEUS</name><description>Code: LKAD</description><Point><coordinates>130.46166666666664,-24.58,0</coordinates></Point></Placemark><Placemark><name>LAKE DEANE</name><description>Code: LAD</description><Point><coordinates>131.01666666666668,-12.733333333333333,0</coordinates></Point></Placemark><Placemark><name>LAKE FINNISS</name><description>Code: LFS</description><Point><coordinates>131.475,-12.380555555555556,0</coordinates></Point></Placemark><Placemark><name>LAKE NEALE</name><description>Code: LKNL</description><Point><coordinates>129.96638888888887,-24.247222222222224,0</coordinates></Point></Placemark><Placemark><name>LAKE SURPRISE</name><description>Code: LSPR</description><Point><coordinates>131.8,-20.233333333333334,0</coordinates></Point></Placemark><Placemark><name>LAKE WHITE</name><description>Code: WITE</description><Point><coordinates>129.05,-21.1,0</coordinates></Point></Placemark><Placemark><name>LAWRENCE GORGE</name><description>Code: LWG</description><Point><coordinates>133.40833333333333,-24.016666666666666,0</coordinates></Point></Placemark><Placemark><name>LEE PT</name><description>Code: LPT</description><Point><coordinates>130.9,-12.333333333333334,0</coordinates></Point></Placemark><Placemark><name>MANDORAH</name><description>Code: MADO</description><Point><coordinates>130.76111111111112,-12.441666666666666,0</coordinates></Point></Placemark><Placemark><name>MANTON DAM</name><description>Code: MTD</description><Point><coordinates>131.125,-12.85,0</coordinates></Point></Placemark><Placemark><name>MINJILANG</name><description>Code: MIJ</description><Point><coordinates>132.58055555555555,-11.148333333333333,0</coordinates></Point></Placemark><Placemark><name>MOUNT BENSTEAD</name><description>Code: MBST</description><Point><coordinates>134.275,-23.566666666666666,0</coordinates></Point></Placemark><Placemark><name>MOUNT KINGSTON</name><description>Code: MTKI</description><Point><coordinates>133.63333333333333,-25.433333333333334,0</coordinates></Point></Placemark><Placemark><name>MOUNT LUCY</name><description>Code: MLUY</description><Point><coordinates>133.53333333333333,-22.6,0</coordinates></Point></Placemark><Placemark><name>MOUNT OORAMINNA</name><description>Code: OOR</description><Point><coordinates>134.00277777777777,-24.091666666666665,0</coordinates></Point></Placemark><Placemark><name>MOUNT UNDOOLYA</name><description>Code: MUO</description><Point><coordinates>134.10277777777776,-23.73888888888889,0</coordinates></Point></Placemark><Placemark><name>OWEN SPRINGS</name><description>Code: OWS</description><Point><coordinates>133.47222222222223,-23.875,0</coordinates></Point></Placemark><Placemark><name>PT FAWCETT</name><description>Code: FAW</description><Point><coordinates>130.01666666666668,-11.8,0</coordinates></Point></Placemark><Placemark><name>RENNER SPRINGS</name><description>Code: RENR</description><Point><coordinates>133.8,-18.316666666666666,0</coordinates></Point></Placemark><Placemark><name>RESEARCH CENTRE</name><description>Code: RESC</description><Point><coordinates>131.9363888888889,-14.780833333333334,0</coordinates></Point></Placemark><Placemark><name>SANTA TERESA</name><description>Code: STT</description><Point><coordinates>134.3727777777778,-24.133333333333333,0</coordinates></Point></Placemark><Placemark><name>SCOTT CREEK</name><description>Code: STC</description><Point><coordinates>131.83333333333334,-14.833333333333334,0</coordinates></Point></Placemark><Placemark><name>SHAW CREEK</name><description>Code: SHCR</description><Point><coordinates>129.72972222222222,-25.216666666666665,0</coordinates></Point></Placemark><Placemark><name>SIMPSONS GAP</name><description>Code: SSG</description><Point><coordinates>133.71666666666667,-23.679166666666667,0</coordinates></Point></Placemark><Placemark><name>SOUTHPORT ROAD</name><description>Code: STR</description><Point><coordinates>130.775,-12.65,0</coordinates></Point></Placemark><Placemark><name>STEPHENSONS PEAK</name><description>Code: STPK</description><Point><coordinates>130.18333333333334,-25.5,0</coordinates></Point></Placemark><Placemark><name>TALC HEAD</name><description>Code: TCH</description><Point><coordinates>130.76666666666668,-12.479166666666666,0</coordinates></Point></Placemark><Placemark><name>TURTLE PT</name><description>Code: TTLE</description><Point><coordinates>129.25,-14.85,0</coordinates></Point></Placemark><Placemark><name>UNDEMOW WATERHOLE</name><description>Code: UNDW</description><Point><coordinates>135.25,-17.583333333333332,0</coordinates></Point></Placemark><Placemark><name>WAYSIDE</name><description>Code: WAYS</description><Point><coordinates>131.0402777777778,-15.575555555555555,0</coordinates></Point></Placemark><Placemark><name>WEST ARM</name><description>Code: WSM</description><Point><coordinates>130.7888888888889,-12.55,0</coordinates></Point></Placemark><Placemark><name>WICKHAM PT</name><description>Code: WIKP</description><Point><coordinates>130.86083333333332,-12.504444444444445,0</coordinates></Point></Placemark><Placemark><name>WILLEROO</name><description>Code: WILE</description><Point><coordinates>131.56555555555556,-15.28361111111111,0</coordinates></Point></Placemark></Document></kml>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>ABEAM KUNOTH</name>
+      <description>Code: KNO</description>
+      <Point>
+        <coordinates>133.55,-23.541666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ADELAIDE RIVER BRIDGE</name>
+      <description>Code: ADB</description>
+      <Point>
+        <coordinates>131.33333333333334,-12.658333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ADELAIDE RIVER MOUTH</name>
+      <description>Code: ADRM</description>
+      <Point>
+        <coordinates>131.2433333333333,-12.218333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ARROWSMITH PT</name>
+      <description>Code: AWP</description>
+      <Point>
+        <coordinates>136.45,-13.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BATHURST ISLAND</name>
+      <description>Code: BTI</description>
+      <Point>
+        <coordinates>130.61666666666667,-11.766388888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BOND SPRINGS</name>
+      <description>Code: BSP</description>
+      <Point>
+        <coordinates>133.85,-23.516666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BUCHANAN HILLS</name>
+      <description>Code: BUCN</description>
+      <Point>
+        <coordinates>131.08333333333334,-18.9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BYNOE HARBOUR</name>
+      <description>Code: BYNO</description>
+      <Point>
+        <coordinates>130.68333333333334,-12.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CAPE GAMBIER</name>
+      <description>Code: CGR</description>
+      <Point>
+        <coordinates>130.96666666666667,-11.93888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CAPE KEITH</name>
+      <description>Code: CAKE</description>
+      <Point>
+        <coordinates>131.46666666666667,-11.616666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CASTLE PT</name>
+      <description>Code: CTT</description>
+      <Point>
+        <coordinates>131.275,-12.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHANNEL ISLAND</name>
+      <description>Code: CHI</description>
+      <Point>
+        <coordinates>130.86666666666667,-12.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHARLES PT</name>
+      <description>Code: CHAP</description>
+      <Point>
+        <coordinates>130.61805555555557,-12.382777777777779,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DALMORE DOWNS</name>
+      <description>Code: DLMO</description>
+      <Point>
+        <coordinates>136.00166666666667,-19.775,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DARWIN RIVER DAM</name>
+      <description>Code: DND</description>
+      <Point>
+        <coordinates>130.96666666666667,-12.825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEEP WELL</name>
+      <description>Code: DPW</description>
+      <Point>
+        <coordinates>134.05,-24.358333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEVILS MARBLES</name>
+      <description>Code: DVM</description>
+      <Point>
+        <coordinates>134.25,-20.533333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EAST ARM</name>
+      <description>Code: EAM</description>
+      <Point>
+        <coordinates>130.93333333333334,-12.516666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EAST PT</name>
+      <description>Code: ETP</description>
+      <Point>
+        <coordinates>130.81666666666666,-12.408333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELIZABETH RIVER BRIDGE</name>
+      <description>Code: ERB</description>
+      <Point>
+        <coordinates>130.975,-12.543055555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EMILY GAP</name>
+      <description>Code: EMY</description>
+      <Point>
+        <coordinates>133.9425,-23.739444444444445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EWANINGA</name>
+      <description>Code: EWI</description>
+      <Point>
+        <coordinates>133.93333333333334,-23.983333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FIELD ISLAND</name>
+      <description>Code: FLDI</description>
+      <Point>
+        <coordinates>132.38333333333333,-12.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GAOL WATER TOWER</name>
+      <description>Code: GWTR</description>
+      <Point>
+        <coordinates>133.8,-23.858333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GUNN PT</name>
+      <description>Code: GUP</description>
+      <Point>
+        <coordinates>130.99166666666665,-12.183333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HOPE INLET</name>
+      <description>Code: HPI</description>
+      <Point>
+        <coordinates>131.01666666666668,-12.327777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HORDERN HILLS</name>
+      <description>Code: HORD</description>
+      <Point>
+        <coordinates>130.31666666666666,-20.65,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HUGH RIVER</name>
+      <description>Code: HGR</description>
+      <Point>
+        <coordinates>133.43333333333334,-24.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>INDIANA</name>
+      <description>Code: IDNA</description>
+      <Point>
+        <coordinates>135.43333333333334,-23.333333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IPPIA HILL</name>
+      <description>Code: IPHL</description>
+      <Point>
+        <coordinates>133.05,-25.116666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JACKO'S JUNCTION</name>
+      <description>Code: JAC</description>
+      <Point>
+        <coordinates>131.03666666666666,-12.263333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JAY CREEK</name>
+      <description>Code: JCK</description>
+      <Point>
+        <coordinates>133.5,-23.78666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JESSIE GAP</name>
+      <description>Code: JES</description>
+      <Point>
+        <coordinates>134.01805555555558,-23.748611111111114,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KOOLATONG RIVER</name>
+      <description>Code: KTG</description>
+      <Point>
+        <coordinates>135.65,-13.083333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAKE AMADEUS</name>
+      <description>Code: LKAD</description>
+      <Point>
+        <coordinates>130.46166666666664,-24.58,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAKE DEANE</name>
+      <description>Code: LAD</description>
+      <Point>
+        <coordinates>131.01666666666668,-12.733333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAKE FINNISS</name>
+      <description>Code: LFS</description>
+      <Point>
+        <coordinates>131.475,-12.380555555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAKE NEALE</name>
+      <description>Code: LKNL</description>
+      <Point>
+        <coordinates>129.96638888888887,-24.247222222222224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAKE SURPRISE</name>
+      <description>Code: LSPR</description>
+      <Point>
+        <coordinates>131.8,-20.233333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAKE WHITE</name>
+      <description>Code: WITE</description>
+      <Point>
+        <coordinates>129.05,-21.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAWRENCE GORGE</name>
+      <description>Code: LWG</description>
+      <Point>
+        <coordinates>133.40833333333333,-24.016666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEE PT</name>
+      <description>Code: LPT</description>
+      <Point>
+        <coordinates>130.9,-12.333333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MANDORAH</name>
+      <description>Code: MADO</description>
+      <Point>
+        <coordinates>130.76111111111112,-12.441666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MANTON DAM</name>
+      <description>Code: MTD</description>
+      <Point>
+        <coordinates>131.125,-12.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MINJILANG</name>
+      <description>Code: MIJ</description>
+      <Point>
+        <coordinates>132.58055555555555,-11.148333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOUNT BENSTEAD</name>
+      <description>Code: MBST</description>
+      <Point>
+        <coordinates>134.275,-23.566666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOUNT KINGSTON</name>
+      <description>Code: MTKI</description>
+      <Point>
+        <coordinates>133.63333333333333,-25.433333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOUNT LUCY</name>
+      <description>Code: MLUY</description>
+      <Point>
+        <coordinates>133.53333333333333,-22.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOUNT OORAMINNA</name>
+      <description>Code: OOR</description>
+      <Point>
+        <coordinates>134.00277777777777,-24.091666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MOUNT UNDOOLYA</name>
+      <description>Code: MUO</description>
+      <Point>
+        <coordinates>134.10277777777776,-23.73888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OWEN SPRINGS</name>
+      <description>Code: OWS</description>
+      <Point>
+        <coordinates>133.47222222222223,-23.875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PT FAWCETT</name>
+      <description>Code: FAW</description>
+      <Point>
+        <coordinates>130.01666666666668,-11.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RENNER SPRINGS</name>
+      <description>Code: RENR</description>
+      <Point>
+        <coordinates>133.8,-18.316666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RESEARCH CENTRE</name>
+      <description>Code: RESC</description>
+      <Point>
+        <coordinates>131.9363888888889,-14.780833333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SANTA TERESA</name>
+      <description>Code: STT</description>
+      <Point>
+        <coordinates>134.3727777777778,-24.133333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SCOTT CREEK</name>
+      <description>Code: STC</description>
+      <Point>
+        <coordinates>131.83333333333334,-14.833333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SHAW CREEK</name>
+      <description>Code: SHCR</description>
+      <Point>
+        <coordinates>129.72972222222222,-25.216666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SIMPSONS GAP</name>
+      <description>Code: SSG</description>
+      <Point>
+        <coordinates>133.71666666666667,-23.679166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SOUTHPORT ROAD</name>
+      <description>Code: STR</description>
+      <Point>
+        <coordinates>130.775,-12.65,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>STEPHENSONS PEAK</name>
+      <description>Code: STPK</description>
+      <Point>
+        <coordinates>130.18333333333334,-25.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TALC HEAD</name>
+      <description>Code: TCH</description>
+      <Point>
+        <coordinates>130.76666666666668,-12.479166666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TURTLE PT</name>
+      <description>Code: TTLE</description>
+      <Point>
+        <coordinates>129.25,-14.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UNDEMOW WATERHOLE</name>
+      <description>Code: UNDW</description>
+      <Point>
+        <coordinates>135.25,-17.583333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WAYSIDE</name>
+      <description>Code: WAYS</description>
+      <Point>
+        <coordinates>131.0402777777778,-15.575555555555555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WEST ARM</name>
+      <description>Code: WSM</description>
+      <Point>
+        <coordinates>130.7888888888889,-12.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WICKHAM PT</name>
+      <description>Code: WIKP</description>
+      <Point>
+        <coordinates>130.86083333333332,-12.504444444444445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WILLEROO</name>
+      <description>Code: WILE</description>
+      <Point>
+        <coordinates>131.56555555555556,-15.28361111111111,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

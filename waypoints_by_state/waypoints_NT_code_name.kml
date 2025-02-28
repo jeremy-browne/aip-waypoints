@@ -1,2 +1,474 @@
-<?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>KNO - ABEAM KUNOTH</name><description>State: NT</description><Point><coordinates>133.55,-23.541666666666668,0</coordinates></Point></Placemark><Placemark><name>ADB - ADELAIDE RIVER BRIDGE</name><description>State: NT</description><Point><coordinates>131.33333333333334,-12.658333333333333,0</coordinates></Point></Placemark><Placemark><name>ADRM - ADELAIDE RIVER MOUTH</name><description>State: NT</description><Point><coordinates>131.2433333333333,-12.218333333333334,0</coordinates></Point></Placemark><Placemark><name>AWP - ARROWSMITH PT</name><description>State: NT</description><Point><coordinates>136.45,-13.25,0</coordinates></Point></Placemark><Placemark><name>BTI - BATHURST ISLAND</name><description>State: NT</description><Point><coordinates>130.61666666666667,-11.766388888888889,0</coordinates></Point></Placemark><Placemark><name>BSP - BOND SPRINGS</name><description>State: NT</description><Point><coordinates>133.85,-23.516666666666666,0</coordinates></Point></Placemark><Placemark><name>BUCN - BUCHANAN HILLS</name><description>State: NT</description><Point><coordinates>131.08333333333334,-18.9,0</coordinates></Point></Placemark><Placemark><name>BYNO - BYNOE HARBOUR</name><description>State: NT</description><Point><coordinates>130.68333333333334,-12.75,0</coordinates></Point></Placemark><Placemark><name>CGR - CAPE GAMBIER</name><description>State: NT</description><Point><coordinates>130.96666666666667,-11.93888888888889,0</coordinates></Point></Placemark><Placemark><name>CAKE - CAPE KEITH</name><description>State: NT</description><Point><coordinates>131.46666666666667,-11.616666666666667,0</coordinates></Point></Placemark><Placemark><name>CTT - CASTLE PT</name><description>State: NT</description><Point><coordinates>131.275,-12.35,0</coordinates></Point></Placemark><Placemark><name>CHI - CHANNEL ISLAND</name><description>State: NT</description><Point><coordinates>130.86666666666667,-12.55,0</coordinates></Point></Placemark><Placemark><name>CHAP - CHARLES PT</name><description>State: NT</description><Point><coordinates>130.61805555555557,-12.382777777777779,0</coordinates></Point></Placemark><Placemark><name>DLMO - DALMORE DOWNS</name><description>State: NT</description><Point><coordinates>136.00166666666667,-19.775,0</coordinates></Point></Placemark><Placemark><name>DND - DARWIN RIVER DAM</name><description>State: NT</description><Point><coordinates>130.96666666666667,-12.825,0</coordinates></Point></Placemark><Placemark><name>DPW - DEEP WELL</name><description>State: NT</description><Point><coordinates>134.05,-24.358333333333334,0</coordinates></Point></Placemark><Placemark><name>DVM - DEVILS MARBLES</name><description>State: NT</description><Point><coordinates>134.25,-20.533333333333335,0</coordinates></Point></Placemark><Placemark><name>EAM - EAST ARM</name><description>State: NT</description><Point><coordinates>130.93333333333334,-12.516666666666667,0</coordinates></Point></Placemark><Placemark><name>ETP - EAST PT</name><description>State: NT</description><Point><coordinates>130.81666666666666,-12.408333333333333,0</coordinates></Point></Placemark><Placemark><name>ERB - ELIZABETH RIVER BRIDGE</name><description>State: NT</description><Point><coordinates>130.975,-12.543055555555556,0</coordinates></Point></Placemark><Placemark><name>EMY - EMILY GAP</name><description>State: NT</description><Point><coordinates>133.9425,-23.739444444444445,0</coordinates></Point></Placemark><Placemark><name>EWI - EWANINGA</name><description>State: NT</description><Point><coordinates>133.93333333333334,-23.983333333333334,0</coordinates></Point></Placemark><Placemark><name>FLDI - FIELD ISLAND</name><description>State: NT</description><Point><coordinates>132.38333333333333,-12.1,0</coordinates></Point></Placemark><Placemark><name>GWTR - GAOL WATER TOWER</name><description>State: NT</description><Point><coordinates>133.8,-23.858333333333334,0</coordinates></Point></Placemark><Placemark><name>GUP - GUNN PT</name><description>State: NT</description><Point><coordinates>130.99166666666665,-12.183333333333334,0</coordinates></Point></Placemark><Placemark><name>HPI - HOPE INLET</name><description>State: NT</description><Point><coordinates>131.01666666666668,-12.327777777777778,0</coordinates></Point></Placemark><Placemark><name>HORD - HORDERN HILLS</name><description>State: NT</description><Point><coordinates>130.31666666666666,-20.65,0</coordinates></Point></Placemark><Placemark><name>HGR - HUGH RIVER</name><description>State: NT</description><Point><coordinates>133.43333333333334,-24.35,0</coordinates></Point></Placemark><Placemark><name>IDNA - INDIANA</name><description>State: NT</description><Point><coordinates>135.43333333333334,-23.333333333333332,0</coordinates></Point></Placemark><Placemark><name>IPHL - IPPIA HILL</name><description>State: NT</description><Point><coordinates>133.05,-25.116666666666667,0</coordinates></Point></Placemark><Placemark><name>JAC - JACKO'S JUNCTION</name><description>State: NT</description><Point><coordinates>131.03666666666666,-12.263333333333334,0</coordinates></Point></Placemark><Placemark><name>JCK - JAY CREEK</name><description>State: NT</description><Point><coordinates>133.5,-23.78666666666667,0</coordinates></Point></Placemark><Placemark><name>JES - JESSIE GAP</name><description>State: NT</description><Point><coordinates>134.01805555555558,-23.748611111111114,0</coordinates></Point></Placemark><Placemark><name>KTG - KOOLATONG RIVER</name><description>State: NT</description><Point><coordinates>135.65,-13.083333333333334,0</coordinates></Point></Placemark><Placemark><name>LKAD - LAKE AMADEUS</name><description>State: NT</description><Point><coordinates>130.46166666666664,-24.58,0</coordinates></Point></Placemark><Placemark><name>LAD - LAKE DEANE</name><description>State: NT</description><Point><coordinates>131.01666666666668,-12.733333333333333,0</coordinates></Point></Placemark><Placemark><name>LFS - LAKE FINNISS</name><description>State: NT</description><Point><coordinates>131.475,-12.380555555555556,0</coordinates></Point></Placemark><Placemark><name>LKNL - LAKE NEALE</name><description>State: NT</description><Point><coordinates>129.96638888888887,-24.247222222222224,0</coordinates></Point></Placemark><Placemark><name>LSPR - LAKE SURPRISE</name><description>State: NT</description><Point><coordinates>131.8,-20.233333333333334,0</coordinates></Point></Placemark><Placemark><name>WITE - LAKE WHITE</name><description>State: NT</description><Point><coordinates>129.05,-21.1,0</coordinates></Point></Placemark><Placemark><name>LWG - LAWRENCE GORGE</name><description>State: NT</description><Point><coordinates>133.40833333333333,-24.016666666666666,0</coordinates></Point></Placemark><Placemark><name>LPT - LEE PT</name><description>State: NT</description><Point><coordinates>130.9,-12.333333333333334,0</coordinates></Point></Placemark><Placemark><name>MADO - MANDORAH</name><description>State: NT</description><Point><coordinates>130.76111111111112,-12.441666666666666,0</coordinates></Point></Placemark><Placemark><name>MTD - MANTON DAM</name><description>State: NT</description><Point><coordinates>131.125,-12.85,0</coordinates></Point></Placemark><Placemark><name>MIJ - MINJILANG</name><description>State: NT</description><Point><coordinates>132.58055555555555,-11.148333333333333,0</coordinates></Point></Placemark><Placemark><name>MBST - MOUNT BENSTEAD</name><description>State: NT</description><Point><coordinates>134.275,-23.566666666666666,0</coordinates></Point></Placemark><Placemark><name>MTKI - MOUNT KINGSTON</name><description>State: NT</description><Point><coordinates>133.63333333333333,-25.433333333333334,0</coordinates></Point></Placemark><Placemark><name>MLUY - MOUNT LUCY</name><description>State: NT</description><Point><coordinates>133.53333333333333,-22.6,0</coordinates></Point></Placemark><Placemark><name>OOR - MOUNT OORAMINNA</name><description>State: NT</description><Point><coordinates>134.00277777777777,-24.091666666666665,0</coordinates></Point></Placemark><Placemark><name>MUO - MOUNT UNDOOLYA</name><description>State: NT</description><Point><coordinates>134.10277777777776,-23.73888888888889,0</coordinates></Point></Placemark><Placemark><name>OWS - OWEN SPRINGS</name><description>State: NT</description><Point><coordinates>133.47222222222223,-23.875,0</coordinates></Point></Placemark><Placemark><name>FAW - PT FAWCETT</name><description>State: NT</description><Point><coordinates>130.01666666666668,-11.8,0</coordinates></Point></Placemark><Placemark><name>RENR - RENNER SPRINGS</name><description>State: NT</description><Point><coordinates>133.8,-18.316666666666666,0</coordinates></Point></Placemark><Placemark><name>RESC - RESEARCH CENTRE</name><description>State: NT</description><Point><coordinates>131.9363888888889,-14.780833333333334,0</coordinates></Point></Placemark><Placemark><name>STT - SANTA TERESA</name><description>State: NT</description><Point><coordinates>134.3727777777778,-24.133333333333333,0</coordinates></Point></Placemark><Placemark><name>STC - SCOTT CREEK</name><description>State: NT</description><Point><coordinates>131.83333333333334,-14.833333333333334,0</coordinates></Point></Placemark><Placemark><name>SHCR - SHAW CREEK</name><description>State: NT</description><Point><coordinates>129.72972222222222,-25.216666666666665,0</coordinates></Point></Placemark><Placemark><name>SSG - SIMPSONS GAP</name><description>State: NT</description><Point><coordinates>133.71666666666667,-23.679166666666667,0</coordinates></Point></Placemark><Placemark><name>STR - SOUTHPORT ROAD</name><description>State: NT</description><Point><coordinates>130.775,-12.65,0</coordinates></Point></Placemark><Placemark><name>STPK - STEPHENSONS PEAK</name><description>State: NT</description><Point><coordinates>130.18333333333334,-25.5,0</coordinates></Point></Placemark><Placemark><name>TCH - TALC HEAD</name><description>State: NT</description><Point><coordinates>130.76666666666668,-12.479166666666666,0</coordinates></Point></Placemark><Placemark><name>TTLE - TURTLE PT</name><description>State: NT</description><Point><coordinates>129.25,-14.85,0</coordinates></Point></Placemark><Placemark><name>UNDW - UNDEMOW WATERHOLE</name><description>State: NT</description><Point><coordinates>135.25,-17.583333333333332,0</coordinates></Point></Placemark><Placemark><name>WAYS - WAYSIDE</name><description>State: NT</description><Point><coordinates>131.0402777777778,-15.575555555555555,0</coordinates></Point></Placemark><Placemark><name>WSM - WEST ARM</name><description>State: NT</description><Point><coordinates>130.7888888888889,-12.55,0</coordinates></Point></Placemark><Placemark><name>WIKP - WICKHAM PT</name><description>State: NT</description><Point><coordinates>130.86083333333332,-12.504444444444445,0</coordinates></Point></Placemark><Placemark><name>WILE - WILLEROO</name><description>State: NT</description><Point><coordinates>131.56555555555556,-15.28361111111111,0</coordinates></Point></Placemark></Document></kml>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>KNO - ABEAM KUNOTH</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.55,-23.541666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ADB - ADELAIDE RIVER BRIDGE</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.33333333333334,-12.658333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ADRM - ADELAIDE RIVER MOUTH</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.2433333333333,-12.218333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AWP - ARROWSMITH PT</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>136.45,-13.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BTI - BATHURST ISLAND</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.61666666666667,-11.766388888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BSP - BOND SPRINGS</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.85,-23.516666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BUCN - BUCHANAN HILLS</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.08333333333334,-18.9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BYNO - BYNOE HARBOUR</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.68333333333334,-12.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CGR - CAPE GAMBIER</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.96666666666667,-11.93888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CAKE - CAPE KEITH</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.46666666666667,-11.616666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CTT - CASTLE PT</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.275,-12.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHI - CHANNEL ISLAND</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.86666666666667,-12.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHAP - CHARLES PT</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.61805555555557,-12.382777777777779,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DLMO - DALMORE DOWNS</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>136.00166666666667,-19.775,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DND - DARWIN RIVER DAM</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.96666666666667,-12.825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DPW - DEEP WELL</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>134.05,-24.358333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DVM - DEVILS MARBLES</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>134.25,-20.533333333333335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EAM - EAST ARM</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.93333333333334,-12.516666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ETP - EAST PT</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.81666666666666,-12.408333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ERB - ELIZABETH RIVER BRIDGE</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.975,-12.543055555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EMY - EMILY GAP</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.9425,-23.739444444444445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EWI - EWANINGA</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.93333333333334,-23.983333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FLDI - FIELD ISLAND</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>132.38333333333333,-12.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GWTR - GAOL WATER TOWER</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.8,-23.858333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GUP - GUNN PT</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.99166666666665,-12.183333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HPI - HOPE INLET</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.01666666666668,-12.327777777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HORD - HORDERN HILLS</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.31666666666666,-20.65,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HGR - HUGH RIVER</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.43333333333334,-24.35,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IDNA - INDIANA</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>135.43333333333334,-23.333333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IPHL - IPPIA HILL</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.05,-25.116666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JAC - JACKO'S JUNCTION</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.03666666666666,-12.263333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JCK - JAY CREEK</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.5,-23.78666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JES - JESSIE GAP</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>134.01805555555558,-23.748611111111114,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KTG - KOOLATONG RIVER</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>135.65,-13.083333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LKAD - LAKE AMADEUS</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.46166666666664,-24.58,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAD - LAKE DEANE</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.01666666666668,-12.733333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LFS - LAKE FINNISS</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.475,-12.380555555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LKNL - LAKE NEALE</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>129.96638888888887,-24.247222222222224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LSPR - LAKE SURPRISE</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.8,-20.233333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WITE - LAKE WHITE</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>129.05,-21.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LWG - LAWRENCE GORGE</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.40833333333333,-24.016666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LPT - LEE PT</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.9,-12.333333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MADO - MANDORAH</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.76111111111112,-12.441666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTD - MANTON DAM</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.125,-12.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MIJ - MINJILANG</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>132.58055555555555,-11.148333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MBST - MOUNT BENSTEAD</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>134.275,-23.566666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTKI - MOUNT KINGSTON</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.63333333333333,-25.433333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MLUY - MOUNT LUCY</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.53333333333333,-22.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OOR - MOUNT OORAMINNA</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>134.00277777777777,-24.091666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUO - MOUNT UNDOOLYA</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>134.10277777777776,-23.73888888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OWS - OWEN SPRINGS</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.47222222222223,-23.875,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FAW - PT FAWCETT</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.01666666666668,-11.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RENR - RENNER SPRINGS</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.8,-18.316666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RESC - RESEARCH CENTRE</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.9363888888889,-14.780833333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>STT - SANTA TERESA</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>134.3727777777778,-24.133333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>STC - SCOTT CREEK</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.83333333333334,-14.833333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SHCR - SHAW CREEK</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>129.72972222222222,-25.216666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SSG - SIMPSONS GAP</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>133.71666666666667,-23.679166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>STR - SOUTHPORT ROAD</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.775,-12.65,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>STPK - STEPHENSONS PEAK</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.18333333333334,-25.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TCH - TALC HEAD</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.76666666666668,-12.479166666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TTLE - TURTLE PT</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>129.25,-14.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UNDW - UNDEMOW WATERHOLE</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>135.25,-17.583333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WAYS - WAYSIDE</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.0402777777778,-15.575555555555555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WSM - WEST ARM</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.7888888888889,-12.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WIKP - WICKHAM PT</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>130.86083333333332,-12.504444444444445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WILE - WILLEROO</name>
+      <description>State: NT</description>
+      <Point>
+        <coordinates>131.56555555555556,-15.28361111111111,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

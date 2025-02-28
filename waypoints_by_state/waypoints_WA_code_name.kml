@@ -1,2 +1,719 @@
-<?xml version='1.0' encoding='utf-8'?>
-<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>ABKL - ABM KILTO</name><description>State: WA</description><Point><coordinates>122.73527777777778,-17.738611111111112,0</coordinates></Point></Placemark><Placemark><name>ADWD - ADVENTURE WORLD</name><description>State: WA</description><Point><coordinates>115.81777777777778,-32.09527777777778,0</coordinates></Point></Placemark><Placemark><name>AKMW - ALKIMOS WATER</name><description>State: WA</description><Point><coordinates>115.67666666666668,-31.613611111111112,0</coordinates></Point></Placemark><Placemark><name>ANPL - ANNA PLAINS</name><description>State: WA</description><Point><coordinates>121.51666666666667,-19.266666666666666,0</coordinates></Point></Placemark><Placemark><name>SHOP - ARMADALE SHOPS</name><description>State: WA</description><Point><coordinates>116.01583333333333,-32.14833333333333,0</coordinates></Point></Placemark><Placemark><name>BKRL - BAKER LAKE</name><description>State: WA</description><Point><coordinates>125.97972222222222,-26.711111111111112,0</coordinates></Point></Placemark><Placemark><name>BARB - BARBAGALLO RACEWAY</name><description>State: WA</description><Point><coordinates>115.78333333333333,-31.666666666666668,0</coordinates></Point></Placemark><Placemark><name>BHCP - BARN HILL CARAVAN PARK</name><description>State: WA</description><Point><coordinates>122.04055555555556,-18.36861111111111,0</coordinates></Point></Placemark><Placemark><name>BOAT - BOATYARD</name><description>State: WA</description><Point><coordinates>115.76583333333333,-32.150555555555556,0</coordinates></Point></Placemark><Placemark><name>BODD - BODDINGTON</name><description>State: WA</description><Point><coordinates>116.46666666666667,-32.8,0</coordinates></Point></Placemark><Placemark><name>BTON - BROOKTON</name><description>State: WA</description><Point><coordinates>117.01666666666667,-32.36666666666667,0</coordinates></Point></Placemark><Placemark><name>BUB - BURNS BEACH</name><description>State: WA</description><Point><coordinates>115.71666666666667,-31.72833333333333,0</coordinates></Point></Placemark><Placemark><name>BYFD - BYFORD</name><description>State: WA</description><Point><coordinates>116.03333333333333,-32.21666666666667,0</coordinates></Point></Placemark><Placemark><name>CNB - CANNING BRIDGE</name><description>State: WA</description><Point><coordinates>115.85,-32.01,0</coordinates></Point></Placemark><Placemark><name>CDM - CANNING DAM</name><description>State: WA</description><Point><coordinates>116.125,-32.15416666666667,0</coordinates></Point></Placemark><Placemark><name>CMB - CAPE LAMBERT</name><description>State: WA</description><Point><coordinates>117.18333333333334,-20.593333333333334,0</coordinates></Point></Placemark><Placemark><name>CPHE - CAPE RICHE</name><description>State: WA</description><Point><coordinates>118.76666666666667,-34.6,0</coordinates></Point></Placemark><Placemark><name>CYB - CITY BEACH</name><description>State: WA</description><Point><coordinates>115.75,-31.941666666666666,0</coordinates></Point></Placemark><Placemark><name>COSS - COSSACK</name><description>State: WA</description><Point><coordinates>117.19,-20.67666666666667,0</coordinates></Point></Placemark><Placemark><name>CTE - COTTESLOE</name><description>State: WA</description><Point><coordinates>115.75,-31.991666666666667,0</coordinates></Point></Placemark><Placemark><name>DGY - DE GREY HS</name><description>State: WA</description><Point><coordinates>119.16944444444445,-20.175,0</coordinates></Point></Placemark><Placemark><name>FDL - FORRESTDALE LAKE</name><description>State: WA</description><Point><coordinates>115.93055555555556,-32.15972222222222,0</coordinates></Point></Placemark><Placemark><name>FFLD - FORRESTFIELD</name><description>State: WA</description><Point><coordinates>116.01777777777778,-31.988611111111112,0</coordinates></Point></Placemark><Placemark><name>FRE - FREMANTLE</name><description>State: WA</description><Point><coordinates>115.74166666666667,-32.05833333333333,0</coordinates></Point></Placemark><Placemark><name>FREM - FREMANTLE GOLF COURSE</name><description>State: WA</description><Point><coordinates>115.77361111111111,-32.05472222222222,0</coordinates></Point></Placemark><Placemark><name>GRHL - GREEN HILLS</name><description>State: WA</description><Point><coordinates>116.95833333333334,-31.925,0</coordinates></Point></Placemark><Placemark><name>HARV - HARVEY</name><description>State: WA</description><Point><coordinates>115.9,-33.083333333333336,0</coordinates></Point></Placemark><Placemark><name>HRR - HELENA RIVER RESV</name><description>State: WA</description><Point><coordinates>116.22666666666667,-32.00138888888889,0</coordinates></Point></Placemark><Placemark><name>HKE - HERDSMAN LAKE</name><description>State: WA</description><Point><coordinates>115.81388888888888,-31.92027777777778,0</coordinates></Point></Placemark><Placemark><name>HDP - HOOD PT</name><description>State: WA</description><Point><coordinates>119.56666666666666,-34.38333333333333,0</coordinates></Point></Placemark><Placemark><name>HZWF - HORIZONTAL WATERFALLS</name><description>State: WA</description><Point><coordinates>123.96666666666667,-16.383333333333333,0</coordinates></Point></Placemark><Placemark><name>HYDN - HYDEN</name><description>State: WA</description><Point><coordinates>118.86666666666666,-32.45,0</coordinates></Point></Placemark><Placemark><name>IND - INDEE HS</name><description>State: WA</description><Point><coordinates>118.59166666666667,-20.78611111111111,0</coordinates></Point></Placemark><Placemark><name>ISB - ISRAELITE BAY</name><description>State: WA</description><Point><coordinates>123.88333333333334,-33.61666666666667,0</coordinates></Point></Placemark><Placemark><name>JACW - JACOB'S WELL</name><description>State: WA</description><Point><coordinates>117.2,-32.03333333333333,0</coordinates></Point></Placemark><Placemark><name>JMPP - JAMES PRICE POINT</name><description>State: WA</description><Point><coordinates>122.14361111111111,-17.485,0</coordinates></Point></Placemark><Placemark><name>JADL - JARRAHDALE</name><description>State: WA</description><Point><coordinates>116.075,-32.34,0</coordinates></Point></Placemark><Placemark><name>KDBF - KIDSON BLUFF</name><description>State: WA</description><Point><coordinates>125.03333333333333,-22.25,0</coordinates></Point></Placemark><Placemark><name>KLTO - KILTO</name><description>State: WA</description><Point><coordinates>122.71361111111112,-17.691388888888888,0</coordinates></Point></Placemark><Placemark><name>KCAS - KING CASCADES</name><description>State: WA</description><Point><coordinates>125.3,-15.625,0</coordinates></Point></Placemark><Placemark><name>LDAP - LAKE DISAPPOINTMENT</name><description>State: WA</description><Point><coordinates>122.66666666666667,-23.5,0</coordinates></Point></Placemark><Placemark><name>LKIM - LAKE ILMA</name><description>State: WA</description><Point><coordinates>127.76666666666667,-29.25,0</coordinates></Point></Placemark><Placemark><name>LKG - LAKE KING</name><description>State: WA</description><Point><coordinates>119.66666666666667,-33.083333333333336,0</coordinates></Point></Placemark><Placemark><name>LMWL - LAKE MINIGWAL</name><description>State: WA</description><Point><coordinates>123.16666666666667,-29.583333333333332,0</coordinates></Point></Placemark><Placemark><name>LRID - LAKE RAESIDE</name><description>State: WA</description><Point><coordinates>122.3,-29.55,0</coordinates></Point></Placemark><Placemark><name>LRAN - LAKE RASON</name><description>State: WA</description><Point><coordinates>124.28333333333333,-28.666666666666668,0</coordinates></Point></Placemark><Placemark><name>LTL - LAKE THROSSELL</name><description>State: WA</description><Point><coordinates>124.08333333333333,-27.633333333333333,0</coordinates></Point></Placemark><Placemark><name>LYEO - LAKE YEO</name><description>State: WA</description><Point><coordinates>124.55166666666666,-28.05138888888889,0</coordinates></Point></Placemark><Placemark><name>LANC - LANCELIN TOWNSHIP</name><description>State: WA</description><Point><coordinates>115.32833333333333,-31.01861111111111,0</coordinates></Point></Placemark><Placemark><name>LSDW - LANSDOWNE</name><description>State: WA</description><Point><coordinates>126.74333333333334,-17.615000000000002,0</coordinates></Point></Placemark><Placemark><name>MDU - MANDURAH</name><description>State: WA</description><Point><coordinates>115.72166666666666,-32.53,0</coordinates></Point></Placemark><Placemark><name>MAYL - MAYLANDS POLICE ACADEMY</name><description>State: WA</description><Point><coordinates>115.90333333333334,-31.946666666666665,0</coordinates></Point></Placemark><Placemark><name>MIAR - MIAREE POOL BRIDGE</name><description>State: WA</description><Point><coordinates>116.61,-20.85,0</coordinates></Point></Placemark><Placemark><name>MSTM - MILLSTREAM STN</name><description>State: WA</description><Point><coordinates>117.06666666666666,-21.616666666666667,0</coordinates></Point></Placemark><Placemark><name>MTK - MOUNT COOKE</name><description>State: WA</description><Point><coordinates>116.30666666666666,-32.416666666666664,0</coordinates></Point></Placemark><Placemark><name>MUE - MOUNT DALE</name><description>State: WA</description><Point><coordinates>116.29666666666667,-32.126666666666665,0</coordinates></Point></Placemark><Placemark><name>MDY - MOUNT DAY</name><description>State: WA</description><Point><coordinates>120.5,-32.13333333333333,0</coordinates></Point></Placemark><Placemark><name>MEV - MOUNT EVERARD</name><description>State: WA</description><Point><coordinates>125.06666666666666,-25.183333333333334,0</coordinates></Point></Placemark><Placemark><name>MJK - MOUNT JACKSON HS</name><description>State: WA</description><Point><coordinates>119.1,-30.2,0</coordinates></Point></Placemark><Placemark><name>MUSD - MOUNT SYDNEY</name><description>State: WA</description><Point><coordinates>121.2,-21.4,0</coordinates></Point></Placemark><Placemark><name>MVO - MOUNT VERNON HS</name><description>State: WA</description><Point><coordinates>118.23333333333333,-24.233333333333334,0</coordinates></Point></Placemark><Placemark><name>MWK - MOUNT WILKIE</name><description>State: WA</description><Point><coordinates>116.41833333333334,-20.951666666666664,0</coordinates></Point></Placemark><Placemark><name>MUP - MULLALOO PT</name><description>State: WA</description><Point><coordinates>115.72500000000001,-31.808333333333334,0</coordinates></Point></Placemark><Placemark><name>MWR - MUNDARING WEIR</name><description>State: WA</description><Point><coordinates>116.15833333333335,-31.954166666666666,0</coordinates></Point></Placemark><Placemark><name>NORT - NORTH LAKE</name><description>State: WA</description><Point><coordinates>115.8236111111111,-32.07666666666667,0</coordinates></Point></Placemark><Placemark><name>OAKF - OAKFORD</name><description>State: WA</description><Point><coordinates>115.92500000000001,-32.20333333333333,0</coordinates></Point></Placemark><Placemark><name>OBC - OBSERVATION CITY</name><description>State: WA</description><Point><coordinates>115.755,-31.894444444444446,0</coordinates></Point></Placemark><Placemark><name>OVL - OVERLANDER</name><description>State: WA</description><Point><coordinates>114.46666666666667,-26.4,0</coordinates></Point></Placemark><Placemark><name>PVS - PERCIVAL LAKES</name><description>State: WA</description><Point><coordinates>124.16000000000001,-21.58,0</coordinates></Point></Placemark><Placemark><name>PCTY - PERTH CITY</name><description>State: WA</description><Point><coordinates>115.85694444444444,-31.954444444444444,0</coordinates></Point></Placemark><Placemark><name>PIB - PICKERING BROOK GOLF COURSE</name><description>State: WA</description><Point><coordinates>116.11166666666666,-32.0375,0</coordinates></Point></Placemark><Placemark><name>PING - PINGARING</name><description>State: WA</description><Point><coordinates>118.625,-32.75833333333333,0</coordinates></Point></Placemark><Placemark><name>POWR - POWERHOUSE</name><description>State: WA</description><Point><coordinates>115.75666666666666,-32.09527777777778,0</coordinates></Point></Placemark><Placemark><name>PRES - PRESCOTT LAKES</name><description>State: WA</description><Point><coordinates>125.16666666666667,-20.75,0</coordinates></Point></Placemark><Placemark><name>PMPH - PUMPHREY'S BRIDGE</name><description>State: WA</description><Point><coordinates>116.9,-32.666666666666664,0</coordinates></Point></Placemark><Placemark><name>REDC - REDCLIFFE BRIDGE</name><description>State: WA</description><Point><coordinates>115.93833333333333,-31.93,0</coordinates></Point></Placemark><Placemark><name>ROHM - ROCKINGHAM</name><description>State: WA</description><Point><coordinates>115.74138888888889,-32.29194444444444,0</coordinates></Point></Placemark><Placemark><name>RLY - ROLEYSTONE</name><description>State: WA</description><Point><coordinates>116.075,-32.11666666666667,0</coordinates></Point></Placemark><Placemark><name>RUSS - RUSSELL</name><description>State: WA</description><Point><coordinates>116.00888888888889,-32.186388888888885,0</coordinates></Point></Placemark><Placemark><name>SWY - SAWYERS VALLEY</name><description>State: WA</description><Point><coordinates>116.20416666666667,-31.904166666666665,0</coordinates></Point></Placemark><Placemark><name>SEL - SHELLEY BRIDGE</name><description>State: WA</description><Point><coordinates>115.9,-32.025,0</coordinates></Point></Placemark><Placemark><name>SLY - STRELLEY HS</name><description>State: WA</description><Point><coordinates>118.98333333333333,-20.441666666666666,0</coordinates></Point></Placemark><Placemark><name>TLMI - THE LAKES MINE</name><description>State: WA</description><Point><coordinates>116.35833333333333,-31.865000000000002,0</coordinates></Point></Placemark><Placemark><name>TOML - THOMSONS LAKE</name><description>State: WA</description><Point><coordinates>115.835,-32.151666666666664,0</coordinates></Point></Placemark><Placemark><name>TMPT - TOM PRICE</name><description>State: WA</description><Point><coordinates>117.79166666666667,-22.695,0</coordinates></Point></Placemark><Placemark><name>TOWA - TOWRANA HS</name><description>State: WA</description><Point><coordinates>115.23333333333333,-25.433333333333334,0</coordinates></Point></Placemark><Placemark><name>TOS - TWO ROCKS</name><description>State: WA</description><Point><coordinates>115.58333333333333,-31.491666666666667,0</coordinates></Point></Placemark><Placemark><name>USW - UPPER SWAN</name><description>State: WA</description><Point><coordinates>116.01666666666667,-31.771666666666665,0</coordinates></Point></Placemark><Placemark><name>VPH - VPH</name><description>State: WA</description><Point><coordinates>115.95916666666668,-31.945,0</coordinates></Point></Placemark><Placemark><name>WPE - WALPOLE</name><description>State: WA</description><Point><coordinates>116.73333333333333,-34.983333333333334,0</coordinates></Point></Placemark><Placemark><name>WAND - WANDERING</name><description>State: WA</description><Point><coordinates>116.66666666666667,-32.675,0</coordinates></Point></Placemark><Placemark><name>WRNA - WAROONA</name><description>State: WA</description><Point><coordinates>115.91666666666667,-32.84166666666667,0</coordinates></Point></Placemark><Placemark><name>WHM - WHIM CREEK</name><description>State: WA</description><Point><coordinates>117.83333333333333,-20.833333333333332,0</coordinates></Point></Placemark><Placemark><name>WICK - WILLIE CREEK</name><description>State: WA</description><Point><coordinates>122.20833333333334,-17.75,0</coordinates></Point></Placemark><Placemark><name>WTHB - WITHNELL BAY</name><description>State: WA</description><Point><coordinates>116.78666666666666,-20.58,0</coordinates></Point></Placemark><Placemark><name>WBK - WOODBROOK</name><description>State: WA</description><Point><coordinates>117.11666666666666,-20.91111111111111,0</coordinates></Point></Placemark><Placemark><name>WMP - WOODMAN PT</name><description>State: WA</description><Point><coordinates>115.73333333333333,-32.141666666666666,0</coordinates></Point></Placemark><Placemark><name>WUN - WUNDOWIE</name><description>State: WA</description><Point><coordinates>116.37666666666667,-31.766666666666666,0</coordinates></Point></Placemark><Placemark><name>WUNG - WUNGONG RESERVOIR</name><description>State: WA</description><Point><coordinates>116.06277777777777,-32.20166666666667,0</coordinates></Point></Placemark><Placemark><name>YGB - YANGEBUP LAKE</name><description>State: WA</description><Point><coordinates>115.83333333333333,-32.12027777777778,0</coordinates></Point></Placemark><Placemark><name>ORKT - YORK TOWNSHIP</name><description>State: WA</description><Point><coordinates>116.76666666666667,-31.883333333333333,0</coordinates></Point></Placemark><Placemark><name>ORNN - YORNANING TOWNSHIP</name><description>State: WA</description><Point><coordinates>117.16666666666667,-32.733333333333334,0</coordinates></Point></Placemark></Document></kml>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>ABKL - ABM KILTO</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>122.73527777777778,-17.738611111111112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ADWD - ADVENTURE WORLD</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.81777777777778,-32.09527777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AKMW - ALKIMOS WATER</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.67666666666668,-31.613611111111112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ANPL - ANNA PLAINS</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>121.51666666666667,-19.266666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SHOP - ARMADALE SHOPS</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.01583333333333,-32.14833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BKRL - BAKER LAKE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>125.97972222222222,-26.711111111111112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BARB - BARBAGALLO RACEWAY</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.78333333333333,-31.666666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BHCP - BARN HILL CARAVAN PARK</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>122.04055555555556,-18.36861111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BOAT - BOATYARD</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.76583333333333,-32.150555555555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BODD - BODDINGTON</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.46666666666667,-32.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BTON - BROOKTON</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>117.01666666666667,-32.36666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BUB - BURNS BEACH</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.71666666666667,-31.72833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BYFD - BYFORD</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.03333333333333,-32.21666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CNB - CANNING BRIDGE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.85,-32.01,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CDM - CANNING DAM</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.125,-32.15416666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CMB - CAPE LAMBERT</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>117.18333333333334,-20.593333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CPHE - CAPE RICHE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>118.76666666666667,-34.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CYB - CITY BEACH</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.75,-31.941666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>COSS - COSSACK</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>117.19,-20.67666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CTE - COTTESLOE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.75,-31.991666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DGY - DE GREY HS</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>119.16944444444445,-20.175,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FDL - FORRESTDALE LAKE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.93055555555556,-32.15972222222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FFLD - FORRESTFIELD</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.01777777777778,-31.988611111111112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FRE - FREMANTLE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.74166666666667,-32.05833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FREM - FREMANTLE GOLF COURSE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.77361111111111,-32.05472222222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GRHL - GREEN HILLS</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.95833333333334,-31.925,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HARV - HARVEY</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.9,-33.083333333333336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HRR - HELENA RIVER RESV</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.22666666666667,-32.00138888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HKE - HERDSMAN LAKE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.81388888888888,-31.92027777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HDP - HOOD PT</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>119.56666666666666,-34.38333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HZWF - HORIZONTAL WATERFALLS</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>123.96666666666667,-16.383333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HYDN - HYDEN</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>118.86666666666666,-32.45,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IND - INDEE HS</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>118.59166666666667,-20.78611111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ISB - ISRAELITE BAY</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>123.88333333333334,-33.61666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JACW - JACOB'S WELL</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>117.2,-32.03333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JMPP - JAMES PRICE POINT</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>122.14361111111111,-17.485,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JADL - JARRAHDALE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.075,-32.34,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KDBF - KIDSON BLUFF</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>125.03333333333333,-22.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KLTO - KILTO</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>122.71361111111112,-17.691388888888888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KCAS - KING CASCADES</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>125.3,-15.625,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LDAP - LAKE DISAPPOINTMENT</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>122.66666666666667,-23.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LKIM - LAKE ILMA</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>127.76666666666667,-29.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LKG - LAKE KING</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>119.66666666666667,-33.083333333333336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LMWL - LAKE MINIGWAL</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>123.16666666666667,-29.583333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LRID - LAKE RAESIDE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>122.3,-29.55,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LRAN - LAKE RASON</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>124.28333333333333,-28.666666666666668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LTL - LAKE THROSSELL</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>124.08333333333333,-27.633333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LYEO - LAKE YEO</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>124.55166666666666,-28.05138888888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LANC - LANCELIN TOWNSHIP</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.32833333333333,-31.01861111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LSDW - LANSDOWNE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>126.74333333333334,-17.615000000000002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MDU - MANDURAH</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.72166666666666,-32.53,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAYL - MAYLANDS POLICE ACADEMY</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.90333333333334,-31.946666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MIAR - MIAREE POOL BRIDGE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.61,-20.85,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MSTM - MILLSTREAM STN</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>117.06666666666666,-21.616666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MTK - MOUNT COOKE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.30666666666666,-32.416666666666664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUE - MOUNT DALE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.29666666666667,-32.126666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MDY - MOUNT DAY</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>120.5,-32.13333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MEV - MOUNT EVERARD</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>125.06666666666666,-25.183333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MJK - MOUNT JACKSON HS</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>119.1,-30.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSD - MOUNT SYDNEY</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>121.2,-21.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MVO - MOUNT VERNON HS</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>118.23333333333333,-24.233333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MWK - MOUNT WILKIE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.41833333333334,-20.951666666666664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUP - MULLALOO PT</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.72500000000001,-31.808333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MWR - MUNDARING WEIR</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.15833333333335,-31.954166666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NORT - NORTH LAKE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.8236111111111,-32.07666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OAKF - OAKFORD</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.92500000000001,-32.20333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OBC - OBSERVATION CITY</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.755,-31.894444444444446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OVL - OVERLANDER</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>114.46666666666667,-26.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PVS - PERCIVAL LAKES</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>124.16000000000001,-21.58,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PCTY - PERTH CITY</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.85694444444444,-31.954444444444444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PIB - PICKERING BROOK GOLF COURSE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.11166666666666,-32.0375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PING - PINGARING</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>118.625,-32.75833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>POWR - POWERHOUSE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.75666666666666,-32.09527777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PRES - PRESCOTT LAKES</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>125.16666666666667,-20.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PMPH - PUMPHREY'S BRIDGE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.9,-32.666666666666664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>REDC - REDCLIFFE BRIDGE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.93833333333333,-31.93,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ROHM - ROCKINGHAM</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.74138888888889,-32.29194444444444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RLY - ROLEYSTONE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.075,-32.11666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RUSS - RUSSELL</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.00888888888889,-32.186388888888885,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SWY - SAWYERS VALLEY</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.20416666666667,-31.904166666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SEL - SHELLEY BRIDGE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.9,-32.025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SLY - STRELLEY HS</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>118.98333333333333,-20.441666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TLMI - THE LAKES MINE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.35833333333333,-31.865000000000002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TOML - THOMSONS LAKE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.835,-32.151666666666664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TMPT - TOM PRICE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>117.79166666666667,-22.695,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TOWA - TOWRANA HS</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.23333333333333,-25.433333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TOS - TWO ROCKS</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.58333333333333,-31.491666666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>USW - UPPER SWAN</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.01666666666667,-31.771666666666665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VPH - VPH</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.95916666666668,-31.945,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WPE - WALPOLE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.73333333333333,-34.983333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WAND - WANDERING</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.66666666666667,-32.675,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WRNA - WAROONA</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.91666666666667,-32.84166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WHM - WHIM CREEK</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>117.83333333333333,-20.833333333333332,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WICK - WILLIE CREEK</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>122.20833333333334,-17.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WTHB - WITHNELL BAY</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.78666666666666,-20.58,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WBK - WOODBROOK</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>117.11666666666666,-20.91111111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WMP - WOODMAN PT</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.73333333333333,-32.141666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WUN - WUNDOWIE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.37666666666667,-31.766666666666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WUNG - WUNGONG RESERVOIR</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.06277777777777,-32.20166666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YGB - YANGEBUP LAKE</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>115.83333333333333,-32.12027777777778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORKT - YORK TOWNSHIP</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>116.76666666666667,-31.883333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORNN - YORNANING TOWNSHIP</name>
+      <description>State: WA</description>
+      <Point>
+        <coordinates>117.16666666666667,-32.733333333333334,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
