@@ -22,7 +22,7 @@ Many official AIP documents provide waypoints in **PDF format**, which is diffic
    pip install pdfplumber pandas
 
 ## **Usage**
-1. **Obtain the Waypoints from AIP ERSA VFR - GEN** (from official sources).
+1. **Obtain the Waypoints from AIP ERSA VFR - GEN** (from official sources). An example of the expected data is included as a PDF in this repo.
 2. **Ensure the file contains VFR waypoints** in the expected format. Use only the VFR Waypoints page of AIP, don't try and parse any other section of the document.
 3. **Run the script**:
    ```bash
